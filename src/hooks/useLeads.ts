@@ -2,14 +2,38 @@ import { useState, useEffect, useMemo } from "react";
 import { Lead, LeadStatus, InterestLevel, LeadFiltersState, DashboardMetrics } from "@/types/lead";
 import { INITIAL_LEADS } from "@/data/masterLeads";
 
-const STORAGE_KEY = "cultura_builder_leads_v1";
+const STORAGE_KEY = "cultura_builder_leads_v2";
 
 export function useLeads() {
   const [leads, setLeads] = useState<Lead[]>(() => {
     try {
-      const saved = localStorage.getItem(STORAGE_KEY);
-      if (saved) {
-        return JSON.parse(saved);
+      // 1. Tentar ler da v2
+      let savedStr = localStorage.getItem(STORAGE_KEY);
+      
+      // 2. Se não tiver v2, tentar migrar da v1
+      if (!savedStr) {
+        const v1Str = localStorage.getItem("cultura_builder_leads_v1");
+        if (v1Str) {
+          savedStr = v1Str;
+        }
+      }
+
+      if (savedStr) {
+        const saved: Lead[] = JSON.parse(savedStr);
+        // Garantir que todos os leads novos da base inicial sejam incluídos
+        const savedIds = new Set(saved.map((l) => l.id));
+        const savedPhones = new Set(saved.map((l) => l.phoneClean));
+        
+        const missingFromInitial = INITIAL_LEADS.filter(
+          (l) => !savedIds.has(l.id) && !savedPhones.has(l.phoneClean)
+        );
+
+        if (missingFromInitial.length > 0) {
+          const merged = [...saved, ...missingFromInitial];
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(merged));
+          return merged;
+        }
+        return saved;
       }
     } catch (e) {
       console.error("Erro ao carregar leads do localStorage:", e);
@@ -164,6 +188,7 @@ export function useLeads() {
     if (window.confirm("Deseja restaurar a base para os dados originais? As alterações feitas serão substituídas.")) {
       setLeads(INITIAL_LEADS);
       localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem("cultura_builder_leads_v1");
     }
   };
 
