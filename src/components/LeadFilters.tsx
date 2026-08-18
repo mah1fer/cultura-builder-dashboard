@@ -111,6 +111,7 @@ export const LeadFilters: React.FC<LeadFiltersProps> = ({
             <option value="CALL_AGENDADA">Call Agendada</option>
             <option value="FECHADO">Venda Fechada</option>
             <option value="B2B_EMPRESAS">🏢 B2B - Empresas</option>
+            <option value="REEMBOLSO">💸 Reembolso Solicitado</option>
             <option value="SEM_RESPOSTA">Sem Resposta</option>
             <option value="BLOQUEADO">Bloqueado</option>
           </select>

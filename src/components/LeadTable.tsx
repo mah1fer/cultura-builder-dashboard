@@ -52,12 +52,19 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                   lead.batchType === "b2b" ||
                   lead.occupation.includes("B2B") ||
                   (lead.notes && lead.notes.includes("gruporap"));
+                const isReembolso =
+                  lead.status === "REEMBOLSO" ||
+                  (lead.notes && lead.notes.toLowerCase().includes("reembolso"));
 
                 return (
                   <tr
                     key={lead.id}
                     className={`hover:bg-muted/30 transition-colors group cursor-pointer ${
-                      isB2B ? "bg-violet-950/10 hover:bg-violet-950/20" : ""
+                      isB2B
+                        ? "bg-violet-950/10 hover:bg-violet-950/20"
+                        : isReembolso
+                        ? "bg-amber-950/10 hover:bg-amber-950/20"
+                        : ""
                     }`}
                     onClick={() => onSelectLead(lead)}
                   >
@@ -74,6 +81,11 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                               B2B
                             </span>
                           )}
+                          {isReembolso && (
+                            <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-300 border border-amber-500/40">
+                              💸 Reembolso
+                            </span>
+                          )}
                         </div>
                         <span className="text-muted-foreground font-mono text-[11px] mt-0.5">
                           {lead.phone}
@@ -86,7 +98,11 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                       <div className="flex flex-col">
                         <span
                           className={`text-[11px] truncate ${
-                            isB2B ? "font-semibold text-violet-300" : "font-medium text-foreground"
+                            isB2B
+                              ? "font-semibold text-violet-300"
+                              : isReembolso
+                              ? "font-semibold text-amber-300"
+                              : "font-medium text-foreground"
                           }`}
                           title={lead.occupation}
                         >
@@ -103,7 +119,11 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                       <div className="flex flex-col">
                         <span
                           className={`text-[11px] ${
-                            isB2B ? "font-semibold text-violet-300" : "font-medium text-foreground"
+                            isB2B
+                              ? "font-semibold text-violet-300"
+                              : isReembolso
+                              ? "font-semibold text-amber-300"
+                              : "font-medium text-foreground"
                           }`}
                         >
                           {lead.batch}
@@ -122,6 +142,8 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                         className={`border text-xs rounded-md px-2 py-1 focus:outline-none focus:ring-1 focus:ring-ring font-medium ${
                           lead.status === "B2B_EMPRESAS"
                             ? "bg-violet-950/50 border-violet-500/50 text-violet-200"
+                            : lead.status === "REEMBOLSO"
+                            ? "bg-amber-950/50 border-amber-500/50 text-amber-200"
                             : lead.status === "BLOQUEADO"
                             ? "bg-rose-950/40 border-rose-500/40 text-rose-300"
                             : "bg-background/80 border-input text-foreground"
@@ -133,6 +155,7 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                         <option value="CALL_AGENDADA">Call Agendada</option>
                         <option value="FECHADO">Venda Fechada</option>
                         <option value="B2B_EMPRESAS">🏢 B2B - Empresas</option>
+                        <option value="REEMBOLSO">💸 Reembolso</option>
                         <option value="SEM_RESPOSTA">Sem Resposta</option>
                         <option value="BLOQUEADO">Bloqueado</option>
                       </select>
@@ -165,7 +188,7 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                           <Eye className="h-4 w-4" />
                         </Button>
 
-                        {lead.status !== "BLOQUEADO" && lead.status !== "B2B_EMPRESAS" && (
+                        {lead.status !== "BLOQUEADO" && lead.status !== "B2B_EMPRESAS" && lead.status !== "REEMBOLSO" && (
                           <a
                             href={`https://wa.me/${lead.phoneClean}`}
                             target="_blank"

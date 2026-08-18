@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 import { Lead, LeadStatus, InterestLevel, LeadFiltersState, DashboardMetrics } from "@/types/lead";
 import { INITIAL_LEADS } from "@/data/masterLeads";
 
-const STORAGE_KEY = "cultura_builder_leads_v4";
+const STORAGE_KEY = "cultura_builder_leads_v5";
 
 function getCanonicalPhone(phone: string): string {
   let digits = (phone || "").replace(/\D/g, "");
@@ -22,10 +22,11 @@ function getCanonicalPhone(phone: string): string {
 export function useLeads() {
   const [leads, setLeads] = useState<Lead[]>(() => {
     try {
-      // 1. Tentar ler da versão atual ou de versões anteriores para preservar alterações feitas pelo usuário
+      // 1. Tentar ler da versão atual ou anteriores para preservar alterações feitas pelo usuário
       let savedStr = localStorage.getItem(STORAGE_KEY);
       if (!savedStr) {
-        savedStr = localStorage.getItem("cultura_builder_leads_v3") ||
+        savedStr = localStorage.getItem("cultura_builder_leads_v4") ||
+                   localStorage.getItem("cultura_builder_leads_v3") ||
                    localStorage.getItem("cultura_builder_leads_v2") ||
                    localStorage.getItem("cultura_builder_leads_v1");
       }
@@ -54,7 +55,6 @@ export function useLeads() {
           const userLead = userSavedMap.get(canon)!;
           const merged: Lead = {
             ...initLead,
-            // Preservar edições do usuário se ele alterou status ou interesse
             status: userLead.status !== "ENTREGUE" ? userLead.status : initLead.status,
             interest: userLead.interest !== "MEDIO" ? userLead.interest : initLead.interest,
             replied: userLead.replied || userLead.status === "RESPONDEU" || initLead.replied,
@@ -112,10 +112,11 @@ export function useLeads() {
     const b2bCount = leads.filter(
       (l) => l.status === "B2B_EMPRESAS" || l.batchType === "b2b" || l.occupation.includes("B2B")
     ).length;
+    const reembolsoCount = leads.filter((l) => l.status === "REEMBOLSO" || l.notes?.toLowerCase().includes("reembolso")).length;
     
-    // Impactados B2C (excluindo Bloqueados e B2B)
+    // Impactados B2C (excluindo Bloqueados, B2B e Reembolsos)
     const impactedLeads = leads.filter(
-      (l) => l.status !== "BLOQUEADO" && l.status !== "B2B_EMPRESAS" && l.sentAt !== null
+      (l) => l.status !== "BLOQUEADO" && l.status !== "B2B_EMPRESAS" && l.status !== "REEMBOLSO" && l.sentAt !== null
     );
     const totalImpacted = impactedLeads.length;
     
@@ -148,6 +149,7 @@ export function useLeads() {
       callsScheduledCount,
       dealsClosedCount,
       b2bCount,
+      reembolsoCount,
       batchCounts,
     };
   }, [leads]);
@@ -232,7 +234,7 @@ export function useLeads() {
   const updateLeadStatus = (id: string, status: LeadStatus) => {
     updateLead(id, {
       status,
-      replied: status !== "ENTREGUE" && status !== "SEM_RESPOSTA" && status !== "BLOQUEADO" && status !== "PENDENTE" && status !== "B2B_EMPRESAS" ? true : undefined,
+      replied: status !== "ENTREGUE" && status !== "SEM_RESPOSTA" && status !== "BLOQUEADO" && status !== "PENDENTE" && status !== "B2B_EMPRESAS" && status !== "REEMBOLSO" ? true : undefined,
     });
   };
 
@@ -248,6 +250,7 @@ export function useLeads() {
     if (window.confirm("Deseja restaurar a base para os dados originais? As alterações feitas serão substituídas.")) {
       setLeads(INITIAL_LEADS);
       localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem("cultura_builder_leads_v4");
       localStorage.removeItem("cultura_builder_leads_v3");
       localStorage.removeItem("cultura_builder_leads_v2");
       localStorage.removeItem("cultura_builder_leads_v1");

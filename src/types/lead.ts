@@ -7,7 +7,8 @@ export type LeadStatus =
   | 'SEM_RESPOSTA'
   | 'PENDENTE'
   | 'BLOQUEADO'
-  | 'B2B_EMPRESAS';
+  | 'B2B_EMPRESAS'
+  | 'REEMBOLSO';
 
 export type InterestLevel = 'ALTO' | 'MEDIO' | 'BAIXO' | 'DESQUALIFICADO';
 
@@ -58,6 +59,7 @@ export interface DashboardMetrics {
   callsScheduledCount: number;
   dealsClosedCount: number;
   b2bCount: number;
+  reembolsoCount: number;
   batchCounts: {
     lote1: number;
     tipoA: number;

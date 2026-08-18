@@ -60,6 +60,10 @@ export const LeadDrawer: React.FC<LeadDrawerProps> = ({
                 <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-xs font-bold bg-violet-500/20 text-violet-300 border border-violet-500/40">
                   🏢 B2B Empresas
                 </span>
+              ) : lead.status === "REEMBOLSO" ? (
+                <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-xs font-bold bg-amber-500/20 text-amber-300 border border-amber-500/40">
+                  💸 Reembolso
+                </span>
               ) : lead.status === "BLOQUEADO" ? (
                 <Badge variant="destructive">Bloqueado</Badge>
               ) : (
@@ -70,7 +74,7 @@ export const LeadDrawer: React.FC<LeadDrawerProps> = ({
           </div>
 
           <div className="flex items-center gap-2">
-            {lead.status !== "BLOQUEADO" && lead.status !== "B2B_EMPRESAS" && (
+            {lead.status !== "BLOQUEADO" && lead.status !== "B2B_EMPRESAS" && lead.status !== "REEMBOLSO" && (
               <a
                 href={`https://wa.me/${lead.phoneClean}`}
                 target="_blank"

@@ -3285,5 +3285,22 @@ export const INITIAL_LEADS: Lead[] = [
     "deliveredBlocks": [],
     "notes": "Adicionado via lista Painel CB",
     "dispatchedMessageIds": []
+  },
+  {
+    "id": "lead-reembolso-5511940111933",
+    "name": "Gustavo Fernandes Conceição",
+    "phone": "+55 11 94011-1933",
+    "phoneClean": "5511940111933",
+    "occupation": "Estudante",
+    "goal": "Gerar renda nova com IA",
+    "batch": "Reembolso",
+    "batchType": "bloqueado",
+    "status": "REEMBOLSO",
+    "interest": "DESQUALIFICADO",
+    "replied": false,
+    "sentAt": null,
+    "deliveredBlocks": [],
+    "notes": "Email: gucale09@outlook.com | Solicitou reembolso - Bloqueado para novas ofertas de vendas.",
+    "dispatchedMessageIds": []
   }
 ];
