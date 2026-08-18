@@ -201,11 +201,11 @@ export const INITIAL_LEADS: Lead[] = [
     "name": "Camila Rodrigues",
     "phone": "+55 11 94730-8774",
     "phoneClean": "5511947308774",
-    "occupation": "Freelancer / autônomo",
+    "occupation": "B2B - gruporap.com.br",
     "goal": "Economizar horas por semana no trabalho",
-    "batch": "Lote 2 (Novos Tipo A)",
-    "batchType": "tipo_a",
-    "status": "ENTREGUE",
+    "batch": "B2B (gruporap.com.br)",
+    "batchType": "b2b",
+    "status": "B2B_EMPRESAS",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-17T13:54:02.293Z",
@@ -227,7 +227,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Hoje você já usa IA pra alguma tarefa da sua rotina ou ainda tá começando a explorar?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
     "dispatchedMessageIds": [
       "3EB03D8D406285C4FA73FB",
       "3EB0C56FAD1A0634E0DDE7",
@@ -240,11 +240,11 @@ export const INITIAL_LEADS: Lead[] = [
     "name": "Rafaela Alcantara",
     "phone": "+55 11 97870-8045",
     "phoneClean": "5511978708045",
-    "occupation": "Profissional",
+    "occupation": "B2B - gruporap.com.br",
     "goal": "Economizar horas por semana no trabalho",
-    "batch": "Lote 2 (Novos Tipo A)",
-    "batchType": "tipo_a",
-    "status": "ENTREGUE",
+    "batch": "B2B (gruporap.com.br)",
+    "batchType": "b2b",
+    "status": "B2B_EMPRESAS",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-17T13:57:52.496Z",
@@ -266,7 +266,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já tem alguma ferramenta de IA no seu dia a dia ou ainda tá mais no início?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
     "dispatchedMessageIds": [
       "3EB0FCEB371B46EBE4A606",
       "3EB030705D3631FF990B57",
@@ -279,11 +279,11 @@ export const INITIAL_LEADS: Lead[] = [
     "name": "Isabela Meneghetti",
     "phone": "+55 11 91462-0670",
     "phoneClean": "5511914620670",
-    "occupation": "CLT em empresa",
+    "occupation": "B2B - gruporap.com.br",
     "goal": "Evoluir na carreira ou conseguir promoção",
-    "batch": "Lote 2 (Novos Tipo A)",
-    "batchType": "tipo_a",
-    "status": "ENTREGUE",
+    "batch": "B2B (gruporap.com.br)",
+    "batchType": "b2b",
+    "status": "B2B_EMPRESAS",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-17T14:01:55.227Z",
@@ -305,7 +305,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "A sua empresa já tá puxando iniciativas com IA ou é algo que tá partindo mais de você?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
     "dispatchedMessageIds": [
       "3EB062D902D1F08333EBC9",
       "3EB085EE6381425306BD9F",
@@ -396,11 +396,11 @@ export const INITIAL_LEADS: Lead[] = [
     "name": "Rodrigo Lima",
     "phone": "+55 11 99388-7615",
     "phoneClean": "5511993887615",
-    "occupation": "CLT em empresa",
+    "occupation": "B2B - gruporap.com.br",
     "goal": "Economizar horas por semana no trabalho",
-    "batch": "Lote 2 (Novos Tipo A)",
-    "batchType": "tipo_a",
-    "status": "ENTREGUE",
+    "batch": "B2B (gruporap.com.br)",
+    "batchType": "b2b",
+    "status": "B2B_EMPRESAS",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-17T14:13:41.902Z",
@@ -422,7 +422,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Hoje na sua rotina, qual é a tarefa mais repetitiva que mais consome seu tempo?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
     "dispatchedMessageIds": [
       "3EB0809FA90E2906E7E4DA",
       "3EB04517A87267B1EE6382",
@@ -963,11 +963,11 @@ export const INITIAL_LEADS: Lead[] = [
     "name": "Guilherme Leitão",
     "phone": "+5511978260925",
     "phoneClean": "5511978260925",
-    "occupation": "Profissional",
+    "occupation": "B2B - gruporap.com.br",
     "goal": "Economizar horas por semana no trabalho",
-    "batch": "Lote 1 (Oferta R.000 OFF)",
-    "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "batch": "B2B (gruporap.com.br)",
+    "batchType": "b2b",
+    "status": "B2B_EMPRESAS",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-16T15:50:17.243Z",
@@ -989,7 +989,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -999,11 +999,11 @@ export const INITIAL_LEADS: Lead[] = [
     "name": "Mariana Migotto",
     "phone": "+5511973272019",
     "phoneClean": "5511973272019",
-    "occupation": "CLT em empresa",
+    "occupation": "B2B - gruporap.com.br",
     "goal": "Economizar horas por semana no trabalho",
-    "batch": "Lote 1 (Oferta R.000 OFF)",
-    "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "batch": "B2B (gruporap.com.br)",
+    "batchType": "b2b",
+    "status": "B2B_EMPRESAS",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-16T15:54:17.256Z",
@@ -1025,7 +1025,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3274,16 +3274,16 @@ export const INITIAL_LEADS: Lead[] = [
     "name": "Contato Painel CB (Grupo Rap)",
     "phone": "+55 11 94066-9478",
     "phoneClean": "5511940669478",
-    "occupation": "Tenho meu próprio negócio",
+    "occupation": "B2B - gruporap.com.br",
     "goal": "Transformar meu negócio com IA",
-    "batch": "Painel CB (WhatsApp)",
-    "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "batch": "B2B (gruporap.com.br)",
+    "batchType": "b2b",
+    "status": "B2B_EMPRESAS",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-18T13:26:18.786Z",
     "deliveredBlocks": [],
-    "notes": "Adicionado via lista Painel CB (Grupo Rap)",
+    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
     "dispatchedMessageIds": []
   },
   {

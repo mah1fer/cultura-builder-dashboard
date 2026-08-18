@@ -6,11 +6,12 @@ export type LeadStatus =
   | 'FECHADO'
   | 'SEM_RESPOSTA'
   | 'PENDENTE'
-  | 'BLOQUEADO';
+  | 'BLOQUEADO'
+  | 'B2B_EMPRESAS';
 
 export type InterestLevel = 'ALTO' | 'MEDIO' | 'BAIXO' | 'DESQUALIFICADO';
 
-export type BatchType = 'lote_1' | 'tipo_a' | 'tipo_b' | 'bloqueado';
+export type BatchType = 'lote_1' | 'tipo_a' | 'tipo_b' | 'bloqueado' | 'b2b';
 
 export interface DeliveredBlock {
   block: number;
@@ -56,10 +57,12 @@ export interface DashboardMetrics {
   inNegotiationCount: number;
   callsScheduledCount: number;
   dealsClosedCount: number;
+  b2bCount: number;
   batchCounts: {
     lote1: number;
     tipoA: number;
     tipoB: number;
     blocked: number;
+    b2b: number;
   };
 }

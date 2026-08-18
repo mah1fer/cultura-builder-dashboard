@@ -93,13 +93,20 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                     <select
                       value={lead.status}
                       onChange={(e) => onUpdateStatus(lead.id, e.target.value as LeadStatus)}
-                      className="bg-background/80 border border-input text-xs rounded-md px-2 py-1 focus:outline-none focus:ring-1 focus:ring-ring text-foreground font-medium"
+                      className={`border text-xs rounded-md px-2 py-1 focus:outline-none focus:ring-1 focus:ring-ring font-medium ${
+                        lead.status === "B2B_EMPRESAS"
+                          ? "bg-violet-950/40 border-violet-500/40 text-violet-300"
+                          : lead.status === "BLOQUEADO"
+                          ? "bg-rose-950/40 border-rose-500/40 text-rose-300"
+                          : "bg-background/80 border-input text-foreground"
+                      }`}
                     >
                       <option value="ENTREGUE">Entregue</option>
                       <option value="RESPONDEU">Respondeu</option>
                       <option value="NEGOCIACAO">Em Negociação</option>
                       <option value="CALL_AGENDADA">Call Agendada</option>
                       <option value="FECHADO">Venda Fechada</option>
+                      <option value="B2B_EMPRESAS">🏢 B2B - Empresas</option>
                       <option value="SEM_RESPOSTA">Sem Resposta</option>
                       <option value="BLOQUEADO">Bloqueado</option>
                     </select>
@@ -132,7 +139,7 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                         <Eye className="h-4 w-4" />
                       </Button>
 
-                      {lead.status !== "BLOQUEADO" && (
+                      {lead.status !== "BLOQUEADO" && lead.status !== "B2B_EMPRESAS" && (
                         <a
                           href={`https://wa.me/${lead.phoneClean}`}
                           target="_blank"

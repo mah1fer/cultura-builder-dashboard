@@ -2,25 +2,14 @@ import { useState, useEffect, useMemo } from "react";
 import { Lead, LeadStatus, InterestLevel, LeadFiltersState, DashboardMetrics } from "@/types/lead";
 import { INITIAL_LEADS } from "@/data/masterLeads";
 
-const STORAGE_KEY = "cultura_builder_leads_v2";
+const STORAGE_KEY = "cultura_builder_leads_v3";
 
 export function useLeads() {
   const [leads, setLeads] = useState<Lead[]>(() => {
     try {
-      // 1. Tentar ler da v2
-      let savedStr = localStorage.getItem(STORAGE_KEY);
-      
-      // 2. Se não tiver v2, tentar migrar da v1
-      if (!savedStr) {
-        const v1Str = localStorage.getItem("cultura_builder_leads_v1");
-        if (v1Str) {
-          savedStr = v1Str;
-        }
-      }
-
+      const savedStr = localStorage.getItem(STORAGE_KEY);
       if (savedStr) {
         const saved: Lead[] = JSON.parse(savedStr);
-        // Garantir que todos os leads novos da base inicial sejam incluídos
         const savedIds = new Set(saved.map((l) => l.id));
         const savedPhones = new Set(saved.map((l) => l.phoneClean));
         
@@ -60,7 +49,6 @@ export function useLeads() {
     }
   }, [leads]);
 
-  // Se o lead selecionado for atualizado na lista, manter sync
   useEffect(() => {
     if (selectedLead) {
       const fresh = leads.find((l) => l.id === selectedLead.id);
@@ -73,9 +61,17 @@ export function useLeads() {
   // Métricas do Dashboard
   const metrics = useMemo<DashboardMetrics>(() => {
     const totalLeads = leads.length;
-    const impactedLeads = leads.filter((l) => l.status !== "BLOQUEADO" && l.sentAt !== null);
+    const b2bCount = leads.filter((l) => l.status === "B2B_EMPRESAS" || l.batchType === "b2b").length;
+    
+    // Impactados B2C (excluindo Bloqueados e B2B)
+    const impactedLeads = leads.filter(
+      (l) => l.status !== "BLOQUEADO" && l.status !== "B2B_EMPRESAS" && l.sentAt !== null
+    );
     const totalImpacted = impactedLeads.length;
-    const repliedLeads = leads.filter((l) => l.replied || l.status === "RESPONDEU" || l.status === "NEGOCIACAO" || l.status === "CALL_AGENDADA" || l.status === "FECHADO");
+    
+    const repliedLeads = leads.filter(
+      (l) => l.replied || l.status === "RESPONDEU" || l.status === "NEGOCIACAO" || l.status === "CALL_AGENDADA" || l.status === "FECHADO"
+    );
     const totalReplied = repliedLeads.length;
     const replyRate = totalImpacted > 0 ? (totalReplied / totalImpacted) * 100 : 0;
 
@@ -89,6 +85,7 @@ export function useLeads() {
       tipoA: leads.filter((l) => l.batchType === "tipo_a").length,
       tipoB: leads.filter((l) => l.batchType === "tipo_b").length,
       blocked: leads.filter((l) => l.batchType === "bloqueado").length,
+      b2b: b2bCount,
     };
 
     return {
@@ -100,6 +97,7 @@ export function useLeads() {
       inNegotiationCount,
       callsScheduledCount,
       dealsClosedCount,
+      b2bCount,
       batchCounts,
     };
   }, [leads]);
@@ -172,7 +170,7 @@ export function useLeads() {
   const updateLeadStatus = (id: string, status: LeadStatus) => {
     updateLead(id, {
       status,
-      replied: status !== "ENTREGUE" && status !== "SEM_RESPOSTA" && status !== "BLOQUEADO" && status !== "PENDENTE" ? true : undefined,
+      replied: status !== "ENTREGUE" && status !== "SEM_RESPOSTA" && status !== "BLOQUEADO" && status !== "PENDENTE" && status !== "B2B_EMPRESAS" ? true : undefined,
     });
   };
 
@@ -188,6 +186,7 @@ export function useLeads() {
     if (window.confirm("Deseja restaurar a base para os dados originais? As alterações feitas serão substituídas.")) {
       setLeads(INITIAL_LEADS);
       localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem("cultura_builder_leads_v2");
       localStorage.removeItem("cultura_builder_leads_v1");
     }
   };

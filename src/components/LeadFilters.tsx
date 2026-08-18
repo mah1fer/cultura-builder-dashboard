@@ -91,6 +91,7 @@ export const LeadFilters: React.FC<LeadFiltersProps> = ({
             <option value="ALL">Todos os Lotes</option>
             <option value="tipo_a">Lote 2 (Novos Tipo A)</option>
             <option value="lote_1">Lote 1 (Oferta R$1.000 OFF)</option>
+            <option value="b2b">🏢 B2B (gruporap.com.br)</option>
             <option value="bloqueado">Excluídos / Bloqueados</option>
           </select>
         </div>
@@ -109,6 +110,7 @@ export const LeadFilters: React.FC<LeadFiltersProps> = ({
             <option value="NEGOCIACAO">Em Negociação</option>
             <option value="CALL_AGENDADA">Call Agendada</option>
             <option value="FECHADO">Venda Fechada</option>
+            <option value="B2B_EMPRESAS">🏢 B2B - Empresas</option>
             <option value="SEM_RESPOSTA">Sem Resposta</option>
             <option value="BLOQUEADO">Bloqueado</option>
           </select>
@@ -139,6 +141,7 @@ export const LeadFilters: React.FC<LeadFiltersProps> = ({
             className="w-full h-8 rounded-lg border border-input bg-background/80 px-2 text-xs focus:outline-none focus:ring-1 focus:ring-ring text-foreground"
           >
             <option value="ALL">Todas as Ocupações</option>
+            <option value="B2B - gruporap.com.br">🏢 B2B - gruporap.com.br</option>
             <option value="Tenho meu próprio negócio">Tenho meu próprio negócio</option>
             <option value="CLT em empresa">CLT em empresa</option>
             <option value="Freelancer / autônomo">Freelancer / autônomo</option>
