@@ -2,30 +2,78 @@ import { useState, useEffect, useMemo } from "react";
 import { Lead, LeadStatus, InterestLevel, LeadFiltersState, DashboardMetrics } from "@/types/lead";
 import { INITIAL_LEADS } from "@/data/masterLeads";
 
-const STORAGE_KEY = "cultura_builder_leads_v3";
+const STORAGE_KEY = "cultura_builder_leads_v4";
+
+function getCanonicalPhone(phone: string): string {
+  let digits = (phone || "").replace(/\D/g, "");
+  if (!digits) return "";
+  if (digits.startsWith("55") && digits.length === 12) {
+    digits = "55" + digits.slice(2, 4) + "9" + digits.slice(4);
+  }
+  if (digits.length === 10) {
+    digits = "55" + digits.slice(0, 2) + "9" + digits.slice(2);
+  }
+  if (digits.length === 11 && !digits.startsWith("55")) {
+    digits = "55" + digits;
+  }
+  return digits;
+}
 
 export function useLeads() {
   const [leads, setLeads] = useState<Lead[]>(() => {
     try {
-      const savedStr = localStorage.getItem(STORAGE_KEY);
-      if (savedStr) {
-        const saved: Lead[] = JSON.parse(savedStr);
-        const savedIds = new Set(saved.map((l) => l.id));
-        const savedPhones = new Set(saved.map((l) => l.phoneClean));
-        
-        const missingFromInitial = INITIAL_LEADS.filter(
-          (l) => !savedIds.has(l.id) && !savedPhones.has(l.phoneClean)
-        );
-
-        if (missingFromInitial.length > 0) {
-          const merged = [...saved, ...missingFromInitial];
-          localStorage.setItem(STORAGE_KEY, JSON.stringify(merged));
-          return merged;
-        }
-        return saved;
+      // 1. Tentar ler da versão atual ou de versões anteriores para preservar alterações feitas pelo usuário
+      let savedStr = localStorage.getItem(STORAGE_KEY);
+      if (!savedStr) {
+        savedStr = localStorage.getItem("cultura_builder_leads_v3") ||
+                   localStorage.getItem("cultura_builder_leads_v2") ||
+                   localStorage.getItem("cultura_builder_leads_v1");
       }
+
+      const userSavedMap = new Map<string, Lead>();
+      if (savedStr) {
+        const parsed: Lead[] = JSON.parse(savedStr);
+        parsed.forEach((l) => {
+          const canon = getCanonicalPhone(l.phoneClean || l.phone);
+          if (canon) {
+            userSavedMap.set(canon, l);
+          }
+        });
+      }
+
+      // 2. Construir lista final combinando INITIAL_LEADS e preservando as edições feitas pelo usuário
+      const canonicalMap = new Map<string, Lead>();
+      const finalLeads: Lead[] = [];
+
+      INITIAL_LEADS.forEach((initLead) => {
+        const canon = getCanonicalPhone(initLead.phoneClean || initLead.phone);
+        if (!canon || canonicalMap.has(canon)) return;
+
+        // Se o usuário tiver editado esse lead no navegador, mesclar preservando as alterações do usuário
+        if (userSavedMap.has(canon)) {
+          const userLead = userSavedMap.get(canon)!;
+          const merged: Lead = {
+            ...initLead,
+            // Preservar edições do usuário se ele alterou status ou interesse
+            status: userLead.status !== "ENTREGUE" ? userLead.status : initLead.status,
+            interest: userLead.interest !== "MEDIO" ? userLead.interest : initLead.interest,
+            replied: userLead.replied || userLead.status === "RESPONDEU" || initLead.replied,
+            notes: userLead.notes && userLead.notes.length > (initLead.notes || "").length ? userLead.notes : initLead.notes,
+            updatedAt: userLead.updatedAt || initLead.updatedAt,
+          };
+          canonicalMap.set(canon, merged);
+          finalLeads.push(merged);
+        } else {
+          canonicalMap.set(canon, initLead);
+          finalLeads.push(initLead);
+        }
+      });
+
+      // 3. Salvar lista limpa e deduplicada no storage
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(finalLeads));
+      return finalLeads;
     } catch (e) {
-      console.error("Erro ao carregar leads do localStorage:", e);
+      console.error("Erro ao processar e carregar leads:", e);
     }
     return INITIAL_LEADS;
   });
@@ -61,7 +109,9 @@ export function useLeads() {
   // Métricas do Dashboard
   const metrics = useMemo<DashboardMetrics>(() => {
     const totalLeads = leads.length;
-    const b2bCount = leads.filter((l) => l.status === "B2B_EMPRESAS" || l.batchType === "b2b").length;
+    const b2bCount = leads.filter(
+      (l) => l.status === "B2B_EMPRESAS" || l.batchType === "b2b" || l.occupation.includes("B2B")
+    ).length;
     
     // Impactados B2C (excluindo Bloqueados e B2B)
     const impactedLeads = leads.filter(
@@ -119,8 +169,14 @@ export function useLeads() {
       }
 
       // Filtro por Lote
-      if (filters.batchType !== "ALL" && lead.batchType !== filters.batchType) {
-        return false;
+      if (filters.batchType !== "ALL") {
+        if (filters.batchType === "b2b") {
+          if (lead.batchType !== "b2b" && lead.status !== "B2B_EMPRESAS" && !lead.occupation.includes("B2B")) {
+            return false;
+          }
+        } else if (lead.batchType !== filters.batchType) {
+          return false;
+        }
       }
 
       // Filtro por Status
@@ -134,8 +190,14 @@ export function useLeads() {
       }
 
       // Filtro por Ocupação
-      if (filters.occupation !== "ALL" && lead.occupation !== filters.occupation) {
-        return false;
+      if (filters.occupation !== "ALL") {
+        if (filters.occupation === "B2B - gruporap.com.br") {
+          if (!lead.occupation.includes("B2B") && lead.status !== "B2B_EMPRESAS") {
+            return false;
+          }
+        } else if (lead.occupation !== filters.occupation) {
+          return false;
+        }
       }
 
       // Filtro por Meta
@@ -186,6 +248,7 @@ export function useLeads() {
     if (window.confirm("Deseja restaurar a base para os dados originais? As alterações feitas serão substituídas.")) {
       setLeads(INITIAL_LEADS);
       localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem("cultura_builder_leads_v3");
       localStorage.removeItem("cultura_builder_leads_v2");
       localStorage.removeItem("cultura_builder_leads_v1");
     }
