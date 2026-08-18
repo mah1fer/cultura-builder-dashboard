@@ -22,15 +22,14 @@ function getCanonicalPhone(phone: string): string {
 export function useLeads() {
   const [leads, setLeads] = useState<Lead[]>(() => {
     try {
-      // 1. Tentar ler da versão atual ou anteriores para preservar alterações feitas pelo usuário
-      let savedStr = localStorage.getItem(STORAGE_KEY);
-      if (!savedStr) {
-        savedStr = localStorage.getItem("cultura_builder_leads_v5") ||
-                   localStorage.getItem("cultura_builder_leads_v4") ||
-                   localStorage.getItem("cultura_builder_leads_v3") ||
-                   localStorage.getItem("cultura_builder_leads_v2") ||
-                   localStorage.getItem("cultura_builder_leads_v1");
-      }
+      // 1. Tentar ler de qualquer versão salva no navegador para PRESERVAR TODAS as alterações do usuário
+      const savedStr =
+        localStorage.getItem("cultura_builder_leads_v6") ||
+        localStorage.getItem("cultura_builder_leads_v5") ||
+        localStorage.getItem("cultura_builder_leads_v4") ||
+        localStorage.getItem("cultura_builder_leads_v3") ||
+        localStorage.getItem("cultura_builder_leads_v2") ||
+        localStorage.getItem("cultura_builder_leads_v1");
 
       const userSavedMap = new Map<string, Lead>();
       if (savedStr) {
@@ -43,7 +42,7 @@ export function useLeads() {
         });
       }
 
-      // 2. Construir lista final combinando INITIAL_LEADS e preservando as edições feitas pelo usuário
+      // 2. Construir lista final combinando INITIAL_LEADS e garantindo que QUALQUER alteração feita pelo usuário prevaleça 100%
       const canonicalMap = new Map<string, Lead>();
       const finalLeads: Lead[] = [];
 
@@ -51,15 +50,17 @@ export function useLeads() {
         const canon = getCanonicalPhone(initLead.phoneClean || initLead.phone);
         if (!canon || canonicalMap.has(canon)) return;
 
-        // Se o usuário tiver editado esse lead no navegador, mesclar preservando as alterações do usuário
         if (userSavedMap.has(canon)) {
           const userLead = userSavedMap.get(canon)!;
           const merged: Lead = {
             ...initLead,
-            status: userLead.status !== "ENTREGUE" ? userLead.status : initLead.status,
-            interest: userLead.interest !== "MEDIO" ? userLead.interest : initLead.interest,
-            replied: userLead.replied || userLead.status === "RESPONDEU" || initLead.replied,
-            notes: userLead.notes && userLead.notes.length > (initLead.notes || "").length ? userLead.notes : initLead.notes,
+            // As edições manuais do usuário (status, interesse, anotações) SEMPRE prevalecem:
+            status: userLead.status || initLead.status,
+            interest: userLead.interest || initLead.interest,
+            replied: userLead.replied !== undefined ? userLead.replied : initLead.replied,
+            notes: userLead.notes !== undefined ? userLead.notes : initLead.notes,
+            occupation: userLead.occupation || initLead.occupation,
+            goal: userLead.goal || initLead.goal,
             updatedAt: userLead.updatedAt || initLead.updatedAt,
           };
           canonicalMap.set(canon, merged);
@@ -70,11 +71,18 @@ export function useLeads() {
         }
       });
 
-      // 3. Salvar lista limpa e deduplicada no storage
+      // 3. Adicionar também contatos customizados que o usuário possa ter salvo
+      userSavedMap.forEach((userLead, canon) => {
+        if (!canonicalMap.has(canon)) {
+          canonicalMap.set(canon, userLead);
+          finalLeads.push(userLead);
+        }
+      });
+
       localStorage.setItem(STORAGE_KEY, JSON.stringify(finalLeads));
       return finalLeads;
     } catch (e) {
-      console.error("Erro ao processar e carregar leads:", e);
+      console.error("Erro ao carregar leads do storage:", e);
     }
     return INITIAL_LEADS;
   });
@@ -90,6 +98,7 @@ export function useLeads() {
 
   const [selectedLead, setSelectedLead] = useState<Lead | null>(null);
 
+  // Sincronizar qualquer alteração para o localStorage
   useEffect(() => {
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(leads));
@@ -98,6 +107,7 @@ export function useLeads() {
     }
   }, [leads]);
 
+  // Se o lead selecionado for atualizado, manter o drawer sincronizado
   useEffect(() => {
     if (selectedLead) {
       const fresh = leads.find((l) => l.id === selectedLead.id);
@@ -107,13 +117,15 @@ export function useLeads() {
     }
   }, [leads]);
 
-  // Métricas do Dashboard
+  // Métricas do Dashboard calculadas reativamente
   const metrics = useMemo<DashboardMetrics>(() => {
     const totalLeads = leads.length;
     const b2bCount = leads.filter(
       (l) => l.status === "B2B_EMPRESAS" || l.batchType === "b2b" || l.occupation.includes("B2B")
     ).length;
-    const reembolsoCount = leads.filter((l) => l.status === "REEMBOLSO" || l.notes?.toLowerCase().includes("reembolso")).length;
+    const reembolsoCount = leads.filter(
+      (l) => l.status === "REEMBOLSO" || l.notes?.toLowerCase().includes("reembolso")
+    ).length;
     
     // Impactados B2C (excluindo Bloqueados, B2B e Reembolsos)
     const impactedLeads = leads.filter(
@@ -212,20 +224,16 @@ export function useLeads() {
     });
   }, [leads, filters]);
 
-  // Ações de atualização
+  // Ações de atualização com garantia de re-renderização imediata
   const updateLead = (id: string, partial: Partial<Lead>) => {
     setLeads((prev) =>
       prev.map((l) => {
         if (l.id === id) {
-          const updated = {
+          return {
             ...l,
             ...partial,
             updatedAt: new Date().toISOString(),
           };
-          if (partial.replied === true && l.status === "ENTREGUE") {
-            updated.status = "RESPONDEU";
-          }
-          return updated;
         }
         return l;
       })
@@ -233,9 +241,15 @@ export function useLeads() {
   };
 
   const updateLeadStatus = (id: string, status: LeadStatus) => {
+    const isReplied =
+      status === "RESPONDEU" ||
+      status === "NEGOCIACAO" ||
+      status === "CALL_AGENDADA" ||
+      status === "FECHADO";
+
     updateLead(id, {
       status,
-      replied: status !== "ENTREGUE" && status !== "SEM_RESPOSTA" && status !== "BLOQUEADO" && status !== "PENDENTE" && status !== "B2B_EMPRESAS" && status !== "REEMBOLSO" ? true : undefined,
+      replied: isReplied,
     });
   };
 
@@ -251,6 +265,7 @@ export function useLeads() {
     if (window.confirm("Deseja restaurar a base para os dados originais? As alterações feitas serão substituídas.")) {
       setLeads(INITIAL_LEADS);
       localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem("cultura_builder_leads_v5");
       localStorage.removeItem("cultura_builder_leads_v4");
       localStorage.removeItem("cultura_builder_leads_v3");
       localStorage.removeItem("cultura_builder_leads_v2");

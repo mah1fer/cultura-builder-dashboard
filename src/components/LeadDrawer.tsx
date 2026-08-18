@@ -152,6 +152,8 @@ export const LeadDrawer: React.FC<LeadDrawerProps> = ({
                   <option value="NEGOCIACAO">Em Negociação</option>
                   <option value="CALL_AGENDADA">Call Agendada</option>
                   <option value="FECHADO">Venda Fechada</option>
+                  <option value="B2B_EMPRESAS">🏢 B2B - Empresas</option>
+                  <option value="REEMBOLSO">💸 Reembolso Solicitado</option>
                   <option value="SEM_RESPOSTA">Sem Resposta</option>
                   <option value="BLOQUEADO">Bloqueado</option>
                 </select>
@@ -225,6 +227,7 @@ export const LeadDrawer: React.FC<LeadDrawerProps> = ({
             <textarea
               value={notes}
               onChange={(e) => setNotes(e.target.value)}
+              onBlur={handleSaveNotes}
               placeholder="Digite observações sobre o lead, o que ele respondeu, próximos passos combinados..."
               rows={4}
               className="w-full rounded-xl border border-input bg-background/80 p-3 text-xs text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring resize-none leading-relaxed"
