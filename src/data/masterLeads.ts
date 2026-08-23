@@ -3363,12 +3363,21 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "Email: beatriz@montedourado.com | Plano: Sem assinatura",
+    "sentAt": "2026-08-23T20:12:23.326Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Ana Beatriz! Mateus aqui, consultor de IA da Cultura Builder.. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
+      }
+    ],
+    "notes": "Disparo consultivo Fase 1 (1B) entregue via WhatsApp em 17:12:23.",
     "dispatchedMessageIds": []
   },
   {
@@ -3380,12 +3389,21 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "Email: elvis@montedourado.com | Plano: Sem assinatura",
+    "sentAt": "2026-08-23T20:15:46.592Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Elvis! Mateus aqui, consultor de IA da Cultura Builder.. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
+      }
+    ],
+    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 17:15:46.",
     "dispatchedMessageIds": []
   },
   {
@@ -3421,5 +3439,121 @@ export const INITIAL_LEADS: Lead[] = [
     "deliveredBlocks": [],
     "notes": "Email: andrey.s4n@gmail.com | Plano: Sem assinatura",
     "dispatchedMessageIds": []
+  },
+  {
+    "id": "lead-fase1-5511981619879",
+    "name": "Phillip",
+    "phone": "+5511981619879",
+    "phoneClean": "5511981619879",
+    "occupation": "Profissional / Explorador",
+    "goal": "Automações e Agentes de IA",
+    "batch": "Lote 3 (Novos Consultivo)",
+    "batchType": "tipo_a",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "replied": false,
+    "sentAt": "2026-08-23T19:54:23.312Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Phillip! Mateus aqui, consultor de IA da Cultura Builder.. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
+      }
+    ],
+    "notes": "Disparo consultivo Fase 1 (1B) entregue via WhatsApp em 16:54:23.",
+    "dispatchedMessageIds": [
+      "3EB00B3F84F16155D0B7F2",
+      "3EB0F65D3AB4ABEBE40C34"
+    ]
+  },
+  {
+    "id": "lead-fase1-5541988368820",
+    "name": "Orlando B Filho",
+    "phone": "+5541988368820",
+    "phoneClean": "5541988368820",
+    "occupation": "Profissional / Explorador",
+    "goal": "Automações e Agentes de IA",
+    "batch": "Lote 3 (Novos Consultivo)",
+    "batchType": "tipo_a",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "replied": false,
+    "sentAt": "2026-08-23T19:55:04.203Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Orlando! Mateus aqui, consultor de IA da Cultura Builder.. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
+      }
+    ],
+    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 16:55:04.",
+    "dispatchedMessageIds": [
+      "3EB01FE11FF46DC22ED54E",
+      "3EB0387A5BD87EE9C436F6"
+    ]
+  },
+  {
+    "id": "lead-fase1-5511935355520",
+    "name": "Tássio Souza Ramos",
+    "phone": "+5511935355520",
+    "phoneClean": "5511935355520",
+    "occupation": "Profissional / Explorador",
+    "goal": "Automações e Agentes de IA",
+    "batch": "Lote 3 (Novos Consultivo)",
+    "batchType": "tipo_a",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "replied": false,
+    "sentAt": "2026-08-23T19:55:36.914Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Tássio! Mateus aqui, consultor de IA da Cultura Builder.. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
+      }
+    ],
+    "notes": "Disparo consultivo Fase 1 (1B) entregue via WhatsApp em 16:55:36.",
+    "dispatchedMessageIds": [
+      "3EB07CCFAAF6F8173C5B29",
+      "3EB0732216E66911782A5B"
+    ]
+  },
+  {
+    "id": "lead-fase1-5511963091645",
+    "name": "joao silva",
+    "phone": "+5511963091645",
+    "phoneClean": "5511963091645",
+    "occupation": "Profissional / Explorador",
+    "goal": "Automações e Agentes de IA",
+    "batch": "Lote 3 (Novos Consultivo)",
+    "batchType": "tipo_a",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "replied": false,
+    "sentAt": "2026-08-23T19:56:09.164Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, João! Mateus aqui, consultor de IA da Cultura Builder.. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
+      }
+    ],
+    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 16:56:09.",
+    "dispatchedMessageIds": [
+      "3EB0375A5BB541CACB2454",
+      "3EB03F3E0D3A76695EC1CD"
+    ]
   }
 ];
