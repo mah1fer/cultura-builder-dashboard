@@ -30,9 +30,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Hoje você já começou a testar alguma IA na sua rotina ou ainda tá mais no início estudando?"
+      },
+      {
+        "block": 5,
+        "text": "Fabio, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 17:46:51.",
     "dispatchedMessageIds": [
       "3EB00AD24E6CCD489A6282",
       "3EB09C637F16ACC5CAE364",
@@ -69,9 +77,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Hoje você já tem alguma automação rodando com IA ou ainda tá no começo avaliando como aplicar?"
+      },
+      {
+        "block": 5,
+        "text": "Nicolas, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 17:50:26.",
     "dispatchedMessageIds": [
       "3EB0DFACD7C931445BFF91",
       "3EB04AD0819C0F9C33C07C",
@@ -108,9 +124,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Vocês já chegaram a testar alguma automação com IA nos processos da empresa ou ainda tão avaliando?"
+      },
+      {
+        "block": 5,
+        "text": "Truberpel, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 17:54:27.",
     "dispatchedMessageIds": [
       "3EB09818B915D6F019A25D",
       "3EB03B9E59354738A89CB7",
@@ -147,9 +171,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Hoje você já usa alguma ferramenta de IA no trabalho ou ainda tá no começo explorando?"
+      },
+      {
+        "block": 5,
+        "text": "João, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 17:58:17.",
     "dispatchedMessageIds": [
       "3EB0B7D98B0EBDD5B18EFE",
       "3EB0364A48A94E4230D5E3",
@@ -186,9 +218,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Você já chegou a rodar alguma automação com IA ou ainda tá estudando como aplicar?"
+      },
+      {
+        "block": 5,
+        "text": "Marcus, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:01:48.",
     "dispatchedMessageIds": [
       "3EB0A8E9C825A83C2AB3CF",
       "3EB08821123AF0FFF38A70",
@@ -342,9 +382,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Você já tá usando alguma ferramenta de IA hoje ou ainda tá na fase inicial estudando?"
+      },
+      {
+        "block": 5,
+        "text": "Robson, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:05:44.",
     "dispatchedMessageIds": [
       "3EB08E935F5D0D1329B436",
       "3EB02784EFC2DD786BF0D0",
@@ -459,9 +507,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Você já tem algum fluxo rodando com IA aí no seu negócio ou ainda tá no começo?"
+      },
+      {
+        "block": 5,
+        "text": "Rafael, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:09:05.",
     "dispatchedMessageIds": [
       "3EB089ED8BED1AD6DB7A48",
       "3EB0A2298997D966889448",
@@ -498,9 +554,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Hoje você já oferece algum serviço com IA ou ainda tá na fase de estruturar?"
+      },
+      {
+        "block": 5,
+        "text": "Victor, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:13:11.",
     "dispatchedMessageIds": [
       "3EB03BF16F88CE745FA89B",
       "3EB099BA345853B8344094",
@@ -537,9 +601,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Você já chegou a montar alguma automação com IA ou tá começando a explorar agora?"
+      },
+      {
+        "block": 5,
+        "text": "Yuri, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:16:48.",
     "dispatchedMessageIds": [
       "3EB09A5D9701474BD46DE8",
       "3EB0C86478B0C04654E666",
@@ -576,9 +648,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Você já tá testando ferramentas de IA no dia a dia ou ainda tá mais no início?"
+      },
+      {
+        "block": 5,
+        "text": "João, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:20:49.",
     "dispatchedMessageIds": [
       "3EB0442AC033F3BFE57426",
       "3EB051C41C8980ADA0508E",
@@ -615,9 +695,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "A sua empresa já tá aplicando IA na rotina ou ainda é algo que tá partindo de você?"
+      },
+      {
+        "block": 5,
+        "text": "Fernando, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:24:56.",
     "dispatchedMessageIds": [
       "3EB0FD475F59270D6F5EE9",
       "3EB01FA59F17441755356C",
@@ -654,9 +742,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Hoje você já usa alguma ferramenta de IA no dia a dia ou ainda tá no começo?"
+      },
+      {
+        "block": 5,
+        "text": "Orleanderson, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:28:34.",
     "dispatchedMessageIds": [
       "3EB056812114D8380873A9",
       "3EB0F4505A361E7D6E358A",
@@ -879,9 +975,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Gabriel, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:32:48.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -951,9 +1055,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Gustavo, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:36:11.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1059,9 +1171,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:40:25.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1095,9 +1215,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Geraldo, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:44:37.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1131,9 +1259,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Heitor, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:48:16.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1167,9 +1303,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Júlio, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:51:41.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1203,9 +1347,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Anderson, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:55:22.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1239,9 +1391,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:58:52.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1275,9 +1435,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Lucas, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:02:15.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1311,9 +1479,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Luan, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:05:43.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1347,9 +1523,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Yuri, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:09:54.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1419,9 +1603,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Daniel, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:13:47.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1455,9 +1647,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Matheus, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:17:08.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1491,9 +1691,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Malu, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:20:53.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1527,9 +1735,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Michael, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:24:44.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1563,9 +1779,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Felipe, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:28:16.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1599,9 +1823,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Bruno, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:31:36.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1635,9 +1867,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Felipe, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:35:33.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1671,9 +1911,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Henrique, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:39:24.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1707,9 +1955,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Leonardo, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:43:15.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1743,9 +1999,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Rodrigo, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:46:53.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1779,9 +2043,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Alberth, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:50:31.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1815,9 +2087,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Wellington, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:54:27.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1851,9 +2131,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "adrian, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:57:47.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1887,9 +2175,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Diego, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:01:23.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1923,9 +2219,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Alexandre, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:05:05.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1959,9 +2263,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Andre, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:08:48.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1995,9 +2307,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Eduardo, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:12:36.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2031,9 +2351,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Rodrigo, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:16:35.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2067,9 +2395,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Felippe, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:20:37.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2103,9 +2439,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Breno, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:23:57.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2139,9 +2483,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Andressa, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:27:11.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2175,9 +2527,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Sara, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:31:14.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2211,9 +2571,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "O, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:34:47.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2247,9 +2615,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Bruno, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:38:00.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2283,9 +2659,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "leonardo, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:41:19.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2319,9 +2703,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Francisco, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:44:54.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2355,9 +2747,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Julio, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:48:58.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2391,9 +2791,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Gabriel, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:52:25.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2427,9 +2835,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Rogerio, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:56:32.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2463,9 +2879,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "SURGE, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:00:18.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2499,9 +2923,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Gustavo, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:03:42.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2535,9 +2967,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "rshrtsd, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:07:39.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2571,9 +3011,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Batata, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:10:55.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2607,9 +3055,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Bruno, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:15:05.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2643,9 +3099,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Gustavo, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:19:23.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2679,9 +3143,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Caio, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:23:54.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2715,9 +3187,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Henrique, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:27:52.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2751,9 +3231,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Luis, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:31:30.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2859,9 +3347,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "VANDER, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:35:12.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2895,9 +3391,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Pedro, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:38:49.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2931,9 +3435,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Ícaro, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:43:02.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2967,9 +3479,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Pr., uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:46:43.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3003,9 +3523,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Vitor, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:50:42.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3039,9 +3567,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Rudney, uma pergunta rápida:"
+      },
+      {
+        "block": 6,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:54:38.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3075,9 +3611,17 @@ export const INITIAL_LEADS: Lead[] = [
       {
         "block": 4,
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+      },
+      {
+        "block": 5,
+        "text": "Filipe, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 6,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:57:56.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3231,8 +3775,17 @@ export const INITIAL_LEADS: Lead[] = [
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-18T13:26:18.783Z",
-    "deliveredBlocks": [],
-    "notes": "Adicionado via lista Painel CB",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Contato, uma pergunta rápida:"
+      },
+      {
+        "block": 2,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+      }
+    ],
+    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2B) enviado em 22:01:36.",
     "dispatchedMessageIds": []
   },
   {
@@ -3265,8 +3818,17 @@ export const INITIAL_LEADS: Lead[] = [
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-18T13:26:18.786Z",
-    "deliveredBlocks": [],
-    "notes": "Adicionado via lista Painel CB",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Contato, fiquei curioso com uma coisa:"
+      },
+      {
+        "block": 2,
+        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+      }
+    ],
+    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2A) enviado em 22:05:04.",
     "dispatchedMessageIds": []
   },
   {
@@ -3282,8 +3844,17 @@ export const INITIAL_LEADS: Lead[] = [
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-18T13:26:18.786Z",
-    "deliveredBlocks": [],
-    "notes": "Adicionado via lista Painel CB",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Contato, uma pergunta rápida:"
+      },
+      {
+        "block": 2,
+        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+      }
+    ],
+    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2B) enviado em 22:08:20.",
     "dispatchedMessageIds": []
   },
   {
