@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 import { Lead, LeadStatus, InterestLevel, LeadFiltersState, DashboardMetrics } from "@/types/lead";
 import { INITIAL_LEADS } from "@/data/masterLeads";
 
-const STORAGE_KEY = "cultura_builder_leads_v8";
+const STORAGE_KEY = "cultura_builder_leads_v9";
 
 function getCanonicalPhone(phone: string): string {
   let digits = (phone || "").replace(/\D/g, "");
@@ -24,6 +24,7 @@ export function useLeads() {
     try {
       // 1. Tentar ler de qualquer versão salva no navegador para PRESERVAR TODAS as alterações do usuário
       const savedStr =
+        localStorage.getItem("cultura_builder_leads_v9") ||
         localStorage.getItem("cultura_builder_leads_v8") ||
         localStorage.getItem("cultura_builder_leads_v7") ||
         localStorage.getItem("cultura_builder_leads_v6") ||
@@ -57,10 +58,10 @@ export function useLeads() {
           const merged: Lead = {
             ...initLead,
             // As edições manuais do usuário (status, interesse, anotações) SEMPRE prevalecem:
-            status: userLead.status || initLead.status,
-            interest: userLead.interest || initLead.interest,
-            replied: userLead.replied !== undefined ? userLead.replied : initLead.replied,
-            notes: userLead.notes !== undefined ? userLead.notes : initLead.notes,
+            status: userLead.status && userLead.status !== "ENTREGUE" ? userLead.status : initLead.status,
+            interest: userLead.interest && userLead.interest !== "MEDIO" ? userLead.interest : initLead.interest,
+            replied: userLead.replied || initLead.replied,
+            notes: userLead.notes ? (initLead.notes && !userLead.notes.includes(initLead.notes.slice(0, 25)) ? `${userLead.notes} | ${initLead.notes}` : userLead.notes) : initLead.notes,
             occupation: userLead.occupation || initLead.occupation,
             goal: userLead.goal || initLead.goal,
             updatedAt: userLead.updatedAt || initLead.updatedAt,
@@ -142,7 +143,7 @@ export function useLeads() {
     const replyRate = totalImpacted > 0 ? (totalReplied / totalImpacted) * 100 : 0;
 
     const highInterestCount = leads.filter(
-      (l) => l.interest === "ALTO" || l.interest === "QUENTE" || l.status === "CALL_AGENDADA"
+      (l) => l.interest === "ALTO" || l.interest === "QUENTE" || l.status === "CALL_AGENDADA" || l.status === "NEGOCIACAO"
     ).length;
     const inNegotiationCount = leads.filter(
       (l) => l.status === "NEGOCIACAO" || l.status === "CALL_AGENDADA"
