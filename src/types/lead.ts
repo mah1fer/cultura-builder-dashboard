@@ -3,6 +3,7 @@ export type LeadStatus =
   | 'RESPONDEU'
   | 'NEGOCIACAO'
   | 'CALL_AGENDADA'
+  | 'CONTATO_FUTURO'
   | 'FECHADO'
   | 'SEM_RESPOSTA'
   | 'PENDENTE'

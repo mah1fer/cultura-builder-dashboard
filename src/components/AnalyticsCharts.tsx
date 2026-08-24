@@ -43,8 +43,8 @@ export const AnalyticsCharts: React.FC<AnalyticsChartsProps> = ({ leads }) => {
   // Funil de Conversão Comercial
   const funnelStats = useMemo(() => {
     const total = leads.filter((l) => l.status !== "BLOQUEADO").length;
-    const entregues = leads.filter((l) => l.status === "ENTREGUE" || l.status === "RESPONDEU" || l.status === "NEGOCIACAO" || l.status === "CALL_AGENDADA" || l.status === "FECHADO").length;
-    const responderam = leads.filter((l) => l.status === "RESPONDEU" || l.status === "NEGOCIACAO" || l.status === "CALL_AGENDADA" || l.status === "FECHADO" || l.replied).length;
+    const entregues = leads.filter((l) => l.status === "ENTREGUE" || l.status === "RESPONDEU" || l.status === "NEGOCIACAO" || l.status === "CALL_AGENDADA" || l.status === "CONTATO_FUTURO" || l.status === "FECHADO").length;
+    const responderam = leads.filter((l) => l.status === "RESPONDEU" || l.status === "NEGOCIACAO" || l.status === "CALL_AGENDADA" || l.status === "CONTATO_FUTURO" || l.status === "FECHADO" || l.replied).length;
     const negociacao = leads.filter((l) => l.status === "NEGOCIACAO" || l.status === "CALL_AGENDADA" || l.status === "FECHADO").length;
     const fechados = leads.filter((l) => l.status === "FECHADO").length;
 

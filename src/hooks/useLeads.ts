@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 import { Lead, LeadStatus, InterestLevel, LeadFiltersState, DashboardMetrics } from "@/types/lead";
 import { INITIAL_LEADS } from "@/data/masterLeads";
 
-const STORAGE_KEY = "cultura_builder_leads_v7";
+const STORAGE_KEY = "cultura_builder_leads_v8";
 
 function getCanonicalPhone(phone: string): string {
   let digits = (phone || "").replace(/\D/g, "");
@@ -24,6 +24,7 @@ export function useLeads() {
     try {
       // 1. Tentar ler de qualquer versão salva no navegador para PRESERVAR TODAS as alterações do usuário
       const savedStr =
+        localStorage.getItem("cultura_builder_leads_v8") ||
         localStorage.getItem("cultura_builder_leads_v7") ||
         localStorage.getItem("cultura_builder_leads_v6") ||
         localStorage.getItem("cultura_builder_leads_v5") ||

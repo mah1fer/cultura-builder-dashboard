@@ -153,6 +153,7 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                         <option value="RESPONDEU">Respondeu</option>
                         <option value="NEGOCIACAO">Em Negociação</option>
                         <option value="CALL_AGENDADA">Call Agendada</option>
+                        <option value="CONTATO_FUTURO">⏳ Contato Futuro</option>
                         <option value="FECHADO">Venda Fechada</option>
                         <option value="B2B_EMPRESAS">🏢 B2B - Empresas</option>
                         <option value="REEMBOLSO">💸 Reembolso</option>

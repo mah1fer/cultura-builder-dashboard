@@ -883,9 +883,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "status": "CALL_AGENDADA",
+    "interest": "QUENTE",
+    "replied": true,
     "sentAt": "2026-08-16T15:31:26.032Z",
     "deliveredBlocks": [
       {
@@ -905,7 +905,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "[Call Agendada / Formulário] Lead confirmou: \"já fiz o formulário, já marquei a call\". Aguardando realização da reunião.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -999,9 +999,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "status": "CALL_AGENDADA",
+    "interest": "QUENTE",
+    "replied": true,
     "sentAt": "2026-08-16T15:43:01.813Z",
     "deliveredBlocks": [
       {
@@ -1021,7 +1021,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "[Call Agendada / Alinhamento Fechado] Lead confirmou: \"fechado, é exatamente isso que busco, otimizar processos e procedimentos internos para ficarem mais dinâmicos e produtivos\". Prioridade Alta.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1195,9 +1195,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Gerar renda nova com IA",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "status": "NEGOCIACAO",
+    "interest": "ALTO",
+    "replied": true,
     "sentAt": "2026-08-16T16:02:11.875Z",
     "deliveredBlocks": [
       {
@@ -1225,7 +1225,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:44:37.",
+    "notes": "[Alto Potencial / Negociação] \"Meu objetivo é conhecer a plataforma, me aprofundar nos conteúdos... prestar serviços e desenvolver projetos com IA\". Enviou LinkedIn: https://www.linkedin.com/in/geraldoveiga",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3079,7 +3079,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-16T20:21:22.717Z",
@@ -3109,7 +3109,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:19:23.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:19:23. | [Contato Futuro / Nutrição] \"Não tive tempo... Mas pretendo... Tô sim\". Reativar em 7 dias.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3123,7 +3123,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-16T20:25:33.962Z",
@@ -3153,7 +3153,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:23:54.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:23:54. | [Contato Futuro] Lead demonstrou interesse em projeto de IA, porém pediu para validar no próximo ciclo.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3167,7 +3167,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-16T20:29:01.588Z",
@@ -3197,7 +3197,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:27:52.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:27:52. | [Contato Futuro / Maturidade Técnica] Utiliza IA para banco de dados/kanban. Não teve tempo no momento. Reativar com case avançado.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3211,7 +3211,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-16T20:32:45.732Z",
@@ -3241,7 +3241,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:31:30.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:31:30. | [Contato Futuro] Empresa utilizando Claude/hub interno. \"Depois eu dou uma olhada\".",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3327,7 +3327,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Gerar renda nova com IA",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "RESPONDEU",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-16T20:44:24.403Z",
@@ -3357,7 +3357,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:35:12.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:35:12. | [Respondeu] Respondeu positivamente à abordagem.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3415,7 +3415,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "RESPONDEU",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-16T20:53:29.186Z",
@@ -3445,7 +3445,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:43:02.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:43:02. | [Respondeu] Conversando sobre aplicações práticas de IA.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3459,7 +3459,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "RESPONDEU",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-16T20:56:59.049Z",
@@ -3489,7 +3489,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:46:43.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:46:43. | [Respondeu] Respondeu à mensagem consultiva.",
     "dispatchedMessageIds": [
       "ok"
     ]
