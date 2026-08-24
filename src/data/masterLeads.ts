@@ -675,8 +675,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Evoluir na carreira ou conseguir promoção",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
+    "status": "BLOQUEADO",
+    "interest": "DESQUALIFICADO",
     "replied": false,
     "sentAt": "2026-08-17T14:33:07.997Z",
     "deliveredBlocks": [
@@ -705,7 +705,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:24:56.",
+    "notes": "[NÃO ENVIAR DISPARO] Já é aluno / membro ativo do Cultura Builder (com Ariel) | Atualizado em 24/08.",
     "dispatchedMessageIds": [
       "3EB0FD475F59270D6F5EE9",
       "3EB01FA59F17441755356C",
@@ -1583,8 +1583,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
+    "status": "BLOQUEADO",
+    "interest": "DESQUALIFICADO",
     "replied": false,
     "sentAt": "2026-08-16T18:10:23.657Z",
     "deliveredBlocks": [
@@ -1613,7 +1613,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:13:47.",
+    "notes": "[NÃO ENVIAR DISPARO] Excluído a pedido do usuário (Print) | Atualizado em 24/08.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1847,8 +1847,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
+    "status": "CONTATO_FUTURO",
+    "interest": "ALTO",
     "replied": false,
     "sentAt": "2026-08-16T18:33:50.391Z",
     "deliveredBlocks": [
@@ -1877,7 +1877,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:35:33.",
+    "notes": "[NÃO ENVIAR DISPARO] Em conversa ativa com Mateus / Pediu contato futuro | Atualizado em 24/08.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -4020,8 +4020,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Automações e Agentes de IA",
     "batch": "Lote 3 (Novos Consultivo)",
     "batchType": "tipo_a",
-    "status": "NEGOCIACAO",
-    "interest": "ALTO",
+    "status": "BLOQUEADO",
+    "interest": "DESQUALIFICADO",
     "replied": true,
     "sentAt": "2026-08-23T19:54:23.312Z",
     "deliveredBlocks": [
@@ -4034,7 +4034,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
       }
     ],
-    "notes": "Disparo consultivo Fase 1 (1B) entregue via WhatsApp em 16:54:23.",
+    "notes": "[NÃO ENVIAR DISPARO] Excluído a pedido do usuário (Print) | Atualizado em 24/08.",
     "dispatchedMessageIds": [
       "3EB00B3F84F16155D0B7F2",
       "3EB0F65D3AB4ABEBE40C34"
@@ -4092,7 +4092,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
       }
     ],
-    "notes": "Disparo consultivo Fase 1 (1B) entregue via WhatsApp em 16:55:36.",
+    "notes": "[NÃO ENVIAR DISPARO] Em conversa ativa por áudio com Mateus | Atualizado em 24/08.",
     "dispatchedMessageIds": [
       "3EB07CCFAAF6F8173C5B29",
       "3EB0732216E66911782A5B"
