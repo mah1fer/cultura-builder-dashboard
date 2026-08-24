@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 import { Lead, LeadStatus, InterestLevel, LeadFiltersState, DashboardMetrics } from "@/types/lead";
 import { INITIAL_LEADS } from "@/data/masterLeads";
 
-const STORAGE_KEY = "cultura_builder_leads_v9";
+const STORAGE_KEY = "cultura_builder_leads_v10";
 
 function getCanonicalPhone(phone: string): string {
   let digits = (phone || "").replace(/\D/g, "");
@@ -24,6 +24,7 @@ export function useLeads() {
     try {
       // 1. Tentar ler de qualquer versão salva no navegador para PRESERVAR TODAS as alterações do usuário
       const savedStr =
+        localStorage.getItem("cultura_builder_leads_v10") ||
         localStorage.getItem("cultura_builder_leads_v9") ||
         localStorage.getItem("cultura_builder_leads_v8") ||
         localStorage.getItem("cultura_builder_leads_v7") ||
@@ -207,8 +208,18 @@ export function useLeads() {
       }
 
       // Filtro por Interesse
-      if (filters.interest !== "ALL" && lead.interest !== filters.interest) {
-        return false;
+      if (filters.interest !== "ALL") {
+        if (filters.interest === "ALTO") {
+          if (lead.interest !== "ALTO" && lead.interest !== "QUENTE" && lead.status !== "CALL_AGENDADA" && lead.status !== "NEGOCIACAO") {
+            return false;
+          }
+        } else if (filters.interest === "QUENTE") {
+          if (lead.interest !== "QUENTE" && lead.status !== "CALL_AGENDADA") {
+            return false;
+          }
+        } else if (lead.interest !== filters.interest) {
+          return false;
+        }
       }
 
       // Filtro por Ocupação

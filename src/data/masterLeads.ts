@@ -10,9 +10,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Me sentir confiante usando qualquer ferramenta de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "status": "NEGOCIACAO",
+    "interest": "ALTO",
+    "replied": true,
     "sentAt": "2026-08-17T13:35:19.998Z",
     "deliveredBlocks": [
       {
@@ -267,7 +267,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Hoje você já usa IA pra alguma tarefa da sua rotina ou ainda tá começando a explorar?"
       }
     ],
-    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
+    "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
     "dispatchedMessageIds": [
       "3EB03D8D406285C4FA73FB",
       "3EB0C56FAD1A0634E0DDE7",
@@ -306,7 +306,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já tem alguma ferramenta de IA no seu dia a dia ou ainda tá mais no início?"
       }
     ],
-    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
+    "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
     "dispatchedMessageIds": [
       "3EB0FCEB371B46EBE4A606",
       "3EB030705D3631FF990B57",
@@ -345,7 +345,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "A sua empresa já tá puxando iniciativas com IA ou é algo que tá partindo mais de você?"
       }
     ],
-    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
+    "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
     "dispatchedMessageIds": [
       "3EB062D902D1F08333EBC9",
       "3EB085EE6381425306BD9F",
@@ -470,7 +470,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Hoje na sua rotina, qual é a tarefa mais repetitiva que mais consome seu tempo?"
       }
     ],
-    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
+    "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
     "dispatchedMessageIds": [
       "3EB0809FA90E2906E7E4DA",
       "3EB04517A87267B1EE6382",
@@ -1101,7 +1101,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
+    "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1137,7 +1137,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
+    "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1548,7 +1548,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batch": "Excluídos / Bloqueados",
     "batchType": "bloqueado",
     "status": "BLOQUEADO",
-    "interest": "MEDIO",
+    "interest": "DESQUALIFICADO",
     "replied": false,
     "sentAt": "2026-08-16T18:06:10.916Z",
     "deliveredBlocks": [
@@ -2947,9 +2947,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T20:09:41.064Z",
     "deliveredBlocks": [
       {
@@ -2991,9 +2991,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Economizar horas por semana no trabalho",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T20:13:58.970Z",
     "deliveredBlocks": [
       {
@@ -3081,7 +3081,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T20:21:22.717Z",
     "deliveredBlocks": [
       {
@@ -3125,7 +3125,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T20:25:33.962Z",
     "deliveredBlocks": [
       {
@@ -3169,7 +3169,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T20:29:01.588Z",
     "deliveredBlocks": [
       {
@@ -3213,7 +3213,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T20:32:45.732Z",
     "deliveredBlocks": [
       {
@@ -3256,7 +3256,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batch": "Excluídos / Bloqueados",
     "batchType": "bloqueado",
     "status": "BLOQUEADO",
-    "interest": "MEDIO",
+    "interest": "DESQUALIFICADO",
     "replied": false,
     "sentAt": "2026-08-16T20:36:40.083Z",
     "deliveredBlocks": [
@@ -3329,7 +3329,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "RESPONDEU",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T20:44:24.403Z",
     "deliveredBlocks": [
       {
@@ -3417,7 +3417,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "RESPONDEU",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T20:53:29.186Z",
     "deliveredBlocks": [
       {
@@ -3461,7 +3461,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "RESPONDEU",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T20:56:59.049Z",
     "deliveredBlocks": [
       {
@@ -3503,9 +3503,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "RESPONDEU",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T21:00:42.773Z",
     "deliveredBlocks": [
       {
@@ -3547,9 +3547,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "RESPONDEU",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T21:04:37.760Z",
     "deliveredBlocks": [
       {
@@ -3591,9 +3591,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "RESPONDEU",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-16T21:08:53.449Z",
     "deliveredBlocks": [
       {
@@ -3802,7 +3802,7 @@ export const INITIAL_LEADS: Lead[] = [
     "replied": false,
     "sentAt": "2026-08-18T13:26:18.786Z",
     "deliveredBlocks": [],
-    "notes": "B2B gruporap.com.br - Não contatar no B2C. Encaminhado para o time de empresas.",
+    "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
     "dispatchedMessageIds": []
   },
   {
@@ -3871,7 +3871,7 @@ export const INITIAL_LEADS: Lead[] = [
     "replied": false,
     "sentAt": null,
     "deliveredBlocks": [],
-    "notes": "Email: gucale09@outlook.com | Solicitou reembolso - Bloqueado para novas ofertas de vendas.",
+    "notes": "[Reembolso Solicitado] Lead cancelou/solicitou reembolso. Isolado de novas ofertas.",
     "dispatchedMessageIds": []
   },
   {
@@ -3883,7 +3883,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": null,
@@ -3900,8 +3900,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
-    "interest": "MEDIO",
+    "status": "BLOQUEADO",
+    "interest": "DESQUALIFICADO",
     "replied": false,
     "sentAt": null,
     "deliveredBlocks": [],
@@ -3917,8 +3917,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
-    "interest": "MEDIO",
+    "status": "BLOQUEADO",
+    "interest": "DESQUALIFICADO",
     "replied": false,
     "sentAt": null,
     "deliveredBlocks": [],
@@ -3934,9 +3934,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "status": "NEGOCIACAO",
+    "interest": "ALTO",
+    "replied": true,
     "sentAt": "2026-08-23T20:12:23.326Z",
     "deliveredBlocks": [
       {
@@ -3960,9 +3960,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "status": "NEGOCIACAO",
+    "interest": "ALTO",
+    "replied": true,
     "sentAt": "2026-08-23T20:15:46.592Z",
     "deliveredBlocks": [
       {
@@ -3986,8 +3986,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
-    "interest": "MEDIO",
+    "status": "BLOQUEADO",
+    "interest": "DESQUALIFICADO",
     "replied": false,
     "sentAt": null,
     "deliveredBlocks": [],
@@ -4003,8 +4003,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
-    "interest": "MEDIO",
+    "status": "BLOQUEADO",
+    "interest": "DESQUALIFICADO",
     "replied": false,
     "sentAt": null,
     "deliveredBlocks": [],
@@ -4020,9 +4020,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Automações e Agentes de IA",
     "batch": "Lote 3 (Novos Consultivo)",
     "batchType": "tipo_a",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "status": "NEGOCIACAO",
+    "interest": "ALTO",
+    "replied": true,
     "sentAt": "2026-08-23T19:54:23.312Z",
     "deliveredBlocks": [
       {
@@ -4049,9 +4049,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Automações e Agentes de IA",
     "batch": "Lote 3 (Novos Consultivo)",
     "batchType": "tipo_a",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "status": "NEGOCIACAO",
+    "interest": "ALTO",
+    "replied": true,
     "sentAt": "2026-08-23T19:55:04.203Z",
     "deliveredBlocks": [
       {
@@ -4078,9 +4078,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Automações e Agentes de IA",
     "batch": "Lote 3 (Novos Consultivo)",
     "batchType": "tipo_a",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "status": "NEGOCIACAO",
+    "interest": "ALTO",
+    "replied": true,
     "sentAt": "2026-08-23T19:55:36.914Z",
     "deliveredBlocks": [
       {

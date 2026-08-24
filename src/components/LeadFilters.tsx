@@ -105,15 +105,16 @@ export const LeadFilters: React.FC<LeadFiltersProps> = ({
             className="w-full h-8 rounded-lg border border-input bg-background/80 px-2 text-xs focus:outline-none focus:ring-1 focus:ring-ring text-foreground"
           >
             <option value="ALL">Todos os Status</option>
-            <option value="ENTREGUE">Entregue (Aguardando)</option>
-            <option value="RESPONDEU">Respondeu</option>
-            <option value="NEGOCIACAO">Em Negociação</option>
-            <option value="CALL_AGENDADA">Call Agendada</option>
-            <option value="FECHADO">Venda Fechada</option>
+            <option value="CALL_AGENDADA">🚀 Call Agendada</option>
+            <option value="NEGOCIACAO">🔥 Em Negociação</option>
+            <option value="RESPONDEU">💬 Respondeu</option>
+            <option value="CONTATO_FUTURO">⏳ Contato Futuro / Nutrição</option>
+            <option value="ENTREGUE">📬 Entregue (Aguardando)</option>
             <option value="B2B_EMPRESAS">🏢 B2B - Empresas</option>
             <option value="REEMBOLSO">💸 Reembolso Solicitado</option>
+            <option value="FECHADO">✅ Venda Fechada</option>
             <option value="SEM_RESPOSTA">Sem Resposta</option>
-            <option value="BLOQUEADO">Bloqueado</option>
+            <option value="BLOQUEADO">🚫 Bloqueado</option>
           </select>
         </div>
 
@@ -126,6 +127,7 @@ export const LeadFilters: React.FC<LeadFiltersProps> = ({
             className="w-full h-8 rounded-lg border border-input bg-background/80 px-2 text-xs focus:outline-none focus:ring-1 focus:ring-ring text-foreground"
           >
             <option value="ALL">Todos os Interesses</option>
+            <option value="QUENTE">🚀 Quente / Fechando</option>
             <option value="ALTO">🔥 Alto Interesse</option>
             <option value="MEDIO">⚡ Médio Interesse</option>
             <option value="BAIXO">❄️ Baixo Interesse</option>
