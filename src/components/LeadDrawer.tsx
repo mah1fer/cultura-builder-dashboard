@@ -169,6 +169,7 @@ export const LeadDrawer: React.FC<LeadDrawerProps> = ({
                   onChange={(e) => onUpdateInterest(lead.id, e.target.value as InterestLevel)}
                   className="w-full h-9 rounded-lg border border-input bg-background px-3 text-xs text-foreground font-medium focus:ring-1 focus:ring-ring"
                 >
+                  <option value="QUENTE">🚀 Super Quente / Fechando</option>
                   <option value="ALTO">🔥 Alto Interesse</option>
                   <option value="MEDIO">⚡ Médio Interesse</option>
                   <option value="BAIXO">❄️ Baixo Interesse</option>

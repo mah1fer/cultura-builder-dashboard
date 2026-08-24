@@ -11,7 +11,7 @@ export type LeadStatus =
   | 'B2B_EMPRESAS'
   | 'REEMBOLSO';
 
-export type InterestLevel = 'ALTO' | 'MEDIO' | 'BAIXO' | 'DESQUALIFICADO';
+export type InterestLevel = 'QUENTE' | 'ALTO' | 'MEDIO' | 'BAIXO' | 'DESQUALIFICADO';
 
 export type BatchType = 'lote_1' | 'tipo_a' | 'tipo_b' | 'bloqueado' | 'b2b';
 

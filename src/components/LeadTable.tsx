@@ -169,6 +169,7 @@ export const LeadTable: React.FC<LeadTableProps> = ({
                         onChange={(e) => onUpdateInterest(lead.id, e.target.value as InterestLevel)}
                         className="bg-background/80 border border-input text-xs rounded-md px-2 py-1 focus:outline-none focus:ring-1 focus:ring-ring text-foreground font-medium"
                       >
+                        <option value="QUENTE">🚀 Quente</option>
                         <option value="ALTO">🔥 Alto</option>
                         <option value="MEDIO">⚡ Médio</option>
                         <option value="BAIXO">❄️ Baixo</option>
