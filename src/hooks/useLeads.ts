@@ -141,8 +141,12 @@ export function useLeads() {
     const totalReplied = repliedLeads.length;
     const replyRate = totalImpacted > 0 ? (totalReplied / totalImpacted) * 100 : 0;
 
-    const highInterestCount = leads.filter((l) => l.interest === "ALTO").length;
-    const inNegotiationCount = leads.filter((l) => l.status === "NEGOCIACAO").length;
+    const highInterestCount = leads.filter(
+      (l) => l.interest === "ALTO" || l.interest === "QUENTE" || l.status === "CALL_AGENDADA"
+    ).length;
+    const inNegotiationCount = leads.filter(
+      (l) => l.status === "NEGOCIACAO" || l.status === "CALL_AGENDADA"
+    ).length;
     const callsScheduledCount = leads.filter((l) => l.status === "CALL_AGENDADA").length;
     const dealsClosedCount = leads.filter((l) => l.status === "FECHADO").length;
 
