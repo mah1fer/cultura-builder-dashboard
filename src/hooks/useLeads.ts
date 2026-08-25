@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from "react";
 import { Lead, LeadStatus, InterestLevel, LeadFiltersState, DashboardMetrics } from "@/types/lead";
 import { INITIAL_LEADS } from "@/data/masterLeads";
 
-const STORAGE_KEY = "cultura_builder_leads_v12";
+const STORAGE_KEY = "cultura_builder_leads_v13";
 
 function getCanonicalPhone(phone: string): string {
   let digits = (phone || "").replace(/\D/g, "");

@@ -12,7 +12,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "tipo_a",
     "status": "ENTREGUE",
     "interest": "ALTO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-24T21:20:44.246Z",
     "deliveredBlocks": [
       {
@@ -323,9 +323,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Evoluir na carreira ou conseguir promoção",
     "batch": "B2B (gruporap.com.br)",
     "batchType": "b2b",
-    "status": "B2B_EMPRESAS",
+    "status": "RESPONDEU",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-17T14:01:55.227Z",
     "deliveredBlocks": [
       {
@@ -345,7 +345,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "A sua empresa já tá puxando iniciativas com IA ou é algo que tá partindo mais de você?"
       }
     ],
-    "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
+    "notes": "[Em Descoberta / Uso Casual] \"conversa com o GPT\", \"Boa tarde, Tudo bem?\". Apresentar casos reais de automação além do chat básico.",
     "dispatchedMessageIds": [
       "3EB062D902D1F08333EBC9",
       "3EB085EE6381425306BD9F",
@@ -677,7 +677,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "tipo_a",
     "status": "BLOQUEADO",
     "interest": "DESQUALIFICADO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-17T14:33:07.997Z",
     "deliveredBlocks": [
       {
@@ -705,7 +705,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[NÃO ENVIAR DISPARO] Já é aluno / membro ativo do Cultura Builder (com Ariel) | Atualizado em 24/08.",
+    "notes": "[Cliente Ativo - Já é Aluno] \"Já fazemos parte da comunidade, curso com o Ariel\". Isolado de abordagens de vendas.",
     "dispatchedMessageIds": [
       "3EB0FD475F59270D6F5EE9",
       "3EB01FA59F17441755356C",
@@ -905,7 +905,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "[Call Agendada / Formulário] Lead confirmou: \"já fiz o formulário, já marquei a call\". Aguardando realização da reunião.",
+    "notes": "[Venda Imediata / Reunião Agendada] \"Já fiz o formulário, já marquei a call\". Lead altamente qualificado aguardando realização da reunião.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1021,7 +1021,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "[Call Agendada / Alinhamento Fechado] Lead confirmou: \"fechado, é exatamente isso que busco, otimizar processos e procedimentos internos para ficarem mais dinâmicos e produtivos\". Prioridade Alta.",
+    "notes": "[Venda Imediata / Alta Prioridade] Dor operacional urgente: \"otimizar processos de notas fiscais e malotes manuais desenvolvendo formulário/sistema na Claude\". Fechamento imediato na reunião.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1079,9 +1079,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Economizar horas por semana no trabalho",
     "batch": "B2B (gruporap.com.br)",
     "batchType": "b2b",
-    "status": "B2B_EMPRESAS",
-    "interest": "MEDIO",
-    "replied": false,
+    "status": "CALL_AGENDADA",
+    "interest": "QUENTE",
+    "replied": true,
     "sentAt": "2026-08-16T15:50:17.243Z",
     "deliveredBlocks": [
       {
@@ -1101,7 +1101,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
+    "notes": "[Venda Imediata / Alta Prioridade] Dor operacional urgente: \"otimizar processos de notas fiscais e malotes manuais desenvolvendo formulário/sistema na Claude\". Fechamento imediato na reunião.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1197,7 +1197,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "ENTREGUE",
     "interest": "ALTO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-24T22:38:34.071Z",
     "deliveredBlocks": [
       {
@@ -1613,7 +1613,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[NÃO ENVIAR DISPARO] Excluído a pedido do usuário (Print) | Atualizado em 24/08.",
+    "notes": "[Bloqueado] Contato excluído conforme print de atendimento de Mateus.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1847,9 +1847,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
-    "interest": "ALTO",
-    "replied": false,
+    "status": "CONTATO_FUTURO",
+    "interest": "MEDIO",
+    "replied": true,
     "sentAt": "2026-08-24T23:28:56.803Z",
     "deliveredBlocks": [
       {
@@ -1877,7 +1877,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[NÃO ENVIAR DISPARO] Em conversa ativa com Mateus / Pediu contato futuro | Atualizado em 24/08.\n[Vídeo Enviado] Variação #4 em 20:28:56",
+    "notes": "[Contato Futuro / Atendimento Mateus] Contato estratégico alinhado para retomada em momento oportuno.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1891,9 +1891,9 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
-    "replied": false,
+    "replied": true,
     "sentAt": "2026-08-24T23:32:21.092Z",
     "deliveredBlocks": [
       {
@@ -1921,7 +1921,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:39:24.\n[Vídeo Enviado] Variação #1 em 20:32:21",
+    "notes": "[Contato Futuro / Alta Maturidade Técnica] Utiliza servidor pago e banco de dados conectado. Sem tempo no momento. Reativar com cases de escala avançada em 20 dias.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2949,7 +2949,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "ENTREGUE",
     "interest": "MEDIO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-25T13:47:09.195Z",
     "deliveredBlocks": [
       {
@@ -2993,7 +2993,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "ENTREGUE",
     "interest": "MEDIO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-25T13:19:57.458Z",
     "deliveredBlocks": [
       {
@@ -3079,7 +3079,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
     "replied": true,
     "sentAt": "2026-08-25T13:55:01.010Z",
@@ -3109,7 +3109,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:19:23. | [Contato Futuro / Nutrição] \"Não tive tempo... Mas pretendo... Tô sim\". Reativar em 7 dias.\n[Vídeo Enviado] Variação #4 em 10:55:01",
+    "notes": "[Contato Futuro / Falta de Tempo] \"Não tive tempo... Mas pretendo... Tô sim\". Rotina atarefada. Reativar em 10 dias com áudio curto de 1 min.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3125,7 +3125,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "ENTREGUE",
     "interest": "MEDIO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-25T13:59:32.933Z",
     "deliveredBlocks": [
       {
@@ -3167,7 +3167,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
     "replied": true,
     "sentAt": "2026-08-25T14:04:32.997Z",
@@ -3197,7 +3197,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:27:52. | [Contato Futuro / Maturidade Técnica] Utiliza IA para banco de dados/kanban. Não teve tempo no momento. Reativar com case avançado.\n[Vídeo Enviado] Variação #4 em 11:04:32",
+    "notes": "[Contato Futuro / Alta Maturidade Técnica] Utiliza servidor pago e banco de dados conectado. Sem tempo no momento. Reativar com cases de escala avançada em 20 dias.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3211,7 +3211,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "CONTATO_FUTURO",
     "interest": "MEDIO",
     "replied": true,
     "sentAt": "2026-08-25T14:09:23.354Z",
@@ -3241,7 +3241,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:31:30. | [Contato Futuro] Empresa utilizando Claude/hub interno. \"Depois eu dou uma olhada\".\n[Vídeo Enviado] Variação #2 em 11:09:23",
+    "notes": "[Contato Futuro / Empresa Estruturada] Empresa já possui hub interno de IA. \"Depois eu dou uma olhada\". Reativar no próximo ciclo corporativo.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3327,7 +3327,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Gerar renda nova com IA",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "RESPONDEU",
     "interest": "MEDIO",
     "replied": true,
     "sentAt": "2026-08-25T14:17:56.262Z",
@@ -3357,7 +3357,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:35:12. | [Respondeu] Respondeu positivamente à abordagem.\n[Vídeo Enviado] Variação #4 em 11:17:56",
+    "notes": "[Em Descoberta] Demonstrou interesse no material de IA e automação.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3415,7 +3415,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "RESPONDEU",
     "interest": "MEDIO",
     "replied": true,
     "sentAt": "2026-08-25T14:26:35.374Z",
@@ -3445,7 +3445,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:43:02. | [Respondeu] Conversando sobre aplicações práticas de IA.\n[Vídeo Enviado] Variação #4 em 11:26:35",
+    "notes": "[Em Descoberta] Recebeu o vídeo prático e respondeu positivamente à abordagem consultiva.",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3461,7 +3461,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "ENTREGUE",
     "interest": "MEDIO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-25T14:30:31.322Z",
     "deliveredBlocks": [
       {
@@ -3505,7 +3505,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "ENTREGUE",
     "interest": "MEDIO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-25T14:34:58.194Z",
     "deliveredBlocks": [
       {
@@ -3549,7 +3549,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "ENTREGUE",
     "interest": "MEDIO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-25T14:38:59.646Z",
     "deliveredBlocks": [
       {
@@ -3593,7 +3593,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "lote_1",
     "status": "ENTREGUE",
     "interest": "MEDIO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-25T14:43:10.366Z",
     "deliveredBlocks": [
       {
@@ -3871,7 +3871,7 @@ export const INITIAL_LEADS: Lead[] = [
     "replied": false,
     "sentAt": null,
     "deliveredBlocks": [],
-    "notes": "[Reembolso Solicitado] Lead cancelou/solicitou reembolso. Isolado de novas ofertas.",
+    "notes": "[Reembolso] Solicitação de reembolso registrada.",
     "dispatchedMessageIds": []
   },
   {
@@ -3936,7 +3936,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "tipo_a",
     "status": "ENTREGUE",
     "interest": "ALTO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-25T15:04:13.480Z",
     "deliveredBlocks": [
       {
@@ -3948,7 +3948,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
       }
     ],
-    "notes": "Disparo consultivo Fase 1 (1B) entregue via WhatsApp em 17:12:23.\n[Vídeo Enviado] Variação #4 em 12:04:13",
+    "notes": "[Recebeu Disparo - Sem Resposta] Vídeo prático e mensagem de CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu. Em nutrição passiva.",
     "dispatchedMessageIds": []
   },
   {
@@ -3962,7 +3962,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "tipo_a",
     "status": "ENTREGUE",
     "interest": "ALTO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-25T15:08:31.246Z",
     "deliveredBlocks": [
       {
@@ -3974,7 +3974,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
       }
     ],
-    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 17:15:46.\n[Vídeo Enviado] Variação #2 em 12:08:31",
+    "notes": "[Recebeu Disparo - Sem Resposta] Vídeo prático e mensagem de CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu. Em nutrição passiva.",
     "dispatchedMessageIds": []
   },
   {
@@ -4034,7 +4034,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
       }
     ],
-    "notes": "[NÃO ENVIAR DISPARO] Excluído a pedido do usuário (Print) | Atualizado em 24/08.",
+    "notes": "[Bloqueado] Contato excluído conforme print de atendimento de Mateus.",
     "dispatchedMessageIds": [
       "3EB00B3F84F16155D0B7F2",
       "3EB0F65D3AB4ABEBE40C34"
@@ -4051,7 +4051,7 @@ export const INITIAL_LEADS: Lead[] = [
     "batchType": "tipo_a",
     "status": "ENTREGUE",
     "interest": "ALTO",
-    "replied": true,
+    "replied": false,
     "sentAt": "2026-08-25T15:12:03.719Z",
     "deliveredBlocks": [
       {
@@ -4063,7 +4063,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
       }
     ],
-    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 16:55:04.\n[Vídeo Enviado] Variação #4 em 12:12:03",
+    "notes": "[Recebeu Disparo - Sem Resposta] Vídeo prático e mensagem de CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu. Em nutrição passiva.",
     "dispatchedMessageIds": [
       "3EB01FE11FF46DC22ED54E",
       "3EB0387A5BD87EE9C436F6"
@@ -4078,7 +4078,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Automações e Agentes de IA",
     "batch": "Lote 3 (Novos Consultivo)",
     "batchType": "tipo_a",
-    "status": "ENTREGUE",
+    "status": "NEGOCIACAO",
     "interest": "ALTO",
     "replied": true,
     "sentAt": "2026-08-25T15:15:56.501Z",
@@ -4092,7 +4092,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
       }
     ],
-    "notes": "[NÃO ENVIAR DISPARO] Em conversa ativa por áudio com Mateus | Atualizado em 24/08.\n[Vídeo Enviado] Variação #2 em 12:15:56",
+    "notes": "[Venda Imediata / Negociação Direta] Em negociação ativa via áudio com Mateus. Atendimento exclusivo.",
     "dispatchedMessageIds": [
       "3EB07CCFAAF6F8173C5B29",
       "3EB0732216E66911782A5B"
@@ -4121,7 +4121,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
       }
     ],
-    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 16:56:09.\n[Vídeo Enviado] Variação #4 em 12:19:47",
+    "notes": "[Recebeu Disparo - Sem Resposta] Vídeo prático e mensagem de CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu. Em nutrição passiva.",
     "dispatchedMessageIds": [
       "3EB0375A5BB541CACB2454",
       "3EB03F3E0D3A76695EC1CD"
