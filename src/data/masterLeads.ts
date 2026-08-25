@@ -10,10 +10,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Me sentir confiante usando qualquer ferramenta de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "NEGOCIACAO",
+    "status": "ENTREGUE",
     "interest": "ALTO",
     "replied": true,
-    "sentAt": "2026-08-17T13:35:19.998Z",
+    "sentAt": "2026-08-24T21:20:44.246Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -40,7 +40,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 17:46:51.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 17:46:51.\n[Vídeo Enviado] Variação #1 em 18:20:44",
     "dispatchedMessageIds": [
       "3EB00AD24E6CCD489A6282",
       "3EB09C637F16ACC5CAE364",
@@ -60,7 +60,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T13:38:41.194Z",
+    "sentAt": "2026-08-24T21:25:04.174Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -87,7 +87,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 17:50:26.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 17:50:26.\n[Vídeo Enviado] Variação #2 em 18:25:04",
     "dispatchedMessageIds": [
       "3EB0DFACD7C931445BFF91",
       "3EB04AD0819C0F9C33C07C",
@@ -107,7 +107,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T13:42:19.619Z",
+    "sentAt": "2026-08-25T13:22:09.070Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -134,7 +134,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 17:54:27.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 17:54:27.\n[Vídeo Enviado] Variação #4 em 10:22:09",
     "dispatchedMessageIds": [
       "3EB09818B915D6F019A25D",
       "3EB03B9E59354738A89CB7",
@@ -154,7 +154,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T13:46:17.379Z",
+    "sentAt": "2026-08-24T21:33:03.059Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -181,7 +181,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 17:58:17.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 17:58:17.\n[Vídeo Enviado] Variação #3 em 18:33:03",
     "dispatchedMessageIds": [
       "3EB0B7D98B0EBDD5B18EFE",
       "3EB0364A48A94E4230D5E3",
@@ -201,7 +201,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T13:50:30.072Z",
+    "sentAt": "2026-08-24T21:36:41.318Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -228,7 +228,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:01:48.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:01:48.\n[Vídeo Enviado] Variação #4 em 18:36:41",
     "dispatchedMessageIds": [
       "3EB0A8E9C825A83C2AB3CF",
       "3EB08821123AF0FFF38A70",
@@ -365,7 +365,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T14:06:13.413Z",
+    "sentAt": "2026-08-24T21:40:33.715Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -392,7 +392,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:05:44.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:05:44.\n[Vídeo Enviado] Variação #1 em 18:40:33",
     "dispatchedMessageIds": [
       "3EB08E935F5D0D1329B436",
       "3EB02784EFC2DD786BF0D0",
@@ -412,7 +412,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T14:09:49.031Z",
+    "sentAt": "2026-08-24T21:45:03.377Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -431,7 +431,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já tem algum projeto em mente pra aplicar IA ou ainda tá descobrindo caminhos?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.\n[Vídeo Enviado] Variação #2 em 18:45:03",
     "dispatchedMessageIds": [
       "3EB0733972DC9DF4B472FF",
       "3EB05AA327F930F4DD8B33",
@@ -490,7 +490,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T14:17:48.180Z",
+    "sentAt": "2026-08-24T21:48:46.920Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -517,7 +517,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:09:05.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:09:05.\n[Vídeo Enviado] Variação #3 em 18:48:46",
     "dispatchedMessageIds": [
       "3EB089ED8BED1AD6DB7A48",
       "3EB0A2298997D966889448",
@@ -537,7 +537,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T14:21:13.207Z",
+    "sentAt": "2026-08-24T21:52:56.387Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -564,7 +564,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:13:11.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:13:11.\n[Vídeo Enviado] Variação #4 em 18:52:56",
     "dispatchedMessageIds": [
       "3EB03BF16F88CE745FA89B",
       "3EB099BA345853B8344094",
@@ -584,7 +584,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T14:24:55.360Z",
+    "sentAt": "2026-08-24T21:56:36.221Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -611,7 +611,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:16:48.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:16:48.\n[Vídeo Enviado] Variação #1 em 18:56:36",
     "dispatchedMessageIds": [
       "3EB09A5D9701474BD46DE8",
       "3EB0C86478B0C04654E666",
@@ -631,7 +631,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T14:28:54.603Z",
+    "sentAt": "2026-08-24T22:00:23.959Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -658,7 +658,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:20:49.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:20:49.\n[Vídeo Enviado] Variação #2 em 19:00:23",
     "dispatchedMessageIds": [
       "3EB0442AC033F3BFE57426",
       "3EB051C41C8980ADA0508E",
@@ -725,7 +725,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T14:36:41.750Z",
+    "sentAt": "2026-08-24T22:04:32.690Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -752,7 +752,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:28:34.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:28:34.\n[Vídeo Enviado] Variação #3 em 19:04:32",
     "dispatchedMessageIds": [
       "3EB056812114D8380873A9",
       "3EB0F4505A361E7D6E358A",
@@ -772,7 +772,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T14:40:28.197Z",
+    "sentAt": "2026-08-24T22:08:43.358Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -791,7 +791,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já tem alguma ideia prática pra aplicar IA ou ainda tá descobrindo as possibilidades?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.\n[Vídeo Enviado] Variação #4 em 19:08:43",
     "dispatchedMessageIds": [
       "3EB0AB6FC29B820B614FFF",
       "3EB037347DC001D061D44C",
@@ -811,7 +811,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-17T14:44:34.709Z",
+    "sentAt": "2026-08-24T22:13:03.701Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -830,7 +830,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já tem alguma automação rodando no seu negócio hoje ou ainda tá avaliando?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.",
+    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.\n[Vídeo Enviado] Variação #1 em 19:13:03",
     "dispatchedMessageIds": [
       "3EB03D49B94EF5547D6E76",
       "3EB0E2D1442F20B6587716",
@@ -850,7 +850,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T15:28:07.940Z",
+    "sentAt": "2026-08-24T22:17:46.584Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -869,7 +869,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue.\n[Vídeo Enviado] Variação #2 em 19:17:46",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -922,7 +922,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T15:34:58.561Z",
+    "sentAt": "2026-08-24T22:21:59.357Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -941,7 +941,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "Campanha de oferta oficial com imagem entregue.\n[Vídeo Enviado] Variação #3 em 19:21:59",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -958,7 +958,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T15:38:53.532Z",
+    "sentAt": "2026-08-24T22:26:17.314Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -985,7 +985,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:32:48.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:32:48.\n[Vídeo Enviado] Variação #4 em 19:26:17",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1038,7 +1038,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T15:46:30.667Z",
+    "sentAt": "2026-08-24T22:30:33.675Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1065,7 +1065,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:36:11.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:36:11.\n[Vídeo Enviado] Variação #1 em 19:30:33",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1154,7 +1154,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T15:58:35.708Z",
+    "sentAt": "2026-08-24T22:34:53.995Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1181,7 +1181,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:40:25.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:40:25.\n[Vídeo Enviado] Variação #2 em 19:34:53",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1195,10 +1195,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Gerar renda nova com IA",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "NEGOCIACAO",
+    "status": "ENTREGUE",
     "interest": "ALTO",
     "replied": true,
-    "sentAt": "2026-08-16T16:02:11.875Z",
+    "sentAt": "2026-08-24T22:38:34.071Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1225,7 +1225,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[Alto Potencial / Negociação] \"Meu objetivo é conhecer a plataforma, me aprofundar nos conteúdos... prestar serviços e desenvolver projetos com IA\". Enviou LinkedIn: https://www.linkedin.com/in/geraldoveiga",
+    "notes": "[Alto Potencial / Negociação] \"Meu objetivo é conhecer a plataforma, me aprofundar nos conteúdos... prestar serviços e desenvolver projetos com IA\". Enviou LinkedIn: https://www.linkedin.com/in/geraldoveiga\n[Vídeo Enviado] Variação #3 em 19:38:34",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1242,7 +1242,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T16:06:04.602Z",
+    "sentAt": "2026-08-24T22:42:11.893Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1269,7 +1269,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:48:16.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:48:16.\n[Vídeo Enviado] Variação #4 em 19:42:11",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1286,7 +1286,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T16:10:14.368Z",
+    "sentAt": "2026-08-24T22:46:03.292Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1313,7 +1313,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:51:41.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:51:41.\n[Vídeo Enviado] Variação #1 em 19:46:03",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1330,7 +1330,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T17:46:23.822Z",
+    "sentAt": "2026-08-24T22:50:26.885Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1357,7 +1357,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:55:22.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:55:22.\n[Vídeo Enviado] Variação #2 em 19:50:26",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1374,7 +1374,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T17:50:11.639Z",
+    "sentAt": "2026-08-24T22:54:30.697Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1401,7 +1401,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:58:52.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:58:52.\n[Vídeo Enviado] Variação #3 em 19:54:30",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1418,7 +1418,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T17:54:16.418Z",
+    "sentAt": "2026-08-24T22:58:14.352Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1445,7 +1445,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:02:15.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:02:15.\n[Vídeo Enviado] Variação #4 em 19:58:14",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1462,7 +1462,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T17:58:39.255Z",
+    "sentAt": "2026-08-24T23:01:49.085Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1489,7 +1489,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:05:43.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:05:43.\n[Vídeo Enviado] Variação #1 em 20:01:49",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1506,7 +1506,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:02:14.184Z",
+    "sentAt": "2026-08-24T23:05:17.023Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1533,7 +1533,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:09:54.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:09:54.\n[Vídeo Enviado] Variação #2 em 20:05:17",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1630,7 +1630,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:13:59.166Z",
+    "sentAt": "2026-08-24T23:09:17.430Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1657,7 +1657,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:17:08.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:17:08.\n[Vídeo Enviado] Variação #3 em 20:09:17",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1674,7 +1674,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:17:52.071Z",
+    "sentAt": "2026-08-24T23:13:13.587Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1701,7 +1701,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:20:53.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:20:53.\n[Vídeo Enviado] Variação #4 em 20:13:13",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1718,7 +1718,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:22:06.923Z",
+    "sentAt": "2026-08-24T23:16:43.737Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1745,7 +1745,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:24:44.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:24:44.\n[Vídeo Enviado] Variação #1 em 20:16:43",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1762,7 +1762,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:26:27.747Z",
+    "sentAt": "2026-08-24T23:20:38.996Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1789,7 +1789,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:28:16.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:28:16.\n[Vídeo Enviado] Variação #2 em 20:20:38",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1806,7 +1806,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:30:01.306Z",
+    "sentAt": "2026-08-24T23:24:52.546Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1833,7 +1833,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:31:36.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:31:36.\n[Vídeo Enviado] Variação #3 em 20:24:52",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1847,10 +1847,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "ALTO",
     "replied": false,
-    "sentAt": "2026-08-16T18:33:50.391Z",
+    "sentAt": "2026-08-24T23:28:56.803Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1877,7 +1877,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[NÃO ENVIAR DISPARO] Em conversa ativa com Mateus / Pediu contato futuro | Atualizado em 24/08.",
+    "notes": "[NÃO ENVIAR DISPARO] Em conversa ativa com Mateus / Pediu contato futuro | Atualizado em 24/08.\n[Vídeo Enviado] Variação #4 em 20:28:56",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1894,7 +1894,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:37:58.535Z",
+    "sentAt": "2026-08-24T23:32:21.092Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1921,7 +1921,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:39:24.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:39:24.\n[Vídeo Enviado] Variação #1 em 20:32:21",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1938,7 +1938,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:41:20.726Z",
+    "sentAt": "2026-08-24T23:36:08.285Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -1965,7 +1965,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:43:15.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:43:15.\n[Vídeo Enviado] Variação #2 em 20:36:08",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -1982,7 +1982,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:45:06.276Z",
+    "sentAt": "2026-08-24T23:40:27.123Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2009,7 +2009,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:46:53.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:46:53.\n[Vídeo Enviado] Variação #3 em 20:40:27",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2070,7 +2070,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:53:29.691Z",
+    "sentAt": "2026-08-24T23:47:28.671Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2097,7 +2097,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:54:27.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:54:27.\n[Vídeo Enviado] Variação #4 em 20:47:28",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2158,7 +2158,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:00:56.540Z",
+    "sentAt": "2026-08-24T23:55:32.449Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2185,7 +2185,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:01:23.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:01:23.\n[Vídeo Enviado] Variação #1 em 20:55:32",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2202,7 +2202,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:05:02.824Z",
+    "sentAt": "2026-08-24T23:58:58.221Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2229,7 +2229,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:05:05.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:05:05.\n[Vídeo Enviado] Variação #2 em 20:58:58",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2246,7 +2246,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:08:29.763Z",
+    "sentAt": "2026-08-25T00:03:03.648Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2273,7 +2273,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:08:48.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:08:48.\n[Vídeo Enviado] Variação #3 em 21:03:03",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2290,7 +2290,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:12:11.573Z",
+    "sentAt": "2026-08-25T00:07:18.698Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2317,7 +2317,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:12:36.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:12:36.\n[Vídeo Enviado] Variação #4 em 21:07:18",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2334,7 +2334,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:16:07.480Z",
+    "sentAt": "2026-08-25T00:10:52.054Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2361,7 +2361,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:16:35.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:16:35.\n[Vídeo Enviado] Variação #1 em 21:10:52",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2378,7 +2378,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:20:24.621Z",
+    "sentAt": "2026-08-25T00:14:30.381Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2405,7 +2405,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:20:37.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:20:37.\n[Vídeo Enviado] Variação #2 em 21:14:30",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2422,7 +2422,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:23:57.918Z",
+    "sentAt": "2026-08-25T00:18:07.128Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2449,7 +2449,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:23:57.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:23:57.\n[Vídeo Enviado] Variação #3 em 21:18:07",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2466,7 +2466,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:27:51.047Z",
+    "sentAt": "2026-08-25T00:21:40.653Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2493,7 +2493,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:27:11.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:27:11.\n[Vídeo Enviado] Variação #4 em 21:21:40",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2510,7 +2510,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:31:57.691Z",
+    "sentAt": "2026-08-25T00:25:30.340Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2537,7 +2537,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:31:14.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:31:14.\n[Vídeo Enviado] Variação #1 em 21:25:30",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2598,7 +2598,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:38:58.599Z",
+    "sentAt": "2026-08-25T00:33:11.969Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2625,7 +2625,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:38:00.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:38:00.\n[Vídeo Enviado] Variação #2 em 21:33:11",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2642,7 +2642,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:43:04.059Z",
+    "sentAt": "2026-08-25T00:36:36.270Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2669,7 +2669,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:41:19.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:41:19.\n[Vídeo Enviado] Variação #3 em 21:36:36",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2686,7 +2686,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:47:20.153Z",
+    "sentAt": "2026-08-25T00:40:39.928Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2713,7 +2713,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:44:54.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:44:54.\n[Vídeo Enviado] Variação #4 em 21:40:39",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2730,7 +2730,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:50:49.138Z",
+    "sentAt": "2026-08-25T00:44:49.816Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2757,7 +2757,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:48:58.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:48:58.\n[Vídeo Enviado] Variação #1 em 21:44:49",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2818,7 +2818,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:58:43.280Z",
+    "sentAt": "2026-08-25T00:52:45.378Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2845,7 +2845,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:56:32.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:56:32.\n[Vídeo Enviado] Variação #2 em 21:52:45",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2906,7 +2906,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T20:05:44.252Z",
+    "sentAt": "2026-08-25T13:43:03.499Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2933,7 +2933,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:03:42.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:03:42.\n[Vídeo Enviado] Variação #2 em 10:43:03",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2947,10 +2947,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T20:09:41.064Z",
+    "sentAt": "2026-08-25T13:47:09.195Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -2977,7 +2977,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:07:39.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:07:39.\n[Vídeo Enviado] Variação #4 em 10:47:09",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -2991,10 +2991,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Economizar horas por semana no trabalho",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T20:13:58.970Z",
+    "sentAt": "2026-08-25T13:19:57.458Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3021,7 +3021,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:10:55.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:10:55.\n[Vídeo Enviado] Variação #3 em 10:19:57",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3038,7 +3038,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T20:17:28.946Z",
+    "sentAt": "2026-08-25T13:50:36.137Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3065,7 +3065,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:15:05.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:15:05.\n[Vídeo Enviado] Variação #2 em 10:50:36",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3079,10 +3079,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T20:21:22.717Z",
+    "sentAt": "2026-08-25T13:55:01.010Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3109,7 +3109,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:19:23. | [Contato Futuro / Nutrição] \"Não tive tempo... Mas pretendo... Tô sim\". Reativar em 7 dias.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:19:23. | [Contato Futuro / Nutrição] \"Não tive tempo... Mas pretendo... Tô sim\". Reativar em 7 dias.\n[Vídeo Enviado] Variação #4 em 10:55:01",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3123,10 +3123,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T20:25:33.962Z",
+    "sentAt": "2026-08-25T13:59:32.933Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3153,7 +3153,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:23:54. | [Contato Futuro] Lead demonstrou interesse em projeto de IA, porém pediu para validar no próximo ciclo.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:23:54. | [Contato Futuro] Lead demonstrou interesse em projeto de IA, porém pediu para validar no próximo ciclo.\n[Vídeo Enviado] Variação #2 em 10:59:32",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3167,10 +3167,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T20:29:01.588Z",
+    "sentAt": "2026-08-25T14:04:32.997Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3197,7 +3197,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:27:52. | [Contato Futuro / Maturidade Técnica] Utiliza IA para banco de dados/kanban. Não teve tempo no momento. Reativar com case avançado.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:27:52. | [Contato Futuro / Maturidade Técnica] Utiliza IA para banco de dados/kanban. Não teve tempo no momento. Reativar com case avançado.\n[Vídeo Enviado] Variação #4 em 11:04:32",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3211,10 +3211,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T20:32:45.732Z",
+    "sentAt": "2026-08-25T14:09:23.354Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3241,7 +3241,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:31:30. | [Contato Futuro] Empresa utilizando Claude/hub interno. \"Depois eu dou uma olhada\".",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:31:30. | [Contato Futuro] Empresa utilizando Claude/hub interno. \"Depois eu dou uma olhada\".\n[Vídeo Enviado] Variação #2 em 11:09:23",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3327,10 +3327,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Gerar renda nova com IA",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "RESPONDEU",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T20:44:24.403Z",
+    "sentAt": "2026-08-25T14:17:56.262Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3357,7 +3357,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:35:12. | [Respondeu] Respondeu positivamente à abordagem.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:35:12. | [Respondeu] Respondeu positivamente à abordagem.\n[Vídeo Enviado] Variação #4 em 11:17:56",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3374,7 +3374,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T20:48:16.479Z",
+    "sentAt": "2026-08-25T14:22:11.514Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3401,7 +3401,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:38:49.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:38:49.\n[Vídeo Enviado] Variação #2 em 11:22:11",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3415,10 +3415,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "RESPONDEU",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T20:53:29.186Z",
+    "sentAt": "2026-08-25T14:26:35.374Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3445,7 +3445,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:43:02. | [Respondeu] Conversando sobre aplicações práticas de IA.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:43:02. | [Respondeu] Conversando sobre aplicações práticas de IA.\n[Vídeo Enviado] Variação #4 em 11:26:35",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3459,10 +3459,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "RESPONDEU",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T20:56:59.049Z",
+    "sentAt": "2026-08-25T14:30:31.322Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3489,7 +3489,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:46:43. | [Respondeu] Respondeu à mensagem consultiva.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:46:43. | [Respondeu] Respondeu à mensagem consultiva.\n[Vídeo Enviado] Variação #2 em 11:30:31",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3503,10 +3503,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "RESPONDEU",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T21:00:42.773Z",
+    "sentAt": "2026-08-25T14:34:58.194Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3533,7 +3533,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:50:42.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:50:42.\n[Vídeo Enviado] Variação #4 em 11:34:58",
     "dispatchedMessageIds": [
       "ok"
     ]
