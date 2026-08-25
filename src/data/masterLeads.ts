@@ -3547,10 +3547,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "RESPONDEU",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T21:04:37.760Z",
+    "sentAt": "2026-08-25T14:38:59.646Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3577,7 +3577,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:54:38.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:54:38.\n[Vídeo Enviado] Variação #2 em 11:38:59",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3591,10 +3591,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "RESPONDEU",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-16T21:08:53.449Z",
+    "sentAt": "2026-08-25T14:43:10.366Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3621,7 +3621,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:57:56.",
+    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:57:56.\n[Vídeo Enviado] Variação #4 em 11:43:10",
     "dispatchedMessageIds": [
       "ok"
     ]
@@ -3774,7 +3774,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-18T13:26:18.783Z",
+    "sentAt": "2026-08-25T14:47:29.144Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3785,7 +3785,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2B) enviado em 22:01:36.",
+    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2B) enviado em 22:01:36.\n[Vídeo Enviado] Variação #2 em 11:47:29",
     "dispatchedMessageIds": []
   },
   {
@@ -3817,7 +3817,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-18T13:26:18.786Z",
+    "sentAt": "2026-08-25T14:51:32.357Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3828,7 +3828,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2A) enviado em 22:05:04.",
+    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2A) enviado em 22:05:04.\n[Vídeo Enviado] Variação #4 em 11:51:32",
     "dispatchedMessageIds": []
   },
   {
@@ -3843,7 +3843,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-18T13:26:18.786Z",
+    "sentAt": "2026-08-25T14:55:39.981Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3854,7 +3854,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2B) enviado em 22:08:20.",
+    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2B) enviado em 22:08:20.\n[Vídeo Enviado] Variação #2 em 11:55:39",
     "dispatchedMessageIds": []
   },
   {
@@ -3934,10 +3934,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "NEGOCIACAO",
+    "status": "ENTREGUE",
     "interest": "ALTO",
     "replied": true,
-    "sentAt": "2026-08-23T20:12:23.326Z",
+    "sentAt": "2026-08-25T15:04:13.480Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3948,7 +3948,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
       }
     ],
-    "notes": "Disparo consultivo Fase 1 (1B) entregue via WhatsApp em 17:12:23.",
+    "notes": "Disparo consultivo Fase 1 (1B) entregue via WhatsApp em 17:12:23.\n[Vídeo Enviado] Variação #4 em 12:04:13",
     "dispatchedMessageIds": []
   },
   {
@@ -3960,10 +3960,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar Hub de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "NEGOCIACAO",
+    "status": "ENTREGUE",
     "interest": "ALTO",
     "replied": true,
-    "sentAt": "2026-08-23T20:15:46.592Z",
+    "sentAt": "2026-08-25T15:08:31.246Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -3974,7 +3974,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
       }
     ],
-    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 17:15:46.",
+    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 17:15:46.\n[Vídeo Enviado] Variação #2 em 12:08:31",
     "dispatchedMessageIds": []
   },
   {
@@ -4049,10 +4049,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Automações e Agentes de IA",
     "batch": "Lote 3 (Novos Consultivo)",
     "batchType": "tipo_a",
-    "status": "NEGOCIACAO",
+    "status": "ENTREGUE",
     "interest": "ALTO",
     "replied": true,
-    "sentAt": "2026-08-23T19:55:04.203Z",
+    "sentAt": "2026-08-25T15:12:03.719Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -4063,7 +4063,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
       }
     ],
-    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 16:55:04.",
+    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 16:55:04.\n[Vídeo Enviado] Variação #4 em 12:12:03",
     "dispatchedMessageIds": [
       "3EB01FE11FF46DC22ED54E",
       "3EB0387A5BD87EE9C436F6"
@@ -4078,10 +4078,10 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Automações e Agentes de IA",
     "batch": "Lote 3 (Novos Consultivo)",
     "batchType": "tipo_a",
-    "status": "NEGOCIACAO",
+    "status": "ENTREGUE",
     "interest": "ALTO",
     "replied": true,
-    "sentAt": "2026-08-23T19:55:36.914Z",
+    "sentAt": "2026-08-25T15:15:56.501Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -4092,7 +4092,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
       }
     ],
-    "notes": "[NÃO ENVIAR DISPARO] Em conversa ativa por áudio com Mateus | Atualizado em 24/08.",
+    "notes": "[NÃO ENVIAR DISPARO] Em conversa ativa por áudio com Mateus | Atualizado em 24/08.\n[Vídeo Enviado] Variação #2 em 12:15:56",
     "dispatchedMessageIds": [
       "3EB07CCFAAF6F8173C5B29",
       "3EB0732216E66911782A5B"
@@ -4110,7 +4110,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-23T19:56:09.164Z",
+    "sentAt": "2026-08-25T15:19:47.867Z",
     "deliveredBlocks": [
       {
         "block": 1,
@@ -4121,7 +4121,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
       }
     ],
-    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 16:56:09.",
+    "notes": "Disparo consultivo Fase 1 (1A) entregue via WhatsApp em 16:56:09.\n[Vídeo Enviado] Variação #4 em 12:19:47",
     "dispatchedMessageIds": [
       "3EB0375A5BB541CACB2454",
       "3EB03F3E0D3A76695EC1CD"
