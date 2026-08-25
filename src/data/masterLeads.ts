@@ -46,7 +46,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB09C637F16ACC5CAE364",
       "3EB0CC8B84FE830CDE2034",
       "3EB0614834633B7050C03F"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5548999611161",
@@ -93,7 +95,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB04AD0819C0F9C33C07C",
       "3EB04D7BE404A955EE1E88",
       "3EB08935BE50CFED8069CB"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5543999553366",
@@ -140,7 +144,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB03B9E59354738A89CB7",
       "3EB0BE186E2CE0413F1D60",
       "3EB07E0211BCB5283BC12B"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5531991688340",
@@ -187,7 +193,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0364A48A94E4230D5E3",
       "3EB05DF9F56F735BC3823D",
       "3EB032358016CEEFB7E11C"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5511989586811",
@@ -234,7 +242,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB08821123AF0FFF38A70",
       "3EB036EBD28009C468A641",
       "3EB035918174C764727446"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5511947308774",
@@ -273,7 +283,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0C56FAD1A0634E0DDE7",
       "3EB0B928657B8AC8DB559B",
       "3EB09D047584128AF5A4EA"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5511978708045",
@@ -312,7 +324,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB030705D3631FF990B57",
       "3EB05304AFFA51B93F89CB",
       "3EB0B44FBD3BF21E36ED2C"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5511914620670",
@@ -351,7 +365,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB085EE6381425306BD9F",
       "3EB063CBAD55BADC6C227B",
       "3EB0A53E82EA2C481E9685"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "BASICO"
   },
   {
     "id": "lead-a-5511992467687",
@@ -398,7 +414,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB02784EFC2DD786BF0D0",
       "3EB0E6000344F9D75EFB93",
       "3EB0E503EB103F10D03C77"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5519992771601",
@@ -437,7 +455,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB05AA327F930F4DD8B33",
       "3EB0E36534FBF59483486E",
       "3EB0B687B6148A9528CEB0"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5511993887615",
@@ -476,7 +496,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB04517A87267B1EE6382",
       "3EB005B88FBFC7754EEFCB",
       "3EB0666F3DB989A4F86453"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5521982765428",
@@ -523,7 +545,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0A2298997D966889448",
       "3EB0AB2F56A0AFA8EB7AC5",
       "3EB021ECDB3FE985EDA866"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5513997594461",
@@ -570,7 +594,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB099BA345853B8344094",
       "3EB0484911740113211A81",
       "3EB01F3B9479F36DB824FE"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5585999953035",
@@ -617,7 +643,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0C86478B0C04654E666",
       "3EB0972CBDD5A6826DA626",
       "3EB03634771C55924CCEEF"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5531997839282",
@@ -664,7 +692,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB051C41C8980ADA0508E",
       "3EB0997D18DB1196EB0C9E",
       "3EB0011132D91980BFC466"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5511982062736",
@@ -711,7 +741,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB01FA59F17441755356C",
       "3EB0ABED2D40B46E9E3406",
       "3EB079AFA71F83B41D545A"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5585999687760",
@@ -758,7 +790,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0F4505A361E7D6E358A",
       "3EB0CBB2252C8CF6E1423B",
       "3EB03E4C7889B89199106F"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5524999881980",
@@ -797,7 +831,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB037347DC001D061D44C",
       "3EB0B6A41F70818927D15E",
       "3EB0113DECAD8D394E9F68"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-a-5547936186344",
@@ -836,7 +872,9 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0E2D1442F20B6587716",
       "3EB0A0D486EEEE60D92E19",
       "3EB0FA90F853C0FA9C2304"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5585996227722",
@@ -872,7 +910,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue.\n[Vídeo Enviado] Variação #2 em 19:17:46",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-554399553268",
@@ -908,7 +948,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Venda Imediata / Reunião Agendada] \"Já fiz o formulário, já marquei a call\". Lead altamente qualificado aguardando realização da reunião.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "INTERMEDIARIO"
   },
   {
     "id": "lead-1-5511983046433",
@@ -944,7 +986,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue.\n[Vídeo Enviado] Variação #3 em 19:21:59",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511949779993",
@@ -988,7 +1032,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:32:48.\n[Vídeo Enviado] Variação #4 em 19:26:17",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511978262189",
@@ -1024,7 +1070,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Venda Imediata / Alta Prioridade] Dor operacional urgente: \"otimizar processos de notas fiscais e malotes manuais desenvolvendo formulário/sistema na Claude\". Fechamento imediato na reunião.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "INTERMEDIARIO"
   },
   {
     "id": "lead-1-5511945408381",
@@ -1068,7 +1116,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:36:11.\n[Vídeo Enviado] Variação #1 em 19:30:33",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511978260925",
@@ -1104,7 +1154,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Venda Imediata / Alta Prioridade] Dor operacional urgente: \"otimizar processos de notas fiscais e malotes manuais desenvolvendo formulário/sistema na Claude\". Fechamento imediato na reunião.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "INTERMEDIARIO"
   },
   {
     "id": "lead-1-5511973272019",
@@ -1140,7 +1192,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5519999277160",
@@ -1184,7 +1238,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:40:25.\n[Vídeo Enviado] Variação #2 em 19:34:53",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5521972181983",
@@ -1228,7 +1284,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Alto Potencial / Negociação] \"Meu objetivo é conhecer a plataforma, me aprofundar nos conteúdos... prestar serviços e desenvolver projetos com IA\". Enviou LinkedIn: https://www.linkedin.com/in/geraldoveiga\n[Vídeo Enviado] Variação #3 em 19:38:34",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5521981245025",
@@ -1272,7 +1330,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:48:16.\n[Vídeo Enviado] Variação #4 em 19:42:11",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5521975143314",
@@ -1316,7 +1376,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:51:41.\n[Vídeo Enviado] Variação #1 em 19:46:03",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-559891014492",
@@ -1360,7 +1422,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:55:22.\n[Vídeo Enviado] Variação #2 em 19:50:26",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5517997029453",
@@ -1404,7 +1468,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:58:52.\n[Vídeo Enviado] Variação #3 em 19:54:30",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-559281741825",
@@ -1448,7 +1514,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:02:15.\n[Vídeo Enviado] Variação #4 em 19:58:14",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-557391019834",
@@ -1492,7 +1560,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:05:43.\n[Vídeo Enviado] Variação #1 em 20:01:49",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-553488658519",
@@ -1536,7 +1606,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:09:54.\n[Vídeo Enviado] Variação #2 em 20:05:17",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511999992323",
@@ -1572,7 +1644,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-558599921215",
@@ -1616,7 +1690,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Bloqueado] Contato excluído conforme print de atendimento de Mateus.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5521994144813",
@@ -1660,7 +1736,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:17:08.\n[Vídeo Enviado] Variação #3 em 20:09:17",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511973979248",
@@ -1704,7 +1782,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:20:53.\n[Vídeo Enviado] Variação #4 em 20:13:13",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-556294161690",
@@ -1748,7 +1828,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:24:44.\n[Vídeo Enviado] Variação #1 em 20:16:43",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-557588401410",
@@ -1792,7 +1874,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:28:16.\n[Vídeo Enviado] Variação #2 em 20:20:38",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-558599405757",
@@ -1836,7 +1920,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:31:36.\n[Vídeo Enviado] Variação #3 em 20:24:52",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-558585200582",
@@ -1880,7 +1966,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Contato Futuro / Atendimento Mateus] Contato estratégico alinhado para retomada em momento oportuno.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-554792474321",
@@ -1924,7 +2012,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Contato Futuro / Alta Maturidade Técnica] Utiliza servidor pago e banco de dados conectado. Sem tempo no momento. Reativar com cases de escala avançada em 20 dias.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "AVANCADO"
   },
   {
     "id": "lead-1-5521984885290",
@@ -1968,7 +2058,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:43:15.\n[Vídeo Enviado] Variação #2 em 20:36:08",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-555198073411",
@@ -2012,7 +2104,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:46:53.\n[Vídeo Enviado] Variação #3 em 20:40:27",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-48517583912",
@@ -2056,7 +2150,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:50:31.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-553199588826",
@@ -2100,7 +2196,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:54:27.\n[Vídeo Enviado] Variação #4 em 20:47:28",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-48534188435",
@@ -2144,7 +2242,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:57:47.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-554792229718",
@@ -2188,7 +2288,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:01:23.\n[Vídeo Enviado] Variação #1 em 20:55:32",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-553299165024",
@@ -2232,7 +2334,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:05:05.\n[Vídeo Enviado] Variação #2 em 20:58:58",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5519988880673",
@@ -2276,7 +2380,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:08:48.\n[Vídeo Enviado] Variação #3 em 21:03:03",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511994840841",
@@ -2320,7 +2426,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:12:36.\n[Vídeo Enviado] Variação #4 em 21:07:18",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5515996629922",
@@ -2364,7 +2472,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:16:35.\n[Vídeo Enviado] Variação #1 em 21:10:52",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-556481502473",
@@ -2408,7 +2518,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:20:37.\n[Vídeo Enviado] Variação #2 em 21:14:30",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5519982407415",
@@ -2452,7 +2564,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:23:57.\n[Vídeo Enviado] Variação #3 em 21:18:07",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-554791504197",
@@ -2496,7 +2610,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:27:11.\n[Vídeo Enviado] Variação #4 em 21:21:40",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-554791824474",
@@ -2540,7 +2656,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:31:14.\n[Vídeo Enviado] Variação #1 em 21:25:30",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-40724473610",
@@ -2584,7 +2702,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:34:47.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511966382260",
@@ -2628,7 +2748,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:38:00.\n[Vídeo Enviado] Variação #2 em 21:33:11",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-558596290104",
@@ -2672,7 +2794,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:41:19.\n[Vídeo Enviado] Variação #3 em 21:36:36",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-558581835313",
@@ -2716,7 +2840,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:44:54.\n[Vídeo Enviado] Variação #4 em 21:40:39",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-48692102516",
@@ -2760,7 +2886,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:48:58.\n[Vídeo Enviado] Variação #1 em 21:44:49",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-48535346292",
@@ -2804,7 +2932,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:52:25.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-557199993640",
@@ -2848,7 +2978,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:56:32.\n[Vídeo Enviado] Variação #2 em 21:52:45",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-16192007884",
@@ -2892,7 +3024,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:00:18.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-554791990055",
@@ -2936,7 +3070,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:03:42.\n[Vídeo Enviado] Variação #2 em 10:43:03",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511994696498",
@@ -2980,7 +3116,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:07:39.\n[Vídeo Enviado] Variação #4 em 10:47:09",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5524981246948",
@@ -3024,7 +3162,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:10:55.\n[Vídeo Enviado] Variação #3 em 10:19:57",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-819064658213",
@@ -3068,7 +3208,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:15:05.\n[Vídeo Enviado] Variação #2 em 10:50:36",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-553588772380",
@@ -3112,7 +3254,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Contato Futuro / Falta de Tempo] \"Não tive tempo... Mas pretendo... Tô sim\". Rotina atarefada. Reativar em 10 dias com áudio curto de 1 min.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-558488020385",
@@ -3156,7 +3300,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:23:54. | [Contato Futuro] Lead demonstrou interesse em projeto de IA, porém pediu para validar no próximo ciclo.\n[Vídeo Enviado] Variação #2 em 10:59:32",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-554999357812",
@@ -3200,7 +3346,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Contato Futuro / Alta Maturidade Técnica] Utiliza servidor pago e banco de dados conectado. Sem tempo no momento. Reativar com cases de escala avançada em 20 dias.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "AVANCADO"
   },
   {
     "id": "lead-1-555186067434",
@@ -3244,7 +3392,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Contato Futuro / Empresa Estruturada] Empresa já possui hub interno de IA. \"Depois eu dou uma olhada\". Reativar no próximo ciclo corporativo.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "AVANCADO"
   },
   {
     "id": "lead-1-557181544038",
@@ -3280,7 +3430,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5519989938950",
@@ -3316,7 +3468,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511982493372",
@@ -3360,7 +3514,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Em Descoberta] Demonstrou interesse no material de IA e automação.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511956109018",
@@ -3404,7 +3560,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:38:49.\n[Vídeo Enviado] Variação #2 em 11:22:11",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-557185289375",
@@ -3448,7 +3606,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "[Em Descoberta] Recebeu o vídeo prático e respondeu positivamente à abordagem consultiva.",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-556599992002",
@@ -3492,7 +3652,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:46:43. | [Respondeu] Respondeu à mensagem consultiva.\n[Vídeo Enviado] Variação #2 em 11:30:31",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-558592005057",
@@ -3536,7 +3698,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:50:42.\n[Vídeo Enviado] Variação #4 em 11:34:58",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-5511996422749",
@@ -3580,7 +3744,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:54:38.\n[Vídeo Enviado] Variação #2 em 11:38:59",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-1-556697165271",
@@ -3624,7 +3790,9 @@ export const INITIAL_LEADS: Lead[] = [
     "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:57:56.\n[Vídeo Enviado] Variação #4 em 11:43:10",
     "dispatchedMessageIds": [
       "ok"
-    ]
+    ],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "blocked-5511966206223",
@@ -3641,7 +3809,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Lista NÃO ENVIAR (Solicitação de não contato)",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "blocked-5521981656558",
@@ -3658,7 +3828,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Lista NÃO ENVIAR (Solicitação de não contato)",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "blocked-351911007114",
@@ -3675,7 +3847,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Número internacional não elegível",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "blocked-551199187573",
@@ -3692,7 +3866,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Telefone incompleto (faltam dígitos)",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "blocked-551198405598",
@@ -3709,7 +3885,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Telefone incompleto (faltam dígitos)",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "blocked-551198202736",
@@ -3726,7 +3904,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Telefone incompleto (faltam dígitos)",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "blocked-551198958681",
@@ -3743,7 +3923,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Telefone incompleto (faltam dígitos)",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "blocked-818050057281",
@@ -3760,7 +3942,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Número internacional Japão (+81)",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-painel-5519981324145",
@@ -3786,7 +3970,9 @@ export const INITIAL_LEADS: Lead[] = [
       }
     ],
     "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2B) enviado em 22:01:36.\n[Vídeo Enviado] Variação #2 em 11:47:29",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-painel-5511940669478",
@@ -3803,7 +3989,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": "2026-08-18T13:26:18.786Z",
     "deliveredBlocks": [],
     "notes": "[B2B Empresas] Grupo RAP / Corporativo.",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-painel-5521964141494",
@@ -3829,7 +4017,9 @@ export const INITIAL_LEADS: Lead[] = [
       }
     ],
     "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2A) enviado em 22:05:04.\n[Vídeo Enviado] Variação #4 em 11:51:32",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-painel-5516999942636",
@@ -3855,7 +4045,9 @@ export const INITIAL_LEADS: Lead[] = [
       }
     ],
     "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2B) enviado em 22:08:20.\n[Vídeo Enviado] Variação #2 em 11:55:39",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-reembolso-5511940111933",
@@ -3872,7 +4064,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "[Reembolso] Solicitação de reembolso registrada.",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-new-5511910001000",
@@ -3889,7 +4083,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Email: estevao@hardlock5.com | Plano: Sem assinatura",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-new-55921352555",
@@ -3906,7 +4102,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Email: giselesilvs4@gmail.com | Plano: Sem assinatura",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-new-55920538988",
@@ -3923,7 +4121,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Email: executivojoaopaulosantos@gmail.com | Plano: Sem assinatura",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-new-5585987341664",
@@ -3949,7 +4149,9 @@ export const INITIAL_LEADS: Lead[] = [
       }
     ],
     "notes": "[Recebeu Disparo - Sem Resposta] Vídeo prático e mensagem de CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu. Em nutrição passiva.",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-new-5588997203000",
@@ -3975,7 +4177,9 @@ export const INITIAL_LEADS: Lead[] = [
       }
     ],
     "notes": "[Recebeu Disparo - Sem Resposta] Vídeo prático e mensagem de CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu. Em nutrição passiva.",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-new-55519933573",
@@ -3992,7 +4196,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Email: guigonunescamargo@gmail.com | Plano: Sem assinatura",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-new-55933809801",
@@ -4009,7 +4215,9 @@ export const INITIAL_LEADS: Lead[] = [
     "sentAt": null,
     "deliveredBlocks": [],
     "notes": "Email: andrey.s4n@gmail.com | Plano: Sem assinatura",
-    "dispatchedMessageIds": []
+    "dispatchedMessageIds": [],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-fase1-5511981619879",
@@ -4038,7 +4246,9 @@ export const INITIAL_LEADS: Lead[] = [
     "dispatchedMessageIds": [
       "3EB00B3F84F16155D0B7F2",
       "3EB0F65D3AB4ABEBE40C34"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-fase1-5541988368820",
@@ -4067,7 +4277,9 @@ export const INITIAL_LEADS: Lead[] = [
     "dispatchedMessageIds": [
       "3EB01FE11FF46DC22ED54E",
       "3EB0387A5BD87EE9C436F6"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-fase1-5511935355520",
@@ -4096,7 +4308,9 @@ export const INITIAL_LEADS: Lead[] = [
     "dispatchedMessageIds": [
       "3EB07CCFAAF6F8173C5B29",
       "3EB0732216E66911782A5B"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   },
   {
     "id": "lead-fase1-5511963091645",
@@ -4125,6 +4339,8 @@ export const INITIAL_LEADS: Lead[] = [
     "dispatchedMessageIds": [
       "3EB0375A5BB541CACB2454",
       "3EB03F3E0D3A76695EC1CD"
-    ]
+    ],
+    "leadType": "B2B_EMPRESA",
+    "aiMaturity": "NAO_INFORMADO"
   }
 ];
