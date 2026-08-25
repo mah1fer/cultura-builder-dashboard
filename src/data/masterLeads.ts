@@ -40,7 +40,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 17:46:51.\n[Vídeo Enviado] Variação #1 em 18:20:44",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB00AD24E6CCD489A6282",
       "3EB09C637F16ACC5CAE364",
@@ -89,7 +89,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 17:50:26.\n[Vídeo Enviado] Variação #2 em 18:25:04",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB0DFACD7C931445BFF91",
       "3EB04AD0819C0F9C33C07C",
@@ -138,7 +138,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 17:54:27.\n[Vídeo Enviado] Variação #4 em 10:22:09",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB09818B915D6F019A25D",
       "3EB03B9E59354738A89CB7",
@@ -187,7 +187,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 17:58:17.\n[Vídeo Enviado] Variação #3 em 18:33:03",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB0B7D98B0EBDD5B18EFE",
       "3EB0364A48A94E4230D5E3",
@@ -236,7 +236,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:01:48.\n[Vídeo Enviado] Variação #4 em 18:36:41",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB0A8E9C825A83C2AB3CF",
       "3EB08821123AF0FFF38A70",
@@ -359,14 +359,14 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "A sua empresa já tá puxando iniciativas com IA ou é algo que tá partindo mais de você?"
       }
     ],
-    "notes": "[Em Descoberta / Uso Casual] \"conversa com o GPT\", \"Boa tarde, Tudo bem?\". Apresentar casos reais de automação além do chat básico.",
+    "notes": "[Em Descoberta / Uso Casual] Conversa esporádica com GPT. Curiosa sobre aplicações.",
     "dispatchedMessageIds": [
       "3EB062D902D1F08333EBC9",
       "3EB085EE6381425306BD9F",
       "3EB063CBAD55BADC6C227B",
       "3EB0A53E82EA2C481E9685"
     ],
-    "leadType": "B2B_EMPRESA",
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "BASICO"
   },
   {
@@ -408,7 +408,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:05:44.\n[Vídeo Enviado] Variação #1 em 18:40:33",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB08E935F5D0D1329B436",
       "3EB02784EFC2DD786BF0D0",
@@ -449,7 +449,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já tem algum projeto em mente pra aplicar IA ou ainda tá descobrindo caminhos?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.\n[Vídeo Enviado] Variação #2 em 18:45:03",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB0733972DC9DF4B472FF",
       "3EB05AA327F930F4DD8B33",
@@ -539,7 +539,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:09:05.\n[Vídeo Enviado] Variação #3 em 18:48:46",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB089ED8BED1AD6DB7A48",
       "3EB0A2298997D966889448",
@@ -588,7 +588,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:13:11.\n[Vídeo Enviado] Variação #4 em 18:52:56",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB03BF16F88CE745FA89B",
       "3EB099BA345853B8344094",
@@ -637,7 +637,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2A) enviado em 18:16:48.\n[Vídeo Enviado] Variação #1 em 18:56:36",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB09A5D9701474BD46DE8",
       "3EB0C86478B0C04654E666",
@@ -686,7 +686,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:20:49.\n[Vídeo Enviado] Variação #2 em 19:00:23",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB0442AC033F3BFE57426",
       "3EB051C41C8980ADA0508E",
@@ -735,7 +735,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[Cliente Ativo - Já é Aluno] \"Já fazemos parte da comunidade, curso com o Ariel\". Isolado de abordagens de vendas.",
+    "notes": "[Já é Membro / Aluno Ativo] Já faz parte da comunidade Cultura Builder com Ariel. Não é lead comercial.",
     "dispatchedMessageIds": [
       "3EB0FD475F59270D6F5EE9",
       "3EB01FA59F17441755356C",
@@ -784,7 +784,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso. | Follow-up Fase 2 (2B) enviado em 18:28:34.\n[Vídeo Enviado] Variação #3 em 19:04:32",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB056812114D8380873A9",
       "3EB0F4505A361E7D6E358A",
@@ -825,7 +825,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já tem alguma ideia prática pra aplicar IA ou ainda tá descobrindo as possibilidades?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.\n[Vídeo Enviado] Variação #4 em 19:08:43",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB0AB6FC29B820B614FFF",
       "3EB037347DC001D061D44C",
@@ -866,7 +866,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já tem alguma automação rodando no seu negócio hoje ou ainda tá avaliando?"
       }
     ],
-    "notes": "Abordagem consultiva em 4 blocos curtos entregue com sucesso.\n[Vídeo Enviado] Variação #1 em 19:13:03",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB03D49B94EF5547D6E76",
       "3EB0E2D1442F20B6587716",
@@ -907,7 +907,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.\n[Vídeo Enviado] Variação #2 em 19:17:46",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -923,8 +923,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CALL_AGENDADA",
-    "interest": "QUENTE",
+    "status": "NEGOCIACAO",
+    "interest": "ALTO",
     "replied": true,
     "sentAt": "2026-08-16T15:31:26.032Z",
     "deliveredBlocks": [
@@ -945,7 +945,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "[Venda Imediata / Reunião Agendada] \"Já fiz o formulário, já marquei a call\". Lead altamente qualificado aguardando realização da reunião.",
+    "notes": "[Em Diálogo / Marcou Reunião para Conhecer] Preencheu formulário e reservou horário para conhecer o ecossistema e ferramentas do Cultura Builder.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -983,7 +983,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.\n[Vídeo Enviado] Variação #3 em 19:21:59",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1029,7 +1029,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:32:48.\n[Vídeo Enviado] Variação #4 em 19:26:17",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1045,8 +1045,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CALL_AGENDADA",
-    "interest": "QUENTE",
+    "status": "NEGOCIACAO",
+    "interest": "ALTO",
     "replied": true,
     "sentAt": "2026-08-16T15:43:01.813Z",
     "deliveredBlocks": [
@@ -1067,7 +1067,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "[Venda Imediata / Alta Prioridade] Dor operacional urgente: \"otimizar processos de notas fiscais e malotes manuais desenvolvendo formulário/sistema na Claude\". Fechamento imediato na reunião.",
+    "notes": "[Em Diálogo / Avaliando Solução de Processos] Contato da empresa/hub querendo otimizar fluxo manual de notas fiscais e malotes via Claude. Marcou conversa para entender a viabilidade técnica.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1113,7 +1113,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:36:11.\n[Vídeo Enviado] Variação #1 em 19:30:33",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1129,8 +1129,8 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Economizar horas por semana no trabalho",
     "batch": "B2B (gruporap.com.br)",
     "batchType": "b2b",
-    "status": "CALL_AGENDADA",
-    "interest": "QUENTE",
+    "status": "NEGOCIACAO",
+    "interest": "ALTO",
     "replied": true,
     "sentAt": "2026-08-16T15:50:17.243Z",
     "deliveredBlocks": [
@@ -1151,7 +1151,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "[Venda Imediata / Alta Prioridade] Dor operacional urgente: \"otimizar processos de notas fiscais e malotes manuais desenvolvendo formulário/sistema na Claude\". Fechamento imediato na reunião.",
+    "notes": "[Em Diálogo / Avaliando Solução de Processos] Contato da empresa/hub querendo otimizar fluxo manual de notas fiscais e malotes via Claude. Marcou conversa para entender a viabilidade técnica.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1235,7 +1235,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:40:25.\n[Vídeo Enviado] Variação #2 em 19:34:53",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1281,7 +1281,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[Alto Potencial / Negociação] \"Meu objetivo é conhecer a plataforma, me aprofundar nos conteúdos... prestar serviços e desenvolver projetos com IA\". Enviou LinkedIn: https://www.linkedin.com/in/geraldoveiga\n[Vídeo Enviado] Variação #3 em 19:38:34",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1327,7 +1327,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:48:16.\n[Vídeo Enviado] Variação #4 em 19:42:11",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1373,7 +1373,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:51:41.\n[Vídeo Enviado] Variação #1 em 19:46:03",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1419,7 +1419,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 18:55:22.\n[Vídeo Enviado] Variação #2 em 19:50:26",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1465,7 +1465,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 18:58:52.\n[Vídeo Enviado] Variação #3 em 19:54:30",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1511,7 +1511,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:02:15.\n[Vídeo Enviado] Variação #4 em 19:58:14",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1557,7 +1557,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:05:43.\n[Vídeo Enviado] Variação #1 em 20:01:49",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1603,7 +1603,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:09:54.\n[Vídeo Enviado] Variação #2 em 20:05:17",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1687,7 +1687,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[Bloqueado] Contato excluído conforme print de atendimento de Mateus.",
+    "notes": "[Bloqueado] Contato com exclusão solicitada nos prints.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1733,7 +1733,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:17:08.\n[Vídeo Enviado] Variação #3 em 20:09:17",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1779,7 +1779,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:20:53.\n[Vídeo Enviado] Variação #4 em 20:13:13",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1825,7 +1825,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:24:44.\n[Vídeo Enviado] Variação #1 em 20:16:43",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1871,7 +1871,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:28:16.\n[Vídeo Enviado] Variação #2 em 20:20:38",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1917,7 +1917,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:31:36.\n[Vídeo Enviado] Variação #3 em 20:24:52",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -1963,7 +1963,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[Contato Futuro / Atendimento Mateus] Contato estratégico alinhado para retomada em momento oportuno.",
+    "notes": "[Contato Futuro / Atendimento Mateus] Alinhado para retomada em momento oportuno.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2009,7 +2009,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "[Contato Futuro / Alta Maturidade Técnica] Utiliza servidor pago e banco de dados conectado. Sem tempo no momento. Reativar com cases de escala avançada em 20 dias.",
+    "notes": "[Contato Futuro / Já Tem Estrutura & Sem Tempo] Já utiliza ferramentas pagas e banco de dados. Sem urgência no momento e sem tempo na agenda.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2055,7 +2055,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:43:15.\n[Vídeo Enviado] Variação #2 em 20:36:08",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2101,7 +2101,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:46:53.\n[Vídeo Enviado] Variação #3 em 20:40:27",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2147,7 +2147,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:50:31.",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2193,7 +2193,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 19:54:27.\n[Vídeo Enviado] Variação #4 em 20:47:28",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2239,7 +2239,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 19:57:47.",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2285,7 +2285,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:01:23.\n[Vídeo Enviado] Variação #1 em 20:55:32",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2331,7 +2331,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:05:05.\n[Vídeo Enviado] Variação #2 em 20:58:58",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2377,7 +2377,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:08:48.\n[Vídeo Enviado] Variação #3 em 21:03:03",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2423,7 +2423,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:12:36.\n[Vídeo Enviado] Variação #4 em 21:07:18",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2469,7 +2469,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:16:35.\n[Vídeo Enviado] Variação #1 em 21:10:52",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2515,7 +2515,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:20:37.\n[Vídeo Enviado] Variação #2 em 21:14:30",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2561,7 +2561,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:23:57.\n[Vídeo Enviado] Variação #3 em 21:18:07",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2607,7 +2607,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:27:11.\n[Vídeo Enviado] Variação #4 em 21:21:40",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2653,7 +2653,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:31:14.\n[Vídeo Enviado] Variação #1 em 21:25:30",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2699,7 +2699,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:34:47.",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2745,7 +2745,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:38:00.\n[Vídeo Enviado] Variação #2 em 21:33:11",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2791,7 +2791,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:41:19.\n[Vídeo Enviado] Variação #3 em 21:36:36",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2837,7 +2837,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:44:54.\n[Vídeo Enviado] Variação #4 em 21:40:39",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2883,7 +2883,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:48:58.\n[Vídeo Enviado] Variação #1 em 21:44:49",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2929,7 +2929,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 20:52:25.",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -2975,7 +2975,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 20:56:32.\n[Vídeo Enviado] Variação #2 em 21:52:45",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3021,7 +3021,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:00:18.",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3067,7 +3067,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:03:42.\n[Vídeo Enviado] Variação #2 em 10:43:03",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3113,7 +3113,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:07:39.\n[Vídeo Enviado] Variação #4 em 10:47:09",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3159,7 +3159,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:10:55.\n[Vídeo Enviado] Variação #3 em 10:19:57",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3205,7 +3205,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:15:05.\n[Vídeo Enviado] Variação #2 em 10:50:36",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3251,7 +3251,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[Contato Futuro / Falta de Tempo] \"Não tive tempo... Mas pretendo... Tô sim\". Rotina atarefada. Reativar em 10 dias com áudio curto de 1 min.",
+    "notes": "[Contato Futuro / Sem Tempo na Rotina] \"Não tive tempo... Mas pretendo... Tô sim\". Tem interesse mas a rotina está sobrecarregada.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3297,7 +3297,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:23:54. | [Contato Futuro] Lead demonstrou interesse em projeto de IA, porém pediu para validar no próximo ciclo.\n[Vídeo Enviado] Variação #2 em 10:59:32",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3343,7 +3343,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[Contato Futuro / Alta Maturidade Técnica] Utiliza servidor pago e banco de dados conectado. Sem tempo no momento. Reativar com cases de escala avançada em 20 dias.",
+    "notes": "[Contato Futuro / Já Tem Estrutura & Sem Tempo] Já utiliza ferramentas pagas e banco de dados. Sem urgência no momento e sem tempo na agenda.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3389,7 +3389,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "[Contato Futuro / Empresa Estruturada] Empresa já possui hub interno de IA. \"Depois eu dou uma olhada\". Reativar no próximo ciclo corporativo.",
+    "notes": "[Contato Futuro / Hub Interno Já Instalado] Empresa já opera com hub interno de Claude/IAs. Não busca novas ferramentas neste trimestre.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3465,7 +3465,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue.",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3511,7 +3511,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[Em Descoberta] Demonstrou interesse no material de IA e automação.",
+    "notes": "[Em Descoberta] Interagiu com o material prático enviado.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3557,7 +3557,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:38:49.\n[Vídeo Enviado] Variação #2 em 11:22:11",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3603,7 +3603,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[Em Descoberta] Recebeu o vídeo prático e respondeu positivamente à abordagem consultiva.",
+    "notes": "[Em Descoberta] Respondeu positivamente à abordagem do vídeo sobre rotina com IA.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3649,7 +3649,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:46:43. | [Respondeu] Respondeu à mensagem consultiva.\n[Vídeo Enviado] Variação #2 em 11:30:31",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3695,7 +3695,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:50:42.\n[Vídeo Enviado] Variação #4 em 11:34:58",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3741,7 +3741,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2B) enviado em 21:54:38.\n[Vídeo Enviado] Variação #2 em 11:38:59",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3787,7 +3787,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Campanha de oferta oficial com imagem entregue. | Follow-up Fase 2 (2A) enviado em 21:57:56.\n[Vídeo Enviado] Variação #4 em 11:43:10",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "ok"
     ],
@@ -3969,7 +3969,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2B) enviado em 22:01:36.\n[Vídeo Enviado] Variação #2 em 11:47:29",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -4016,7 +4016,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2A) enviado em 22:05:04.\n[Vídeo Enviado] Variação #4 em 11:51:32",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -4044,7 +4044,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "Adicionado via lista Painel CB | Follow-up Fase 2 (2B) enviado em 22:08:20.\n[Vídeo Enviado] Variação #2 em 11:55:39",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -4082,7 +4082,7 @@ export const INITIAL_LEADS: Lead[] = [
     "replied": false,
     "sentAt": null,
     "deliveredBlocks": [],
-    "notes": "Email: estevao@hardlock5.com | Plano: Sem assinatura",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -4148,7 +4148,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
       }
     ],
-    "notes": "[Recebeu Disparo - Sem Resposta] Vídeo prático e mensagem de CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu. Em nutrição passiva.",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -4176,7 +4176,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
       }
     ],
-    "notes": "[Recebeu Disparo - Sem Resposta] Vídeo prático e mensagem de CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu. Em nutrição passiva.",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -4242,7 +4242,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
       }
     ],
-    "notes": "[Bloqueado] Contato excluído conforme print de atendimento de Mateus.",
+    "notes": "[Bloqueado] Contato com exclusão solicitada nos prints.",
     "dispatchedMessageIds": [
       "3EB00B3F84F16155D0B7F2",
       "3EB0F65D3AB4ABEBE40C34"
@@ -4273,7 +4273,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
       }
     ],
-    "notes": "[Recebeu Disparo - Sem Resposta] Vídeo prático e mensagem de CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu. Em nutrição passiva.",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB01FE11FF46DC22ED54E",
       "3EB0387A5BD87EE9C436F6"
@@ -4304,7 +4304,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
       }
     ],
-    "notes": "[Venda Imediata / Negociação Direta] Em negociação ativa via áudio com Mateus. Atendimento exclusivo.",
+    "notes": "[Em Diálogo / Tratativa Pessoal] Conversa consultiva em andamento via áudio com Mateus.",
     "dispatchedMessageIds": [
       "3EB07CCFAAF6F8173C5B29",
       "3EB0732216E66911782A5B"
@@ -4335,7 +4335,7 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Uma curiosidade: hoje você já usa IA de forma prática no seu trabalho ou ainda está começando a explorar?"
       }
     ],
-    "notes": "[Recebeu Disparo - Sem Resposta] Vídeo prático e mensagem de CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu. Em nutrição passiva.",
+    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
     "dispatchedMessageIds": [
       "3EB0375A5BB541CACB2454",
       "3EB03F3E0D3A76695EC1CD"

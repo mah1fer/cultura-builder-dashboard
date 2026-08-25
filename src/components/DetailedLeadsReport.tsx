@@ -4,7 +4,7 @@ import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
 import { Card } from "@/components/ui/Card";
 import { 
-  Flame, 
+  MessageSquare, 
   Clock, 
   Sparkles, 
   MessageSquareOff, 
@@ -18,9 +18,9 @@ import {
   Building2,
   User,
   Cpu,
-  CheckCircle2,
   Calendar,
-  Layers
+  Layers,
+  Info
 } from "lucide-react";
 
 interface DetailedLeadsReportProps {
@@ -30,7 +30,7 @@ interface DetailedLeadsReportProps {
 
 type StageCategory = 
   | "ALL"
-  | "IMMEDIATE"
+  | "ACTIVE_DIALOGUE"
   | "FUTURE"
   | "DISCOVERY"
   | "UNANSWERED"
@@ -46,64 +46,66 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
   const [maturityFilter, setMaturityFilter] = useState<MaturityFilter>("ALL");
   const [searchTerm, setSearchTerm] = useState("");
 
-  // Processamento e enriquecimento visual de cada lead
+  // Processamento e enriquecimento visual realista de cada lead
   const categorizedLeads = useMemo(() => {
     return leads.map((lead) => {
       const notes = (lead.notes || "").toLowerCase();
       const status = lead.status;
 
       let category: StageCategory = "UNANSWERED";
-      let categoryLabel = "Recebeu e Não Respondeu";
+      let categoryLabel = "Recebeu Vídeo (Sem Resposta)";
       let categoryBadgeClass = "bg-slate-500/10 text-slate-400 border-slate-500/20";
-      let actionRecommendation = "Aguardar abertura orgânica ou reativar em nova esteira de nutrição com case rápido.";
+      let actionRecommendation = "Impactado pelo vídeo prático de 1 min. Em silêncio/observação. Manter na régua periódica.";
 
       if (status === "REEMBOLSO") {
         category = "REFUND";
         categoryLabel = "Reembolso";
         categoryBadgeClass = "bg-rose-500/10 text-rose-400 border-rose-500/20";
         actionRecommendation = "Tratar protocolo de suporte e cancelamento.";
-      } else if (status === "BLOQUEADO" || notes.includes("aluno") || notes.includes("bloqueado")) {
+      } else if (status === "BLOQUEADO" || notes.includes("aluno") || notes.includes("membro") || notes.includes("bloqueado")) {
         category = "CLIENT_OR_BLOCKED";
-        categoryLabel = notes.includes("aluno") ? "Cliente Ativo (Já é Aluno)" : "Contato Bloqueado";
+        categoryLabel = notes.includes("aluno") || notes.includes("membro") ? "Já é Membro / Aluno Ativo" : "Contato Bloqueado";
         categoryBadgeClass = "bg-emerald-500/10 text-emerald-400 border-emerald-500/20";
-        actionRecommendation = "Isolado de vendas. Apenas relacionamento e suporte institucional da comunidade.";
+        actionRecommendation = "Já faz parte da comunidade ou tem atendimento direto. Isolado de disparos comerciais.";
       } else if (
         status === "CALL_AGENDADA" || 
         status === "NEGOCIACAO" || 
-        notes.includes("venda imediata") || 
-        notes.includes("alto interesse") ||
-        notes.includes("call agendada")
+        notes.includes("em diálogo") ||
+        notes.includes("avaliando solução") ||
+        notes.includes("solicitou informações")
       ) {
-        category = "IMMEDIATE";
-        categoryLabel = status === "CALL_AGENDADA" ? "Call Agendada / Fechamento" : "Venda Imediata / Negociação";
+        category = "ACTIVE_DIALOGUE";
+        categoryLabel = "Em Diálogo / Avaliando Solução";
         categoryBadgeClass = "bg-amber-500/10 text-amber-400 border-amber-500/30 shadow-sm shadow-amber-500/10";
-        actionRecommendation = status === "CALL_AGENDADA" 
-          ? "Conduzir reunião consultiva e focar no case de processos/automação interna."
-          : "Enviar proposta ou áudio explicativo de 45s tirando as dúvidas solicitadas.";
+        actionRecommendation = notes.includes("notas") || notes.includes("claude")
+          ? "Alinhar viabilidade técnica para o case de notas fiscais/Claude."
+          : notes.includes("áudio") 
+          ? "Enviar áudio explicativo de 45s tirando dúvidas sobre a plataforma."
+          : "Conduzir conversa consultiva para entender o objetivo do contato.";
       } else if (status === "CONTATO_FUTURO" || notes.includes("contato futuro")) {
         category = "FUTURE";
-        categoryLabel = "Contato Futuro / Nutrição";
+        categoryLabel = "Contato Futuro / Sem Timing Agora";
         categoryBadgeClass = "bg-blue-500/10 text-blue-400 border-blue-500/20";
         actionRecommendation = notes.includes("preço")
-          ? "Não forçar agora. Reativar em 30 dias com parcelamento em 12x ou plano de entrada."
-          : "Reativar em 10 a 15 dias com pílula de conteúdo ou case de 1 min.";
+          ? "Não forçar agora. Reativar em 30 dias com parcelamento em 12x ou condição mais flexível."
+          : "Sem tempo na rotina. Reativar no início do próximo ciclo com case rápido.";
       } else if (status === "RESPONDEU" || notes.includes("em descoberta")) {
         category = "DISCOVERY";
-        categoryLabel = "Em Descoberta / Diagnóstico";
+        categoryLabel = "Em Descoberta / Uso Casual";
         categoryBadgeClass = "bg-purple-500/10 text-purple-400 border-purple-500/20";
-        actionRecommendation = "Fazer pergunta diagnóstica: 'Qual a tarefa mais repetitiva que sua equipe perde tempo hoje?'";
+        actionRecommendation = "Fazer pergunta diagnóstica: 'Qual processo repetitivo consome mais tempo hoje na sua rotina?'";
       } else {
         category = "UNANSWERED";
-        categoryLabel = "Recebeu Disparo (Sem Resposta)";
+        categoryLabel = "Recebeu Vídeo (Sem Resposta)";
         categoryBadgeClass = "bg-slate-500/10 text-slate-400 border-slate-500/20";
-        actionRecommendation = "Impactado pelo vídeo de 1 min. Em silêncio/observação. Manter na régua de disparos periódicos.";
+        actionRecommendation = "Vídeo e CTA entregues no WhatsApp. Lead em silêncio. Aguardar ou reativar em próxima campanha.";
       }
 
-      // Detecção de Empresa / B2B
+      // Detecção de Empresa / B2B vs Profissional
       const isB2B = lead.leadType === "B2B_EMPRESA" || lead.batchType === "b2b" || lead.status === "B2B_EMPRESAS";
-      const leadTypeFormatted = isB2B ? "B2B / Empresa" : "Profissional Individual";
+      const leadTypeFormatted = isB2B ? "Empresa / B2B" : "Profissional Individual";
 
-      // Detecção de Maturidade
+      // Maturidade
       const maturity = lead.aiMaturity || (
         notes.includes("servidor pago") || notes.includes("hub") ? "AVANCADO" :
         notes.includes("processos") || notes.includes("claude") ? "INTERMEDIARIO" :
@@ -128,7 +130,7 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
   const counts = useMemo(() => {
     return {
       all: categorizedLeads.length,
-      immediate: categorizedLeads.filter(l => l.calculatedCategory === "IMMEDIATE").length,
+      activeDialogue: categorizedLeads.filter(l => l.calculatedCategory === "ACTIVE_DIALOGUE").length,
       future: categorizedLeads.filter(l => l.calculatedCategory === "FUTURE").length,
       discovery: categorizedLeads.filter(l => l.calculatedCategory === "DISCOVERY").length,
       unanswered: categorizedLeads.filter(l => l.calculatedCategory === "UNANSWERED").length,
@@ -174,12 +176,12 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
     const headers = [
       "Nome",
       "Telefone",
-      "Tipo de Lead",
-      "Estagio / Categoria",
+      "Perfil (B2B vs Indiv.)",
+      "Estagio Real",
       "Maturidade em IA",
       "Status CRM",
       "Nivel de Interesse",
-      "Cargo / Area",
+      "Cargo / Empresa",
       "Objetivo",
       "Respondeu WhatsApp",
       "Diagnostico e Contexto Real",
@@ -206,7 +208,7 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
     link.setAttribute("href", url);
-    link.setAttribute("download", `diagnostico_leads_completo_${new Date().toISOString().slice(0, 10)}.csv`);
+    link.setAttribute("download", `relatorio_realista_leads_${new Date().toISOString().slice(0, 10)}.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -214,7 +216,15 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
 
   return (
     <div className="space-y-6">
-      {/* 1. Header do Relatório com Métricas Executivas */}
+      {/* Aviso informativo de transparência */}
+      <div className="p-3 rounded-lg bg-blue-500/10 border border-blue-500/20 text-xs text-blue-300 flex items-start gap-2.5">
+        <Info className="w-4 h-4 text-blue-400 shrink-0 mt-0.5" />
+        <div>
+          <strong className="text-blue-200">Classificação Comercial Clara & Realista:</strong> Os leads em <strong>"Em Diálogo"</strong> são contatos de empresas (como Grupo RAP/eventos) ou profissionais que interagiram para tirar dúvidas sobre ferramentas ou processos. <em>Não são vendas garantidas nem fechadas</em>; representam conversas ativas de exploração de fit.
+        </div>
+      </div>
+
+      {/* 1. Header do Relatório com Métricas Realistas */}
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
         <Card 
           onClick={() => { setStageFilter("ALL"); setTypeFilter("ALL"); }}
@@ -234,17 +244,17 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
         </Card>
 
         <Card 
-          onClick={() => setStageFilter("IMMEDIATE")}
+          onClick={() => setStageFilter("ACTIVE_DIALOGUE")}
           className={`p-3.5 cursor-pointer transition-all border ${
-            stageFilter === "IMMEDIATE" ? "border-amber-500 bg-amber-500/10 shadow-sm shadow-amber-500/10" : "hover:border-amber-500/50"
+            stageFilter === "ACTIVE_DIALOGUE" ? "border-amber-500 bg-amber-500/10 shadow-sm shadow-amber-500/10" : "hover:border-amber-500/50"
           }`}
         >
           <div className="flex items-center justify-between">
-            <span className="text-xs text-amber-400 font-medium">Venda Agora</span>
-            <Flame className="w-4 h-4 text-amber-500" />
+            <span className="text-xs text-amber-400 font-medium">Em Diálogo</span>
+            <MessageSquare className="w-4 h-4 text-amber-500" />
           </div>
-          <div className="text-2xl font-bold mt-1 text-amber-400">{counts.immediate}</div>
-          <p className="text-[10px] text-amber-500/70 mt-0.5">Fechamento / Reunião</p>
+          <div className="text-2xl font-bold mt-1 text-amber-400">{counts.activeDialogue}</div>
+          <p className="text-[10px] text-amber-500/70 mt-0.5">Avaliando Soluções</p>
         </Card>
 
         <Card 
@@ -286,7 +296,7 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
             <MessageSquareOff className="w-4 h-4 text-slate-400" />
           </div>
           <div className="text-2xl font-bold mt-1 text-slate-200">{counts.unanswered}</div>
-          <p className="text-[10px] text-slate-400 mt-0.5">Impactados pelo Vídeo</p>
+          <p className="text-[10px] text-slate-400 mt-0.5">Receberam Vídeo</p>
         </Card>
 
         <Card 
@@ -296,30 +306,30 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
           }`}
         >
           <div className="flex items-center justify-between">
-            <span className="text-xs text-emerald-400 font-medium">Alunos & Bloq.</span>
+            <span className="text-xs text-emerald-400 font-medium">Membros & Bloq.</span>
             <ShieldCheck className="w-4 h-4 text-emerald-400" />
           </div>
           <div className="text-2xl font-bold mt-1 text-emerald-400">{counts.clientOrBlocked}</div>
-          <p className="text-[10px] text-emerald-400/70 mt-0.5">Isolados de Vendas</p>
+          <p className="text-[10px] text-emerald-400/70 mt-0.5">Alunos / Protegidos</p>
         </Card>
       </div>
 
-      {/* 2. Barra de Filtros Avançados: Tipo B2B vs Profissional, Estágio e Busca */}
+      {/* 2. Barra de Filtros: Empresas B2B vs Profissionais, Estágio e Busca */}
       <Card className="p-4 space-y-3 bg-card/60 backdrop-blur border">
-        {/* Linha 1: Busca e Ações Rápidas */}
+        {/* Linha 1: Busca e Filtro B2B vs Profissional */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
           <div className="relative w-full sm:w-96">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
             <input
               type="text"
-              placeholder="Buscar por nome, empresa, telefone, dor, notas..."
+              placeholder="Buscar por nome, empresa, telefone, notas..."
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
               className="w-full bg-background/80 border border-input rounded-md pl-9 pr-4 py-1.5 text-xs text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary"
             />
           </div>
 
-          {/* Filtro Segmentado por Tipo de Lead (Empresa vs Profissional) */}
+          {/* Filtro por Tipo de Perfil */}
           <div className="flex items-center gap-1.5 bg-muted/40 p-1 rounded-lg border border-border/50">
             <button
               onClick={() => setTypeFilter("ALL")}
@@ -361,7 +371,7 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
           </Button>
         </div>
 
-        {/* Linha 2: Filtros de Estágio Comercial & Maturidade */}
+        {/* Linha 2: Filtros de Estágio & Maturidade */}
         <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-border/40">
           <div className="flex flex-wrap items-center gap-1.5">
             <span className="text-[11px] text-muted-foreground mr-1 font-medium">Estágio:</span>
@@ -376,15 +386,15 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
               Todos ({counts.all})
             </button>
             <button
-              onClick={() => setStageFilter("IMMEDIATE")}
+              onClick={() => setStageFilter("ACTIVE_DIALOGUE")}
               className={`px-2.5 py-0.5 text-[11px] rounded-full border transition-all flex items-center gap-1 ${
-                stageFilter === "IMMEDIATE"
+                stageFilter === "ACTIVE_DIALOGUE"
                   ? "bg-amber-500 text-slate-950 border-amber-500 font-bold"
                   : "bg-amber-500/10 text-amber-400 hover:bg-amber-500/20 border-amber-500/30"
               }`}
             >
-              <Flame className="w-2.5 h-2.5" />
-              Venda Agora ({counts.immediate})
+              <MessageSquare className="w-2.5 h-2.5" />
+              Em Diálogo ({counts.activeDialogue})
             </button>
             <button
               onClick={() => setStageFilter("FUTURE")}
@@ -423,7 +433,7 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
 
           {/* Filtro de Maturidade */}
           <div className="flex items-center gap-1 text-[11px]">
-            <span className="text-muted-foreground mr-1">Maturidade:</span>
+            <span className="text-muted-foreground mr-1">Maturidade em IA:</span>
             <select
               value={maturityFilter}
               onChange={(e) => setMaturityFilter(e.target.value as MaturityFilter)}
@@ -442,7 +452,7 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
       {/* 3. Lista Detalhada de Todos os Leads com Contexto e Conversas */}
       <div className="space-y-3">
         <div className="flex items-center justify-between text-xs text-muted-foreground px-1">
-          <span>Mostrando <strong>{filteredList.length}</strong> de {leads.length} leads detalhados</span>
+          <span>Exibindo <strong>{filteredList.length}</strong> de {leads.length} leads</span>
           <span className="hidden sm:inline">Clique no WhatsApp para abrir a conversa instantaneamente</span>
         </div>
 
@@ -481,7 +491,7 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
                       {lead.leadTypeFormatted}
                     </span>
                     
-                    {/* Badge de Categoria Comercial */}
+                    {/* Badge de Estágio Comercial Realista */}
                     <span className={`text-[10px] px-2 py-0.5 rounded-full border font-medium ${lead.categoryBadgeClass}`}>
                       {lead.categoryLabel}
                     </span>
@@ -538,7 +548,7 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
                   <div className="p-3 rounded-lg bg-muted/40 border border-border/60 text-xs space-y-1.5">
                     <div className="font-semibold text-foreground/90 flex items-center gap-1.5">
                       <FileText className="w-3.5 h-3.5 text-primary" />
-                      Diagnóstico Comercial & Histórico de Mensagens:
+                      Diagnóstico Comercial & Contexto das Conversas:
                     </div>
                     <p className="text-muted-foreground leading-relaxed pl-5 whitespace-pre-line">
                       {lead.notes || "Sem histórico de observações adicionais."}
@@ -547,11 +557,8 @@ export function DetailedLeadsReport({ leads, onSelectLead }: DetailedLeadsReport
 
                   {/* Linha 4: Próximo Passo Recomendado */}
                   <div className="text-xs flex items-start gap-1.5 text-amber-400/95 font-medium bg-amber-500/5 p-2 rounded border border-amber-500/15">
-                    <CheckCircle2 className="w-3.5 h-3.5 text-amber-400 shrink-0 mt-0.5" />
-                    <div>
-                      <strong className="text-foreground">Próxima Ação: </strong>
-                      <span>{lead.actionRecommendation}</span>
-                    </div>
+                    <span className="text-primary font-bold">🎯 Próxima Ação:</span>
+                    <span>{lead.actionRecommendation}</span>
                   </div>
                 </div>
 
