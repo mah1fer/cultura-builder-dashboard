@@ -4352,14 +4352,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: nipocell@hotmail.com",
+    "sentAt": "2026-08-28T14:15:09.944Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Opa, Fabio! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:15:09. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB06310F298C25633ECAB",
+      "3EB0EA266288D6727DFF47",
+      "3EB099DA4A885E0EB26DED",
+      "3EB066C7E530E2A5B70204"
+    ]
   },
   {
     "id": "lead-workshop-5575998758581",
@@ -4370,14 +4393,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: pedrojose000@hotmail.com",
+    "sentAt": "2026-08-28T14:18:50.764Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Pedro! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:18:50. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0D4CCA3786FEB8DB123",
+      "3EB07E55A9A5F3C14388B5",
+      "3EB0E6B4B5032D40014078",
+      "3EB047F64FCB75F7220F65"
+    ]
   },
   {
     "id": "lead-workshop-5567992114475",
@@ -4388,14 +4434,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: augusto.mansano@hotmail.com",
+    "sentAt": "2026-08-28T14:23:11.443Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "E aí, José, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:23:11. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB08826BA2D4763E012C5",
+      "3EB02AFE9505636601DFD5",
+      "3EB0FD3435BAFCFF1BBF92",
+      "3EB0D3FA083E9F67899BAB"
+    ]
   },
   {
     "id": "lead-workshop-5511949318730",
@@ -4406,14 +4475,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: cunhadearaujorenato@gmail.com",
+    "sentAt": "2026-08-28T14:27:09.541Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Olá, Renato! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:27:09. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0C52FD4C00CE9F365FE",
+      "3EB04B5A4FFB57C92AF27D",
+      "3EB00EAB142B3B03BBBA16",
+      "3EB0439B21301D13DCD5A0"
+    ]
   },
   {
     "id": "lead-workshop-5583998090021",
@@ -4424,14 +4516,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: brunosmmoura@outlook.com",
+    "sentAt": "2026-08-28T14:31:16.820Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Opa, Bruno! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:31:16. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB04DAB8BA2E7A11A6E45",
+      "3EB04B3582E721D7700146",
+      "3EB0DA113ABEDBDEDFD8A4",
+      "3EB06CEE49162E78B5018A"
+    ]
   },
   {
     "id": "lead-workshop-5561983834040",
@@ -4442,14 +4557,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: lucasmelo27@gmail.com",
+    "sentAt": "2026-08-28T14:35:26.532Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Lucas! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:35:26. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0152661097896D13E6A",
+      "3EB045C2780F010E78DDC4",
+      "3EB049C3672E921AE6D228",
+      "3EB09E47BE21D14B95E25F"
+    ]
   },
   {
     "id": "lead-workshop-5555992097072",
@@ -4478,14 +4616,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: sandro_servo@hotmail.com",
+    "sentAt": "2026-08-28T14:42:07.018Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Olá, Sandro! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:42:07. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB00C6C25765199DC8E80",
+      "3EB007BC5A2C009714602D",
+      "3EB03238E200C225ADCE71",
+      "3EB061AA64A05E09E05AF3"
+    ]
   },
   {
     "id": "lead-workshop-5551999541651",
@@ -4496,14 +4657,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: roberta.fulginiti@gmail.com",
+    "sentAt": "2026-08-28T14:46:14.466Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Opa, Roberta! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:46:14. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB08CBC97E3AE41EF2593",
+      "3EB0D1EF8495042272142E",
+      "3EB0E6B5877D340D735D19",
+      "3EB064FD3ADE7071794149"
+    ]
   },
   {
     "id": "lead-workshop-17745561295",
@@ -4514,14 +4698,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: gabrielgoncalves.edf@gmail.com",
+    "sentAt": "2026-08-28T14:50:07.364Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Gabriel! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:50:07. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB01A07B36992F2CC2E17",
+      "3EB070B454C5C30D33A172",
+      "3EB087C8337EFCD310F2A4",
+      "3EB09DD118CD0A98A82CF3"
+    ]
   },
   {
     "id": "lead-workshop-5511984442174",
@@ -4532,14 +4739,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: euzebio.correia@yahoo.com.br",
+    "sentAt": "2026-08-28T14:54:13.723Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "E aí, Euzébio, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:54:13. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB08CCD9B835CA637C284",
+      "3EB0D5BCC2C03E16416209",
+      "3EB0D9AD73D9A8D38268BC",
+      "3EB050A3469B7039DC0FAF"
+    ]
   },
   {
     "id": "lead-workshop-5511974291010",
@@ -4568,14 +4798,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: diegoiizuka@icloud.com",
+    "sentAt": "2026-08-28T15:02:52.994Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Opa, Diego! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:02:52. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0CD556ED4B8B89202D9",
+      "3EB0AAC82EF4471CA17711",
+      "3EB081C05FED7BDDFEA7D3",
+      "3EB0305C3D30CF2B3C3D1D"
+    ]
   },
   {
     "id": "lead-workshop-5518991367718",
@@ -4586,14 +4839,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: leonardofaleiros@hotmail.com",
+    "sentAt": "2026-08-28T15:06:42.808Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Leonardo! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:06:42. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB05AECF46AD0AA1353C5",
+      "3EB0CD389887D5946CAFC0",
+      "3EB0123ABE72CFE034E357",
+      "3EB0E2C32DDC5F5DD653F9"
+    ]
   },
   {
     "id": "lead-workshop-5511911686888",
@@ -4604,14 +4880,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: felipe.moreira-external@wayon.global",
+    "sentAt": "2026-08-28T15:10:27.446Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "E aí, Felipe, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:10:27. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB037CC5B7038481B09ED",
+      "3EB070468BF2F4C5D6F41A",
+      "3EB00068CE82575E69430F",
+      "3EB062F49D7BF50D0C12A4"
+    ]
   },
   {
     "id": "lead-workshop-5531986945071",
@@ -4622,14 +4921,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: rander.oliveira@pbh.gov.br",
+    "sentAt": "2026-08-28T15:14:16.972Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Olá, Rander! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:14:16. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB079F78EEF6F89190338",
+      "3EB069C0BC65C34CEF9CBC",
+      "3EB0516088DB4B4DA553D7",
+      "3EB07E68DD80BBAF026C5D"
+    ]
   },
   {
     "id": "lead-workshop-5521981524006",
@@ -4640,14 +4962,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: raffasoares@gmail.com",
+    "sentAt": "2026-08-28T15:18:06.724Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Opa, Rafael! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:18:06. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB093A7C32FCAF5E5F34B",
+      "3EB0EC99F283A80A07B66B",
+      "3EB0329106F401E757F3EA",
+      "3EB018AE097E86385026C5"
+    ]
   },
   {
     "id": "lead-workshop-14242063094",
@@ -4658,14 +5003,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: lsimeao@gmail.com",
+    "sentAt": "2026-08-28T15:21:54.913Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Leonardo! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:21:54. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB08748854DA1EE22FF4F",
+      "3EB07532CD91ADAF11033A",
+      "3EB0F1CD6D6D126333C677",
+      "3EB0FEFCFCC3C89747A79D"
+    ]
   },
   {
     "id": "lead-workshop-5511954935758",
@@ -4676,14 +5044,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: gabriel_santori@hotmail.com",
+    "sentAt": "2026-08-28T15:25:34.131Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "E aí, Gabriel, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:25:34. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB03A5EB4DB894225E8C5",
+      "3EB0E8BF5BC902F20454A8",
+      "3EB0B1FBB96771BA0B5FB5",
+      "3EB0368006F0170E8A26D1"
+    ]
   },
   {
     "id": "lead-workshop-5592991860122",
@@ -4694,14 +5085,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: economia2024@gmail.com",
+    "sentAt": "2026-08-28T15:29:18.698Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Olá, Participante! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:29:18. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0400B016572EE20D5C9",
+      "3EB08F3240987DC59DB00A",
+      "3EB00E4BCBE0FC59C3BC55",
+      "3EB026F808D81A3AA5F986"
+    ]
   },
   {
     "id": "lead-workshop-5511994221935",
@@ -4712,14 +5126,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: pedrovergacas@gmail.com",
+    "sentAt": "2026-08-28T15:33:10.360Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Opa, Pedro! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:33:10. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB003BC5E584A64B16DD7",
+      "3EB0B1D974CBD938644645",
+      "3EB0332C3F6D36302BAE5B",
+      "3EB05D642B1CFDD9081801"
+    ]
   },
   {
     "id": "lead-workshop-351912226972",
@@ -4730,14 +5167,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: gilberto.aguiar08@gmail.com",
+    "sentAt": "2026-08-28T15:37:26.947Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Gilberto! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:37:26. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0150B7DCADB93898763",
+      "3EB0A43E0F121851CD6592",
+      "3EB087AFF8C0CC96548711",
+      "3EB0DD331B5E3FC879F923"
+    ]
   },
   {
     "id": "lead-workshop-5595984196938",
@@ -4748,14 +5208,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: melosouza.fms@gmail.com",
+    "sentAt": "2026-08-28T15:41:37.270Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "E aí, Fabio, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:41:37. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0E63943EC98928E6BA2",
+      "3EB06006702A0808252416",
+      "3EB0591948B1F1F4FADD44",
+      "3EB07F4AAC5FE90DA2EBAC"
+    ]
   },
   {
     "id": "lead-workshop-5531998477475",
@@ -4766,14 +5249,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: luiscaralinda49@hotmail.com",
+    "sentAt": "2026-08-28T15:45:40.289Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Olá, Luis! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:45:40. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0DA06AD48FB0A70D90F",
+      "3EB0B3E4254D63EDC55ED2",
+      "3EB0D6ECE2BFAD52CAAD4E",
+      "3EB051F7AB4AD3387D5A2F"
+    ]
   },
   {
     "id": "lead-workshop-5511982822366",
@@ -4784,14 +5290,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: marciocinini@gmail.com",
+    "sentAt": "2026-08-28T15:49:02.296Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Opa, Marcio! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:49:02. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0E4A040ADBF372CF4E9",
+      "3EB04264A075289C070576",
+      "3EB000FAF5F741B6E73136",
+      "3EB00BA0C7D7CD9AEA5E35"
+    ]
   },
   {
     "id": "lead-workshop-5521976309704",
@@ -4802,14 +5331,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: diegomonteeee@gmail.com",
+    "sentAt": "2026-08-28T15:52:25.113Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Diego! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:52:25. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0668F0DB9C9224A153D",
+      "3EB0EC64E25EB8F69C082F",
+      "3EB0C545D1976DA76BFB82",
+      "3EB0914DA2CDF637D0ACCD"
+    ]
   },
   {
     "id": "lead-workshop-5551992138262",
@@ -4820,14 +5372,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: ramirofialho@hotmail.com",
+    "sentAt": "2026-08-28T15:56:03.125Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "E aí, Ramiro, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:56:03. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB09F72FA6714DA46C31D",
+      "3EB02A50BFADFE54AB6F61",
+      "3EB007AA81D7ED123140F3",
+      "3EB0D350AB4D137E7CEB6D"
+    ]
   },
   {
     "id": "lead-workshop-5531990670475",
@@ -4838,14 +5413,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: clauberpoker@gmail.com",
+    "sentAt": "2026-08-28T15:59:47.833Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Olá, Clauber! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:59:47. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0E0859F6087C3D7F6B7",
+      "3EB02D92847D7DC98A4A8A",
+      "3EB05B1B4EE6DB5C22F1C5",
+      "3EB076E8E645470CFD5AEA"
+    ]
   },
   {
     "id": "lead-workshop-5511967112576",
@@ -4856,14 +5454,37 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: pinguelo.t27@gmail.com",
+    "sentAt": "2026-08-28T16:04:10.445Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Opa, Rafael! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 13:04:10. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0DFE62EAAB3F825B289",
+      "3EB0EC0747877E53BAF13E",
+      "3EB049CB6A5A3F12C35FC1",
+      "3EB03293B427789C71D54C"
+    ]
   },
   {
     "id": "lead-workshop-5551980423742",
@@ -4874,13 +5495,36 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: rodolfofortes99@gmail.com",
+    "sentAt": "2026-08-28T16:07:32.032Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Fala, Rodolfo! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+      },
+      {
+        "block": 3,
+        "text": "[Imagem 2 - Comunidade & LLM Privada]"
+      },
+      {
+        "block": 4,
+        "text": "[Áudio PTT Gravado - 21s]"
+      }
+    ],
+    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 13:07:32. Lead impactado com sucesso.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB07F936EFF0F34B6ED92",
+      "3EB04073334856294BB5B6",
+      "3EB0C6260FF0E63944A1A8",
+      "3EB090A7A8386577099E21"
+    ]
   }
 ];
