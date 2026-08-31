@@ -4889,7 +4889,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:38:18.520Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:38:18. Variação #1.",
     "deliveredBlocks": [
@@ -4910,7 +4910,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB014DB425047272620ED",
       "3EB0CFC77A07B48AADBEA7",
       "3EB00B7B4743B6F6DFE9AC"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788113908235_h6ca",
@@ -4922,7 +4926,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:42:00.171Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:42:00. Variação #2.",
     "deliveredBlocks": [
@@ -4943,7 +4947,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB037372EABD54C43EF3B",
       "3EB03AA01009F220E20070",
       "3EB0A69BB9FC9485D2ABF8"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788114067056_o9c7",
@@ -4955,7 +4963,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:45:27.099Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:45:27. Variação #3.",
     "deliveredBlocks": [
@@ -4976,7 +4984,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB05D31865603B3982891",
       "3EB056068B70C67F594E78",
       "3EB04BE8ED005B6D15C2F5"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788114223941_fifo",
@@ -4988,7 +5000,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:49:12.943Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:49:12. Variação #1.",
     "deliveredBlocks": [
@@ -5009,7 +5021,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB030225D21FB6E7D0DC8",
       "3EB03C2FE9C1BC82DE36CF",
       "3EB01FDC18583A876E4181"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788115933264_hv1z",
@@ -5021,7 +5037,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:52:13.264Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:52:13. Variação #2.",
     "deliveredBlocks": [
@@ -5042,7 +5058,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB062B40983B7FFF5178A",
       "3EB0296C073A64EB7227FE",
       "3EB078BF08E2AC841B5BF7"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788116121019_cukr",
@@ -5054,7 +5074,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:55:21.019Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:55:21. Variação #3.",
     "deliveredBlocks": [
@@ -5075,7 +5095,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0644FD890DEF9AB2428",
       "3EB0ECAA9EEE340B52C8C5",
       "3EB09DEF032ABBE698BB49"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788116282852_iacb",
@@ -5087,7 +5111,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:58:02.852Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:58:02. Variação #1.",
     "deliveredBlocks": [
@@ -5108,7 +5132,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0AE6BAD72CFCB840433",
       "3EB0BDFB7C1E25B9A5AC35",
       "3EB0AD2D2E9C829B2A8A6A"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788116527130_7srx",
@@ -5120,7 +5148,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:02:07.130Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:02:07. Variação #2.",
     "deliveredBlocks": [
@@ -5141,7 +5169,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0255148F494B118B49D",
       "3EB09DC6930E60CB9F81C5",
       "3EB05651C01F2514FF479A"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788116751724_vyay",
@@ -5153,7 +5185,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:05:51.724Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:05:51. Variação #3.",
     "deliveredBlocks": [
@@ -5174,7 +5206,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB00D3CEB2EB0045B4A3E",
       "3EB03326F3B528CCA62F68",
       "3EB0022067BD2755D6B2F3"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788116966991_psel",
@@ -5186,7 +5222,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:09:26.991Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:09:26. Variação #1.",
     "deliveredBlocks": [
@@ -5207,7 +5243,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB07CD80FDAC8803DB4F8",
       "3EB099BA74CA105B48A34F",
       "3EB00CD58752503A4708A8"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788117204904_1qb6",
@@ -5219,7 +5259,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:13:24.904Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:13:24. Variação #2.",
     "deliveredBlocks": [
@@ -5240,7 +5280,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0D321A737511249667F",
       "3EB0EF1FC3184E02D1D553",
       "3EB0B78DA9546EDE8912F0"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788117421517_smu2",
@@ -5252,7 +5296,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:17:01.517Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:17:01. Variação #3.",
     "deliveredBlocks": [
@@ -5273,7 +5317,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB091AEE1B6F284B5446D",
       "3EB0FCD53A9A4B75611AD2",
       "3EB0C454132A31CC854931"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788117598249_i14l",
@@ -5285,7 +5333,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:19:58.249Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:19:58. Variação #1.",
     "deliveredBlocks": [
@@ -5306,7 +5354,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB01409A3A7231920C393",
       "3EB0F02B01E05BD7A2070E",
       "3EB0E3E6040A2DD39AE852"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788117840101_u32w",
@@ -5318,7 +5370,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:24:00.101Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:24:00. Variação #2.",
     "deliveredBlocks": [
@@ -5339,7 +5391,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0DA55AD71D83C7A96D1",
       "3EB0D1FEE27A60471B38E8",
       "3EB0CA2FDDE3DB7AAF8158"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788118083646_gi8r",
@@ -5351,7 +5407,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:28:03.646Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:28:03. Variação #3.",
     "deliveredBlocks": [
@@ -5372,7 +5428,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB05B449F815F85A474FF",
       "3EB05922B883ECAA247F7C",
       "3EB09B8B6A7A6874836B70"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788118271154_f0q8",
@@ -5384,7 +5444,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:31:11.154Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:31:11. Variação #1.",
     "deliveredBlocks": [
@@ -5405,7 +5465,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB05FD32275352A7AA314",
       "3EB08EBDC0D1DBDE520121",
       "3EB0189C801EB50E6D70CC"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788118474863_tsg2",
@@ -5417,7 +5481,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:34:34.863Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:34:34. Variação #2.",
     "deliveredBlocks": [
@@ -5438,7 +5502,11 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB0D700D0EB2EB874F1B0",
       "3EB01666C73C534A80CFD9",
       "3EB030B74B4E74A878F8B3"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   },
   {
     "id": "lead_painel_novo_1788118698524_54km",
@@ -5450,7 +5518,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:38:18.524Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:38:18. Variação #3.",
     "deliveredBlocks": [
@@ -5471,6 +5539,10 @@ export const INITIAL_LEADS: Lead[] = [
       "3EB066DA1B9CBE94C7F228",
       "3EB0E09383BED8CBA6DB38",
       "3EB001FA33C1A91B4E58C3"
-    ]
+    ],
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batchType": "tipo_a",
+    "replied": false
   }
 ];
