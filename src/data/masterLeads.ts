@@ -10,7 +10,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Me sentir confiante usando qualquer ferramenta de IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "ENTREGUE",
+    "status": "FECHADO",
     "interest": "ALTO",
     "replied": false,
     "sentAt": "2026-08-24T21:20:44.246Z",
@@ -40,15 +40,16 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Painel Novos] Cliente já membro VITALÍCIO ativo. Não enviar campanha de venda.",
     "dispatchedMessageIds": [
       "3EB00AD24E6CCD489A6282",
       "3EB09C637F16ACC5CAE364",
       "3EB0CC8B84FE830CDE2034",
       "3EB0614834633B7050C03F"
     ],
-    "leadType": "B2B_EMPRESA",
-    "aiMaturity": "NAO_INFORMADO"
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO",
+    "email": "fmaciel3@gmail.com"
   },
   {
     "id": "lead-a-5548999611161",
@@ -59,7 +60,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Gerar renda nova com IA",
     "batch": "Lote 2 (Novos Tipo A)",
     "batchType": "tipo_a",
-    "status": "ENTREGUE",
+    "status": "PENDENTE",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-24T21:25:04.174Z",
@@ -89,15 +90,16 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Painel Novos] Sem número de WhatsApp cadastrado no painel. Contato possível apenas por e-mail (rojascnsa@gmail.com).",
     "dispatchedMessageIds": [
       "3EB0DFACD7C931445BFF91",
       "3EB04AD0819C0F9C33C07C",
       "3EB04D7BE404A955EE1E88",
       "3EB08935BE50CFED8069CB"
     ],
-    "leadType": "B2B_EMPRESA",
-    "aiMaturity": "NAO_INFORMADO"
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "NAO_INFORMADO",
+    "email": "rojascnsa@gmail.com"
   },
   {
     "id": "lead-a-5543999553366",
@@ -957,7 +959,7 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Transformar meu negócio com IA",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "ENTREGUE",
+    "status": "B2B_EMPRESAS",
     "interest": "MEDIO",
     "replied": false,
     "sentAt": "2026-08-30T21:38:16.600Z",
@@ -975,14 +977,15 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:38:16. Variação #2.",
+    "notes": "[Painel Novos] Contato corporativo B2B (@empresa). Excluído do disparo B2C para abordagem comercial B2B dedicada.",
     "dispatchedMessageIds": [
       "3EB01D3CCC20936A77E5B8",
       "3EB0A52CB7BB7865A33EC6",
       "3EB01D5A8B6B7AFB1AAD4C"
     ],
     "leadType": "B2B_EMPRESA",
-    "aiMaturity": "NAO_INFORMADO"
+    "aiMaturity": "NAO_INFORMADO",
+    "email": "robert@preservessecurity.com.br"
   },
   {
     "id": "lead-1-5511949779993",
@@ -4889,7 +4892,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:38:18.520Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:38:18. Variação #1.",
     "deliveredBlocks": [
@@ -4926,7 +4929,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:42:00.171Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:42:00. Variação #2.",
     "deliveredBlocks": [
@@ -4963,7 +4966,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:45:27.099Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:45:27. Variação #3.",
     "deliveredBlocks": [
@@ -5000,7 +5003,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:49:12.943Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:49:12. Variação #1.",
     "deliveredBlocks": [
@@ -5037,7 +5040,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:52:13.264Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:52:13. Variação #2.",
     "deliveredBlocks": [
@@ -5074,7 +5077,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:55:21.019Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:55:21. Variação #3.",
     "deliveredBlocks": [
@@ -5111,7 +5114,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T18:58:02.852Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:58:02. Variação #1.",
     "deliveredBlocks": [
@@ -5148,7 +5151,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:02:07.130Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:02:07. Variação #2.",
     "deliveredBlocks": [
@@ -5185,7 +5188,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:05:51.724Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:05:51. Variação #3.",
     "deliveredBlocks": [
@@ -5222,7 +5225,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:09:26.991Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:09:26. Variação #1.",
     "deliveredBlocks": [
@@ -5259,7 +5262,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:13:24.904Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:13:24. Variação #2.",
     "deliveredBlocks": [
@@ -5296,7 +5299,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:17:01.517Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:17:01. Variação #3.",
     "deliveredBlocks": [
@@ -5333,7 +5336,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:19:58.249Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:19:58. Variação #1.",
     "deliveredBlocks": [
@@ -5370,7 +5373,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:24:00.101Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:24:00. Variação #2.",
     "deliveredBlocks": [
@@ -5407,7 +5410,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:28:03.646Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:28:03. Variação #3.",
     "deliveredBlocks": [
@@ -5444,7 +5447,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:31:11.154Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:31:11. Variação #1.",
     "deliveredBlocks": [
@@ -5481,7 +5484,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:34:34.863Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:34:34. Variação #2.",
     "deliveredBlocks": [
@@ -5518,7 +5521,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "INTERMEDIARIO",
+    "aiMaturity": "Intermediário",
     "sentAt": "2026-08-30T19:38:18.524Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:38:18. Variação #3.",
     "deliveredBlocks": [
@@ -5544,5 +5547,105 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Formação e Aplicação de IA",
     "batchType": "tipo_a",
     "replied": false
+  },
+  {
+    "id": "lead_painel_uncalled_1788179344211_932m",
+    "name": "Lucas De Almeida Todesco",
+    "phone": "+551699776115",
+    "phoneClean": "551699776115",
+    "email": "todescolucaseng@gmail.com",
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batch": "Painel Novos (Agosto)",
+    "batchType": "tipo_a",
+    "status": "PENDENTE",
+    "interest": "BAIXO",
+    "replied": false,
+    "sentAt": null,
+    "notes": "[Painel Novos] Telefone cadastrado incompleto ou com dígito a menos (+551699776115). Necessário ajuste antes de disparar.",
+    "deliveredBlocks": [],
+    "dispatchedMessageIds": [],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "INTERMEDIARIO"
+  },
+  {
+    "id": "lead_painel_uncalled_1788179344211_ew24",
+    "name": "Abimael Silva",
+    "phone": "+5584986771829",
+    "phoneClean": "5584986771829",
+    "email": "abimaelsilvatech@gmail.com",
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batch": "Painel Novos (Agosto)",
+    "batchType": "bloqueado",
+    "status": "FECHADO",
+    "interest": "ALTO",
+    "replied": false,
+    "sentAt": null,
+    "notes": "[Painel Novos] Cliente assinante PREMIUM COMPLETO ativo. Não enviar campanha de venda.",
+    "deliveredBlocks": [],
+    "dispatchedMessageIds": [],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "INTERMEDIARIO"
+  },
+  {
+    "id": "lead_painel_uncalled_1788179344211_v98r",
+    "name": "Erika Ramos",
+    "phone": "+5511981883373",
+    "phoneClean": "5511981883373",
+    "email": "erikaramossm@gmail.com",
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batch": "Painel Novos (Agosto)",
+    "batchType": "bloqueado",
+    "status": "FECHADO",
+    "interest": "ALTO",
+    "replied": false,
+    "sentAt": null,
+    "notes": "[Painel Novos] Cliente assinante PREMIUM COMPLETO ativo. Não enviar campanha de venda.",
+    "deliveredBlocks": [],
+    "dispatchedMessageIds": [],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "INTERMEDIARIO"
+  },
+  {
+    "id": "lead_painel_uncalled_1788179344212_g4ph",
+    "name": "Fabrício Santos",
+    "phone": "+55998705340",
+    "phoneClean": "55998705340",
+    "email": "fabriciosilva093@gmail.com",
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batch": "Painel Novos (Agosto)",
+    "batchType": "tipo_a",
+    "status": "PENDENTE",
+    "interest": "BAIXO",
+    "replied": false,
+    "sentAt": null,
+    "notes": "[Painel Novos] Telefone cadastrado incompleto ou com dígito a menos (+55998705340). Necessário ajuste antes de disparar.",
+    "deliveredBlocks": [],
+    "dispatchedMessageIds": [],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "INTERMEDIARIO"
+  },
+  {
+    "id": "lead_painel_uncalled_1788179344212_6y9d",
+    "name": "Carlos Plata",
+    "phone": "+13059752810",
+    "phoneClean": "13059752810",
+    "email": "cplata@ibope.com",
+    "occupation": "Profissional / Builder",
+    "goal": "Formação e Aplicação de IA",
+    "batch": "Painel Novos (Agosto)",
+    "batchType": "bloqueado",
+    "status": "FECHADO",
+    "interest": "ALTO",
+    "replied": false,
+    "sentAt": null,
+    "notes": "[Painel Novos] Cliente assinante PREMIUM COMPLETO ativo. Não enviar campanha de venda.",
+    "deliveredBlocks": [],
+    "dispatchedMessageIds": [],
+    "leadType": "PROFISSIONAL_INDIVIDUAL",
+    "aiMaturity": "INTERMEDIARIO"
   }
 ];
