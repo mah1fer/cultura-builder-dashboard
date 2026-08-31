@@ -888,28 +888,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T22:17:46.584Z",
+    "sentAt": "2026-08-30T21:30:30.324Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Reno! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Reno, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:30:30. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB09DA26F343971474C61",
+      "3EB0ED0F3E5530985142B5",
+      "3EB04A089348F81B07B60F"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -923,31 +921,29 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "NEGOCIACAO",
+    "status": "ENTREGUE",
     "interest": "ALTO",
     "replied": true,
-    "sentAt": "2026-08-16T15:31:26.032Z",
+    "sentAt": "2026-08-30T21:34:15.309Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Murilo, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Em Diálogo / Marcou Reunião para Conhecer] Preencheu formulário e reservou horário para conhecer o ecossistema e ferramentas do Cultura Builder.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:34:15. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB08F05224EBBD99C9F28",
+      "3EB0F0E4ED04660981277F",
+      "3EB0D841508ADB002B17EA"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "INTERMEDIARIO"
@@ -964,28 +960,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T22:21:59.357Z",
+    "sentAt": "2026-08-30T21:38:16.600Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "André, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:38:16. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB01D3CCC20936A77E5B8",
+      "3EB0A52CB7BB7865A33EC6",
+      "3EB01D5A8B6B7AFB1AAD4C"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -1002,36 +996,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T22:26:17.314Z",
+    "sentAt": "2026-08-30T21:41:55.271Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Gabriel, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Gabriel, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:41:55. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB004B809294A8D1BBCFE",
+      "3EB0075BAB88F013A5BDEA",
+      "3EB0C4D7DA2049990D1D00"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1045,31 +1029,29 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "NEGOCIACAO",
+    "status": "ENTREGUE",
     "interest": "ALTO",
     "replied": true,
-    "sentAt": "2026-08-16T15:43:01.813Z",
+    "sentAt": "2026-08-30T21:45:17.238Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Guilherme, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Em Diálogo / Avaliando Solução de Processos] Contato da empresa/hub querendo otimizar fluxo manual de notas fiscais e malotes via Claude. Marcou conversa para entender a viabilidade técnica.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:45:17. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0C6E43423EB517E6D68",
+      "3EB0590144C569D14346B5",
+      "3EB065B39031AE7D8055FD"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "INTERMEDIARIO"
@@ -1086,36 +1068,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T22:30:33.675Z",
+    "sentAt": "2026-08-30T21:49:11.499Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Gustavo, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Gustavo, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:49:11. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB06E60610577278477D6",
+      "3EB0B0C892CA8840F23FD9",
+      "3EB0AFD4170653D66AA7FB"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1208,36 +1180,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T22:34:53.995Z",
+    "sentAt": "2026-08-30T21:52:12.254Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "(sem, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:52:12. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0A96720EB73B19865C5",
+      "3EB00D6505675CBD6E8A7F",
+      "3EB02698C14990363493BD"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -1254,36 +1216,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "ALTO",
     "replied": false,
-    "sentAt": "2026-08-24T22:38:34.071Z",
+    "sentAt": "2026-08-30T21:55:48.828Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Geraldo, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Geraldo, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:55:48. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB092B5896E6FEDF3EB2C",
+      "3EB032E005FED78C16BD9C",
+      "3EB08765BD17EFA890E7BD"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -1300,36 +1252,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T22:42:11.893Z",
+    "sentAt": "2026-08-30T21:58:32.043Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Heitor, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Heitor, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:58:32. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB04E06F8863F519A0C7D",
+      "3EB03F3C84FD4829B7C930",
+      "3EB067D96A36DDF14FA668"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1346,36 +1288,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T22:46:03.292Z",
+    "sentAt": "2026-08-30T22:01:34.733Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Júlio, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Júlio, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:01:34. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB086FB33ED50B5897F56",
+      "3EB01310DAFBC9D106E6BD",
+      "3EB007C26957CC8DD83CF5"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1392,36 +1324,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T22:50:26.885Z",
+    "sentAt": "2026-08-30T22:04:27.520Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Anderson, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Anderson, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:04:27. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0ED753CC2D39DC1413A",
+      "3EB06C15786E4A9AFD7685",
+      "3EB067B18E451F0460E484"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1438,36 +1360,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T22:54:30.697Z",
+    "sentAt": "2026-08-30T22:08:09.641Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "(sem, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:08:09. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB04F88A90BA77793690F",
+      "3EB074C47C6E741B1E2A7A",
+      "3EB010161259E13A27A99D"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -1484,36 +1396,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T22:58:14.352Z",
+    "sentAt": "2026-08-30T22:10:54.312Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Lucas! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Lucas, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Lucas, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:10:54. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB04375F7831649E6BDF1",
+      "3EB06AC7EDC8E832B4F641",
+      "3EB0EF14223669CFF37481"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1530,36 +1432,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:01:49.085Z",
+    "sentAt": "2026-08-30T22:14:45.417Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Luan, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Luan, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:14:45. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0566423BD2346CC64F7",
+      "3EB06460713F7A86B6DEA0",
+      "3EB02C25E9273B175B8825"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1576,36 +1468,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:05:17.023Z",
+    "sentAt": "2026-08-30T22:18:15.301Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Yuri, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Yuri, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:18:15. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB01F9194B0D80CB1C9FD",
+      "3EB0ACF111D7722F7171DE",
+      "3EB0CCB0726CDD62AB3CD3"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1706,36 +1588,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:09:17.430Z",
+    "sentAt": "2026-08-30T22:21:37.932Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Matheus, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Matheus, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:21:37. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB031501B519167A76334",
+      "3EB0D0CD9F06696A07681C",
+      "3EB0B19B06FDCE2957823E"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -1752,36 +1624,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:13:13.587Z",
+    "sentAt": "2026-08-30T22:25:04.412Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Malu, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Malu, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:25:04. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB035FAC7E9A23CA37387",
+      "3EB07BC2D22A15E7547E3B",
+      "3EB039974C28825BD320B2"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -1798,36 +1660,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:16:43.737Z",
+    "sentAt": "2026-08-30T22:28:44.908Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Michael, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Michael, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:28:44. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB04B6F1E136B0874C887",
+      "3EB02F96E840A057B2AF23",
+      "3EB0192529D0FF477774AA"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1844,36 +1696,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:20:38.996Z",
+    "sentAt": "2026-08-30T22:32:10.221Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Felipe, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Felipe, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:32:10. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB001AF46B17BB93C2D96",
+      "3EB0E8992158676A6BCEE3",
+      "3EB04607BA92A92F5C7B37"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1890,36 +1732,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:24:52.546Z",
+    "sentAt": "2026-08-30T22:34:57.298Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Bruno, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Bruno, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:34:57. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB07F67B8A0241BD658C2",
+      "3EB0602F6179064113C80F",
+      "3EB0655BB5C5C757A77D19"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -1933,39 +1765,29 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-24T23:28:56.803Z",
+    "sentAt": "2026-08-30T22:38:25.827Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Felipe, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Felipe, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Contato Futuro / Atendimento Mateus] Alinhado para retomada em momento oportuno.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:38:25. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB04C034E0A0AF4CE5CDD",
+      "3EB0C97666814E1ACAEEBE",
+      "3EB030FA84D036474859C5"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -1979,39 +1801,29 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-24T23:32:21.092Z",
+    "sentAt": "2026-08-30T22:42:28.084Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Henrique, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Henrique, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Contato Futuro / Já Tem Estrutura & Sem Tempo] Já utiliza ferramentas pagas e banco de dados. Sem urgência no momento e sem tempo na agenda.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:42:28. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB08063E5608C81699E49",
+      "3EB02573FC905BC818AB22",
+      "3EB09E699B18C2439D86CA"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "AVANCADO"
@@ -2028,36 +1840,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:36:08.285Z",
+    "sentAt": "2026-08-30T22:46:23.226Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Leonardo! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Leonardo, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Leonardo, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:46:23. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB08BF42772EF6E0A63E2",
+      "3EB084BB7A03EC5357B97C",
+      "3EB0D58B2C0B710CDB0A6E"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -2074,36 +1876,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:40:27.123Z",
+    "sentAt": "2026-08-30T22:50:06.425Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Rodrigo! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Rodrigo, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Rodrigo, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:50:06. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0CE631BE68FA36BAF2B",
+      "3EB0ADAB0E760F39B5CA11",
+      "3EB00D199DB64074EB2144"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2120,36 +1912,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:49:03.352Z",
+    "sentAt": "2026-08-30T22:54:17.085Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Alberth! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Alberth, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Alberth, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:54:17. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB01D2B46D28D41744997",
+      "3EB059088335877A96DAD0",
+      "3EB0841335F4DF3E921C50"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2166,36 +1948,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:47:28.671Z",
+    "sentAt": "2026-08-30T22:58:25.068Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Wellington, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Wellington, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:58:25. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0F943F0861AA36AB548",
+      "3EB0F8F314525CA5AA1759",
+      "3EB0E370F24693639A9B5C"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2212,36 +1984,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T18:57:03.536Z",
+    "sentAt": "2026-08-30T23:02:28.317Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala adrian! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Adrian, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "adrian, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:02:28. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB008B10F1AF7421FDE5D",
+      "3EB07877A9921780F265A7",
+      "3EB011B958F093798C6086"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2258,36 +2020,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:55:32.449Z",
+    "sentAt": "2026-08-30T23:06:16.214Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Diego! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Diego, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Diego, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:06:16. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB06407D9926A31A67DA8",
+      "3EB01BC3DB7FC10E6C7515",
+      "3EB0F11AB880B4BE16C6AD"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2304,36 +2056,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-24T23:58:58.221Z",
+    "sentAt": "2026-08-30T23:08:58.497Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Alexandre! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Alexandre, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Alexandre, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:08:58. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0AD8C7DEC446ECD4F90",
+      "3EB0A3FC6937DB22A5709B",
+      "3EB00159AB46A250199FFF"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2350,36 +2092,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:03:03.648Z",
+    "sentAt": "2026-08-30T23:12:29.653Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Andre! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Andre, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Andre, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:12:29. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB08ABB441EB262E7370B",
+      "3EB08CEEE32D208E95674D",
+      "3EB04EB25E2E28611E1DB4"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2396,36 +2128,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:07:18.698Z",
+    "sentAt": "2026-08-30T23:16:24.126Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Eduardo! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Eduardo, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Eduardo, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:16:24. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB02A4B34B53DD0F69832",
+      "3EB089C7AED3CB12C186E0",
+      "3EB05CD0FCAF8F9023939B"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2442,36 +2164,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:10:52.054Z",
+    "sentAt": "2026-08-30T23:19:07.714Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Rodrigo! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Rodrigo, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Rodrigo, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:19:07. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0657374FCC7D34CA8CD",
+      "3EB002BA96DF8321AF5372",
+      "3EB008FF02974CD3D5B555"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2488,36 +2200,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:14:30.381Z",
+    "sentAt": "2026-08-30T23:22:09.702Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Felippe! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Felippe, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Felippe, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:22:09. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0B0863FFC38E071F9E6",
+      "3EB01EE830632556E101AC",
+      "3EB010C3C549559573F110"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2534,36 +2236,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:18:07.128Z",
+    "sentAt": "2026-08-30T23:25:48.983Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Breno! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Breno, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Breno, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:25:48. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0B24B48A7A021A9ADF6",
+      "3EB0196C6B7E24924FC97F",
+      "3EB0B2505AF6E232E8FBDB"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2580,36 +2272,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:21:40.653Z",
+    "sentAt": "2026-08-30T23:29:42.579Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Andressa! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Andressa, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Andressa, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:29:42. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0C8911D43C901FD7AA6",
+      "3EB0C46F5D456A09DA6A24",
+      "3EB012595DB06C2A1D0C0D"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2626,36 +2308,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:25:30.340Z",
+    "sentAt": "2026-08-30T23:33:09.756Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Sara! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Sara, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Sara, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:33:09. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0E47A1ADEF53207C7E5",
+      "3EB00005847E319CDEA0C6",
+      "3EB0B17314AC8EC006D187"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2672,36 +2344,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:35:19.693Z",
+    "sentAt": "2026-08-30T23:36:55.629Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala O! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "O, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "O, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:36:55. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0F8DDBA4B967C42529F",
+      "3EB05709D59213095B1DF8",
+      "3EB04D77580929987678A2"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -2718,36 +2380,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:33:11.969Z",
+    "sentAt": "2026-08-30T23:40:31.788Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Bruno! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Bruno, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Bruno, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:40:31. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0DE348597BD26AA95F5",
+      "3EB06EE3B3792942E44DBD",
+      "3EB09BAEA338260DEFB3B5"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2764,36 +2416,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:36:36.270Z",
+    "sentAt": "2026-08-30T23:44:15.846Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala leonardo! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Leonardo, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "leonardo, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:44:15. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB03F736EFD7DE827E280",
+      "3EB041DEF270E08BB31B45",
+      "3EB0F2B62B08CF2E6A77C0"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2810,36 +2452,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:40:39.928Z",
+    "sentAt": "2026-08-30T23:48:22.321Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Francisco! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Francisco, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Francisco, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:48:22. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB03476F3D4EFD73FBAA4",
+      "3EB055F18EB9DEFD5A121B",
+      "3EB0A2A49348ED66CB01CB"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2856,36 +2488,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:44:49.816Z",
+    "sentAt": "2026-08-30T23:52:05.191Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Julio! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Julio, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Julio, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:52:05. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB053D026E825AE9641CE",
+      "3EB00B0A74458D4A625E38",
+      "3EB0B4CB0EE5E8E4DAA556"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2902,36 +2524,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T19:54:35.712Z",
+    "sentAt": "2026-08-30T23:54:50.845Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Gabriel! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Gabriel, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Gabriel, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:54:50. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB08C652823F357D569A4",
+      "3EB04030C95E897FD14AA5",
+      "3EB0B8075B9719AD00B407"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2948,36 +2560,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T00:52:45.378Z",
+    "sentAt": "2026-08-30T23:58:24.621Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Rogerio! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Rogerio, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Rogerio, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:58:24. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0D9F3AC901BE30C4CA3",
+      "3EB08E7C98E3A7C237DFDE",
+      "3EB0A562F7A9470143ACC4"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -2994,36 +2596,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T20:02:06.263Z",
+    "sentAt": "2026-08-31T00:01:16.462Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala SURGE! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Surge, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "SURGE, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:01:16. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0BE6BBC92AF0A7A705A",
+      "3EB0CDEB20E5725EEF267A",
+      "3EB0B98605F0BEDFC4B7D9"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -3040,36 +2632,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T13:43:03.499Z",
+    "sentAt": "2026-08-31T00:04:12.423Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Gustavo! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Gustavo, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Gustavo, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:04:12. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB09290FEBBADE2410381",
+      "3EB0913D73F35B5367DF3B",
+      "3EB02EFACF9C9DF522E178"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3086,36 +2668,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T13:47:09.195Z",
+    "sentAt": "2026-08-31T00:07:26.716Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala rshrtsd! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Rshrtsd, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "rshrtsd, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:07:26. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0D5DC011572A77E34BE",
+      "3EB0CE757F02DCD3190D4B",
+      "3EB068EC84C02947F84E93"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3132,36 +2704,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T13:19:57.458Z",
+    "sentAt": "2026-08-31T00:10:31.606Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Batata! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Batata, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Batata, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:10:31. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB08CA7C76718EC8AB365",
+      "3EB083F7A86B1D9D103A8C",
+      "3EB0952D9DE5935DF4EDA3"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3178,36 +2740,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T13:50:36.137Z",
+    "sentAt": "2026-08-31T00:14:12.413Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Bruno! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Bruno, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Bruno, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:14:12. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB08C70BEF50DE5413FFF",
+      "3EB0F497D9080B75A0B79E",
+      "3EB07ABCA14D23BADCD7D2"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3221,39 +2773,29 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-25T13:55:01.010Z",
+    "sentAt": "2026-08-31T00:17:42.386Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Gustavo! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Gustavo, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Gustavo, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Contato Futuro / Sem Tempo na Rotina] \"Não tive tempo... Mas pretendo... Tô sim\". Tem interesse mas a rotina está sobrecarregada.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:17:42. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0F6D503A8D5925632CD",
+      "3EB060379AF501C5A10DAC",
+      "3EB0BFD16DA45669D28E12"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3270,36 +2812,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T13:59:32.933Z",
+    "sentAt": "2026-08-31T00:20:53.425Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Caio! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Caio, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Caio, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:20:53. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB060B8DE253CE96063C3",
+      "3EB0A19B03EDB68315A6EF",
+      "3EB05BCF4F394CDD3D8B09"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3313,39 +2845,29 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-25T14:04:32.997Z",
+    "sentAt": "2026-08-31T00:24:38.891Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Henrique! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Henrique, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Henrique, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Contato Futuro / Já Tem Estrutura & Sem Tempo] Já utiliza ferramentas pagas e banco de dados. Sem urgência no momento e sem tempo na agenda.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:24:38. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0C345039A8CA6AA2D56",
+      "3EB06FC16ABE4656F970F9",
+      "3EB043A5B6989A1515C187"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "AVANCADO"
@@ -3359,39 +2881,29 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "CONTATO_FUTURO",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-25T14:09:23.354Z",
+    "sentAt": "2026-08-31T00:28:21.929Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Luis! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Luis, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Luis, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Contato Futuro / Hub Interno Já Instalado] Empresa já opera com hub interno de Claude/IAs. Não busca novas ferramentas neste trimestre.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:28:21. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB03C8B5A959DF6731B7C",
+      "3EB053657CF77468019377",
+      "3EB0A22A385907D0A058D0"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "AVANCADO"
@@ -3446,28 +2958,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-16T20:40:54.394Z",
+    "sentAt": "2026-08-31T00:31:10.771Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Nelson! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Nelson, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:31:10. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB04A7AACB7F248F8699D",
+      "3EB057F6679C05AC5D1FA2",
+      "3EB08A29365C70DC613684"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3481,39 +2991,29 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Gerar renda nova com IA",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "RESPONDEU",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-25T14:17:56.262Z",
+    "sentAt": "2026-08-31T00:34:10.956Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala VANDER! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Vander, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "VANDER, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Em Descoberta] Interagiu com o material prático enviado.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:34:10. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB098E0D1FB196CCA300F",
+      "3EB09DCBAA6E2497A3D736",
+      "3EB0E7E39F347D24670B25"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3530,36 +3030,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T14:22:11.514Z",
+    "sentAt": "2026-08-31T00:37:36.824Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Pedro! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Pedro, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Pedro, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:37:36. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0736585CE5A4DA988BD",
+      "3EB092F2AE758647C89E53",
+      "3EB0D331E1FCFCC67BAE9D"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -3573,39 +3063,29 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
     "batchType": "lote_1",
-    "status": "RESPONDEU",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": true,
-    "sentAt": "2026-08-25T14:26:35.374Z",
+    "sentAt": "2026-08-31T00:41:45.988Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala Ícaro! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Ícaro, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Ícaro, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Em Descoberta] Respondeu positivamente à abordagem do vídeo sobre rotina com IA.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:41:45. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0890680334D2166DAEC",
+      "3EB092A23EAF7106D3AB3F",
+      "3EB002AC118D4B1BF2B68F"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -3622,36 +3102,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T14:30:31.322Z",
+    "sentAt": "2026-08-31T00:45:10.015Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Pr., faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Pr., uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:45:10. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB0053FC3B0CE16AC5AAD",
+      "3EB0361A43BF57DDF6979B",
+      "3EB0EA265BA07A176F8FB4"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -3668,36 +3138,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T14:34:58.194Z",
+    "sentAt": "2026-08-31T00:48:32.616Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Vitor, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Vitor, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:48:32. Variação #3.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB01A127F7399AF5759CF",
+      "3EB052EF2DAB5F6BB5D6F0",
+      "3EB00AF9E22ADC44BA0E3C"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3714,36 +3174,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T14:38:59.646Z",
+    "sentAt": "2026-08-31T00:52:27.706Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Rudney, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Rudney, uma pergunta rápida:"
-      },
-      {
-        "block": 6,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:52:27. Variação #1.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB05FF082FEF006E6CC9C",
+      "3EB0C1D6E0E81103B6648A",
+      "3EB0751E73ADBA43C38858"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3760,36 +3210,26 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T14:43:10.366Z",
+    "sentAt": "2026-08-31T00:55:56.513Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala ! Tudo bem? Aqui é o Mateus da Cultura Builder."
+        "text": "Filipe, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tô passando pra te avisar que liberamos uma condição especial de R$ 1.000 de desconto na Formação Cultura Builder."
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem Oficial da Oferta de R$ 1.000 OFF entregue]"
-      },
-      {
-        "block": 4,
-        "text": "Essa condição é válida até amanhã às 23:59. Se quiser garantir sua vaga com essa condição, me dá um toque por aqui!"
-      },
-      {
-        "block": 5,
-        "text": "Filipe, fiquei curioso com uma coisa:"
-      },
-      {
-        "block": 6,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:55:56. Variação #2.",
     "dispatchedMessageIds": [
-      "ok"
+      "3EB09D0E12D81CC0C31712",
+      "3EB05BDF056245F7393875",
+      "3EB07A27DD20D83CBC2148"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "NAO_INFORMADO"
@@ -3958,19 +3398,27 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T14:47:29.144Z",
+    "sentAt": "2026-08-31T00:59:16.638Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Contato, uma pergunta rápida:"
+        "text": "Opa! 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
-    "dispatchedMessageIds": [],
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 21:59:16. Variação #3.",
+    "dispatchedMessageIds": [
+      "3EB08EEDB0AB11076E5DB3",
+      "3EB080917838660788EEB6",
+      "3EB044B903FB82A4DF96A3"
+    ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
   },
@@ -4005,19 +3453,27 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T14:51:32.357Z",
+    "sentAt": "2026-08-31T01:02:55.735Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Contato, fiquei curioso com uma coisa:"
+        "text": "Opa! só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "Você já conseguiu colocar IA em alguma parte da sua rotina ou ainda não encontrou uma aplicação que realmente faça sentido?"
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
+      },
+      {
+        "block": 3,
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
-    "dispatchedMessageIds": [],
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 22:02:55. Variação #1.",
+    "dispatchedMessageIds": [
+      "3EB06F8B3ECF2896CF09C2",
+      "3EB0AD5D7ECAFC9F695716",
+      "3EB0641D60373DBFC7A5C4"
+    ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
   },
@@ -4033,19 +3489,27 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-25T14:55:39.981Z",
+    "sentAt": "2026-08-31T01:06:05.688Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Contato, uma pergunta rápida:"
+        "text": "Opa! faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Você está usando IA só pra ganhar tempo ou já pensa em usar pra construir alguma coisa própria?"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Recebeu Disparo - Em Silêncio] Vídeo de 1 min e CTA entregues no WhatsApp. Lead impactado com sucesso pela campanha, visualizou mas ainda não interagiu.",
-    "dispatchedMessageIds": [],
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 22:06:05. Variação #2.",
+    "dispatchedMessageIds": [
+      "3EB00508B654CBAB3C1E0C",
+      "3EB0911178007A9D9037B6",
+      "3EB00E11EAA8346FF0FD06"
+    ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
   },
@@ -4228,24 +3692,29 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Automações e Agentes de IA",
     "batch": "Lote 3 (Novos Consultivo)",
     "batchType": "tipo_a",
-    "status": "BLOQUEADO",
+    "status": "ENTREGUE",
     "interest": "DESQUALIFICADO",
     "replied": true,
-    "sentAt": "2026-08-23T19:54:23.312Z",
+    "sentAt": "2026-08-30T19:44:50.743Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala, Phillip! Mateus aqui, consultor de IA da Cultura Builder.. Tudo bem?"
+        "text": "Phillip, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "Tenho visto gente criando automações, agentes e projetos próprios com IA em poucos dias. Você já tem alguma ideia que gostaria de tirar do papel?"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Bloqueado] Contato com exclusão solicitada nos prints.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:44:50. Variação #2.",
     "dispatchedMessageIds": [
-      "3EB00B3F84F16155D0B7F2",
-      "3EB0F65D3AB4ABEBE40C34"
+      "3EB0093CAA20439171A3EA",
+      "3EB0B3292BCC482B709E1E",
+      "3EB014E6B4ED7022DB7263"
     ],
     "leadType": "B2B_EMPRESA",
     "aiMaturity": "NAO_INFORMADO"
@@ -4355,33 +3824,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T14:15:09.944Z",
+    "sentAt": "2026-08-30T19:47:46.174Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Opa, Fabio! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+        "text": "Fabio, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:15:09. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:47:46. Variação #3.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB06310F298C25633ECAB",
-      "3EB0EA266288D6727DFF47",
-      "3EB099DA4A885E0EB26DED",
-      "3EB066C7E530E2A5B70204"
+      "3EB05A1A9E59025C2508C1",
+      "3EB08964D49F26071CA04F",
+      "3EB07DFD65F4BDF340A2A0"
     ]
   },
   {
@@ -4396,33 +3860,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T14:18:50.764Z",
+    "sentAt": "2026-08-30T19:51:40.157Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala, Pedro! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+        "text": "Pedro, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:18:50. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:51:40. Variação #1.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0D4CCA3786FEB8DB123",
-      "3EB07E55A9A5F3C14388B5",
-      "3EB0E6B4B5032D40014078",
-      "3EB047F64FCB75F7220F65"
+      "3EB0DFDA85F1DFD3547853",
+      "3EB0A660622BDAC760385C",
+      "3EB04736A0EB53FADE7E04"
     ]
   },
   {
@@ -4437,33 +3896,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T14:23:11.443Z",
+    "sentAt": "2026-08-30T19:54:48.105Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "E aí, José, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+        "text": "José, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:23:11. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:54:48. Variação #2.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB08826BA2D4763E012C5",
-      "3EB02AFE9505636601DFD5",
-      "3EB0FD3435BAFCFF1BBF92",
-      "3EB0D3FA083E9F67899BAB"
+      "3EB06440447C55AA0928BE",
+      "3EB0E4DA30B4B16FEA3B1B",
+      "3EB0899ECA3C33E958B8E1"
     ]
   },
   {
@@ -4478,33 +3932,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T14:27:09.541Z",
+    "sentAt": "2026-08-30T19:58:56.803Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Olá, Renato! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+        "text": "Renato, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:27:09. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:58:56. Variação #3.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0C52FD4C00CE9F365FE",
-      "3EB04B5A4FFB57C92AF27D",
-      "3EB00EAB142B3B03BBBA16",
-      "3EB0439B21301D13DCD5A0"
+      "3EB0E20B34445F058396A1",
+      "3EB01828DF76EFAA1C9EDD",
+      "3EB0A87A31C802C083BBCE"
     ]
   },
   {
@@ -4519,33 +3968,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T14:31:16.820Z",
+    "sentAt": "2026-08-30T20:01:44.700Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Opa, Bruno! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+        "text": "Bruno, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:31:16. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:01:44. Variação #1.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB04DAB8BA2E7A11A6E45",
-      "3EB04B3582E721D7700146",
-      "3EB0DA113ABEDBDEDFD8A4",
-      "3EB06CEE49162E78B5018A"
+      "3EB0DA1F00CB8740786BE5",
+      "3EB0DD62B9A273032BD892",
+      "3EB0307743E0529BD95207"
     ]
   },
   {
@@ -4560,33 +4004,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T14:35:26.532Z",
+    "sentAt": "2026-08-30T20:05:24.603Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala, Lucas! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+        "text": "Lucas, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:35:26. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:05:24. Variação #2.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0152661097896D13E6A",
-      "3EB045C2780F010E78DDC4",
-      "3EB049C3672E921AE6D228",
-      "3EB09E47BE21D14B95E25F"
+      "3EB03972B30FDFDDB969AB",
+      "3EB074BC32BBF7A5321746",
+      "3EB0BB65B1214CFF040688"
     ]
   },
   {
@@ -4619,33 +4058,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T14:42:07.018Z",
+    "sentAt": "2026-08-30T20:12:14.167Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Olá, Sandro! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+        "text": "Sandro, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:42:07. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:12:14. Variação #1.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB00C6C25765199DC8E80",
-      "3EB007BC5A2C009714602D",
-      "3EB03238E200C225ADCE71",
-      "3EB061AA64A05E09E05AF3"
+      "3EB0945D80CBF66BCB44E3",
+      "3EB0D37067E5C809340DD6",
+      "3EB0B729F5B828BF65A887"
     ]
   },
   {
@@ -4660,33 +4094,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T14:46:14.466Z",
+    "sentAt": "2026-08-30T20:16:09.701Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Opa, Roberta! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+        "text": "Roberta, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:46:14. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:16:09. Variação #2.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB08CBC97E3AE41EF2593",
-      "3EB0D1EF8495042272142E",
-      "3EB0E6B5877D340D735D19",
-      "3EB064FD3ADE7071794149"
+      "3EB069D5195D7237716DA0",
+      "3EB022217330053FB7F332",
+      "3EB04839208294F14FD752"
     ]
   },
   {
@@ -4701,33 +4130,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T14:50:07.364Z",
+    "sentAt": "2026-08-30T20:19:21.762Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala, Gabriel! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+        "text": "Gabriel, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:50:07. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:19:21. Variação #3.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB01A07B36992F2CC2E17",
-      "3EB070B454C5C30D33A172",
-      "3EB087C8337EFCD310F2A4",
-      "3EB09DD118CD0A98A82CF3"
+      "3EB0DBAF2A6EDA74B52340",
+      "3EB09CEABA0DE126BA54F5",
+      "3EB087EBBEEE9C971D5022"
     ]
   },
   {
@@ -4742,33 +4166,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T14:54:13.723Z",
+    "sentAt": "2026-08-30T20:22:31.402Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "E aí, Euzébio, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+        "text": "Euzébio, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 11:54:13. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:22:31. Variação #1.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB08CCD9B835CA637C284",
-      "3EB0D5BCC2C03E16416209",
-      "3EB0D9AD73D9A8D38268BC",
-      "3EB050A3469B7039DC0FAF"
+      "3EB0E8AE1A7017F948616A",
+      "3EB01377A8EAC658169C82",
+      "3EB05BE432C5DCBDD950F2"
     ]
   },
   {
@@ -4780,14 +4199,32 @@ export const INITIAL_LEADS: Lead[] = [
     "goal": "Aprender e Aplicar IA",
     "batch": "Workshop AI",
     "batchType": "tipo_a",
-    "status": "PENDENTE",
+    "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": null,
-    "deliveredBlocks": [],
-    "notes": "[Workshop AI] Lead participou do Workshop de IA. Email: pradoaguiar@yahoo.com.br",
+    "sentAt": "2026-08-30T20:26:19.345Z",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Cesar, faltam só 3 vagas nessa condição."
+      },
+      {
+        "block": 2,
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
+      }
+    ],
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:26:19. Variação #2.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "INTERMEDIARIO"
+    "aiMaturity": "INTERMEDIARIO",
+    "dispatchedMessageIds": [
+      "3EB0FC40FA4B9B96520C30",
+      "3EB0E68F45D49E992EAC55",
+      "3EB0699E7C3A79135C04A8"
+    ]
   },
   {
     "id": "lead-workshop-5511915606685",
@@ -4801,33 +4238,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:02:52.994Z",
+    "sentAt": "2026-08-30T20:29:52.789Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Opa, Diego! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+        "text": "Diego, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:02:52. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:29:52. Variação #3.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0CD556ED4B8B89202D9",
-      "3EB0AAC82EF4471CA17711",
-      "3EB081C05FED7BDDFEA7D3",
-      "3EB0305C3D30CF2B3C3D1D"
+      "3EB0B34C6F77D53FDE2ED0",
+      "3EB09795D9F813CA324E68",
+      "3EB0B6869786C801C67DBC"
     ]
   },
   {
@@ -4842,33 +4274,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:06:42.808Z",
+    "sentAt": "2026-08-30T20:32:58.063Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala, Leonardo! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+        "text": "Leonardo, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:06:42. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:32:58. Variação #1.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB05AECF46AD0AA1353C5",
-      "3EB0CD389887D5946CAFC0",
-      "3EB0123ABE72CFE034E357",
-      "3EB0E2C32DDC5F5DD653F9"
+      "3EB090D0DAEE90F5781525",
+      "3EB04B9EF3FBB9A93FCF7F",
+      "3EB0E0E5D5FD3EE031DBCB"
     ]
   },
   {
@@ -4883,33 +4310,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:10:27.446Z",
+    "sentAt": "2026-08-30T20:36:02.631Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "E aí, Felipe, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+        "text": "Felipe, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:10:27. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:36:02. Variação #2.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB037CC5B7038481B09ED",
-      "3EB070468BF2F4C5D6F41A",
-      "3EB00068CE82575E69430F",
-      "3EB062F49D7BF50D0C12A4"
+      "3EB0A32D2165B9031D34A0",
+      "3EB0536E136B21E40A7C94",
+      "3EB028A0841DABBD5ABC5F"
     ]
   },
   {
@@ -4924,33 +4346,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:14:16.972Z",
+    "sentAt": "2026-08-30T20:38:45.107Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Olá, Rander! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+        "text": "Rander, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:14:16. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:38:45. Variação #3.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB079F78EEF6F89190338",
-      "3EB069C0BC65C34CEF9CBC",
-      "3EB0516088DB4B4DA553D7",
-      "3EB07E68DD80BBAF026C5D"
+      "3EB08DB726B1376C38BF9B",
+      "3EB0C4038236DC1E02F8B5",
+      "3EB0D43A930ED0CB944A20"
     ]
   },
   {
@@ -4965,33 +4382,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:18:06.724Z",
+    "sentAt": "2026-08-30T20:42:51.562Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Opa, Rafael! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+        "text": "Rafael, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:18:06. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:42:51. Variação #1.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB093A7C32FCAF5E5F34B",
-      "3EB0EC99F283A80A07B66B",
-      "3EB0329106F401E757F3EA",
-      "3EB018AE097E86385026C5"
+      "3EB090DC2BF32C342FCACB",
+      "3EB0DEEFF950F4E716D145",
+      "3EB0AE88F241035563F37D"
     ]
   },
   {
@@ -5006,33 +4418,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:21:54.913Z",
+    "sentAt": "2026-08-30T20:46:23.541Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala, Leonardo! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+        "text": "Leonardo, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:21:54. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:46:23. Variação #2.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB08748854DA1EE22FF4F",
-      "3EB07532CD91ADAF11033A",
-      "3EB0F1CD6D6D126333C677",
-      "3EB0FEFCFCC3C89747A79D"
+      "3EB0D77822A6E5A79199B5",
+      "3EB070236F65782627080A",
+      "3EB01F4F939F9FEB93C607"
     ]
   },
   {
@@ -5047,33 +4454,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:25:34.131Z",
+    "sentAt": "2026-08-30T20:49:51.867Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "E aí, Gabriel, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+        "text": "Gabriel, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:25:34. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:49:51. Variação #3.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB03A5EB4DB894225E8C5",
-      "3EB0E8BF5BC902F20454A8",
-      "3EB0B1FBB96771BA0B5FB5",
-      "3EB0368006F0170E8A26D1"
+      "3EB0E81799AC46CCD1ABD0",
+      "3EB0BC0F7091EAE85C3437",
+      "3EB0751B7624EDAC396167"
     ]
   },
   {
@@ -5129,33 +4531,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:33:10.360Z",
+    "sentAt": "2026-08-30T20:57:02.825Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Opa, Pedro! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+        "text": "Pedro, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:33:10. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 17:57:02. Variação #2.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB003BC5E584A64B16DD7",
-      "3EB0B1D974CBD938644645",
-      "3EB0332C3F6D36302BAE5B",
-      "3EB05D642B1CFDD9081801"
+      "3EB0339834F59171779D08",
+      "3EB069B61D049DA2331CDA",
+      "3EB0880504B95B023B2E4A"
     ]
   },
   {
@@ -5170,33 +4567,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:37:26.947Z",
+    "sentAt": "2026-08-30T21:00:52.874Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala, Gilberto! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+        "text": "Gilberto, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:37:26. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:00:52. Variação #3.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0150B7DCADB93898763",
-      "3EB0A43E0F121851CD6592",
-      "3EB087AFF8C0CC96548711",
-      "3EB0DD331B5E3FC879F923"
+      "3EB032CD331AF99A9DF5A8",
+      "3EB001F6EE5C55DF898812",
+      "3EB08961898B479AD8E055"
     ]
   },
   {
@@ -5211,33 +4603,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:41:37.270Z",
+    "sentAt": "2026-08-30T21:04:48.585Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "E aí, Fabio, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+        "text": "Fabio, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:41:37. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:04:48. Variação #1.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0E63943EC98928E6BA2",
-      "3EB06006702A0808252416",
-      "3EB0591948B1F1F4FADD44",
-      "3EB07F4AAC5FE90DA2EBAC"
+      "3EB0EF95D09FB23B77CA98",
+      "3EB01889E26C55D67706D1",
+      "3EB07E224C46D99AE1F80E"
     ]
   },
   {
@@ -5252,33 +4639,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:45:40.289Z",
+    "sentAt": "2026-08-30T21:07:27.862Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Olá, Luis! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+        "text": "Luis, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:45:40. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:07:27. Variação #2.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0DA06AD48FB0A70D90F",
-      "3EB0B3E4254D63EDC55ED2",
-      "3EB0D6ECE2BFAD52CAAD4E",
-      "3EB051F7AB4AD3387D5A2F"
+      "3EB0C969B18AA34DC70B3F",
+      "3EB06B86F715996EDA3173",
+      "3EB09E8B0655FF6CAC108D"
     ]
   },
   {
@@ -5293,33 +4675,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:49:02.296Z",
+    "sentAt": "2026-08-30T21:11:15.876Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Opa, Marcio! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+        "text": "Marcio, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:49:02. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:11:15. Variação #3.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0E4A040ADBF372CF4E9",
-      "3EB04264A075289C070576",
-      "3EB000FAF5F741B6E73136",
-      "3EB00BA0C7D7CD9AEA5E35"
+      "3EB0003D4B85FBF5E2FCC2",
+      "3EB048217120F48E78ECE2",
+      "3EB0C3486523209841BFFD"
     ]
   },
   {
@@ -5334,33 +4711,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:52:25.113Z",
+    "sentAt": "2026-08-30T21:15:07.803Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala, Diego! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+        "text": "Diego, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:52:25. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:15:07. Variação #1.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0668F0DB9C9224A153D",
-      "3EB0EC64E25EB8F69C082F",
-      "3EB0C545D1976DA76BFB82",
-      "3EB0914DA2CDF637D0ACCD"
+      "3EB0D915FA547F9971E39E",
+      "3EB0A720D60CA0824938BD",
+      "3EB03E605C4385FDFA81D3"
     ]
   },
   {
@@ -5375,33 +4747,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:56:03.125Z",
+    "sentAt": "2026-08-30T21:17:49.073Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "E aí, Ramiro, tudo certo? Mateus aqui, Consultor de IA da Cultura Builder!"
+        "text": "Ramiro, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:56:03. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:17:49. Variação #2.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB09F72FA6714DA46C31D",
-      "3EB02A50BFADFE54AB6F61",
-      "3EB007AA81D7ED123140F3",
-      "3EB0D350AB4D137E7CEB6D"
+      "3EB0A6496DF879ABCE5F23",
+      "3EB0FBDD48111BAEA7BCFB",
+      "3EB0B72402C3971DDB41C2"
     ]
   },
   {
@@ -5416,33 +4783,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T15:59:47.833Z",
+    "sentAt": "2026-08-30T21:21:39.910Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Olá, Clauber! Tudo bem? É o Mateus aqui, Consultor de IA da Cultura Builder."
+        "text": "Clauber, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 12:59:47. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:21:39. Variação #3.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0E0859F6087C3D7F6B7",
-      "3EB02D92847D7DC98A4A8A",
-      "3EB05B1B4EE6DB5C22F1C5",
-      "3EB076E8E645470CFD5AEA"
+      "3EB0DFEE9D71C69AE42935",
+      "3EB041DEFF4C13C4B2B91D",
+      "3EB062C0A6864F39EB8790"
     ]
   },
   {
@@ -5457,33 +4819,28 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T16:04:10.445Z",
+    "sentAt": "2026-08-30T21:24:32.927Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Opa, Rafael! É o Mateus aqui, Consultor de IA da Cultura Builder. Tudo bem?"
+        "text": "Rafael, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 13:04:10. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:24:32. Variação #1.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB0DFE62EAAB3F825B289",
-      "3EB0EC0747877E53BAF13E",
-      "3EB049CB6A5A3F12C35FC1",
-      "3EB03293B427789C71D54C"
+      "3EB00B79CCEA7B5A30D878",
+      "3EB01C5F38F7C1B9525E30",
+      "3EB02B09580636106FB757"
     ]
   },
   {
@@ -5498,33 +4855,622 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "replied": false,
-    "sentAt": "2026-08-28T16:07:32.032Z",
+    "sentAt": "2026-08-30T21:27:26.840Z",
     "deliveredBlocks": [
       {
         "block": 1,
-        "text": "Fala, Rodolfo! Tudo bem por aí? Aqui é o Mateus, Consultor de IA da Cultura Builder."
+        "text": "Rodolfo, faltam só 3 vagas nessa condição."
       },
       {
         "block": 2,
-        "text": "[Imagem 1 - Benefícios Exclusivos: AWS, Nvidia, Notion, Slack]"
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
       },
       {
         "block": 3,
-        "text": "[Imagem 2 - Comunidade & LLM Privada]"
-      },
-      {
-        "block": 4,
-        "text": "[Áudio PTT Gravado - 21s]"
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
       }
     ],
-    "notes": "[Workshop AI] Apresentação, Imagem Benefícios, Imagem Comunidade e Áudio PTT entregues no WhatsApp em 28/08/2026, 13:07:32. Lead impactado com sucesso.",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 18:27:26. Variação #2.",
     "leadType": "PROFISSIONAL_INDIVIDUAL",
     "aiMaturity": "INTERMEDIARIO",
     "dispatchedMessageIds": [
-      "3EB07F936EFF0F34B6ED92",
-      "3EB04073334856294BB5B6",
-      "3EB0C6260FF0E63944A1A8",
-      "3EB090A7A8386577099E21"
+      "3EB05FD6E12D1DFE57A54A",
+      "3EB04FDBB431379D6B8CD2",
+      "3EB0F7732DF7C33E6D5F0C"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788113673286_riqp",
+    "name": "Bruno Boreli",
+    "phone": "+5516974028000",
+    "phoneClean": "5516974028000",
+    "email": "brboreli@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T18:38:18.520Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:38:18. Variação #1.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Bruno, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 2,
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
+      },
+      {
+        "block": 3,
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB014DB425047272620ED",
+      "3EB0CFC77A07B48AADBEA7",
+      "3EB00B7B4743B6F6DFE9AC"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788113908235_h6ca",
+    "name": "Gilberto",
+    "phone": "+5511986704712",
+    "phoneClean": "5511986704712",
+    "email": "gilbertmende@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T18:42:00.171Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:42:00. Variação #2.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Gilberto, faltam só 3 vagas nessa condição."
+      },
+      {
+        "block": 2,
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB037372EABD54C43EF3B",
+      "3EB03AA01009F220E20070",
+      "3EB0A69BB9FC9485D2ABF8"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788114067056_o9c7",
+    "name": "Amanda Alexia Gonçalves de Souza",
+    "phone": "+5527988536917",
+    "phoneClean": "5527988536917",
+    "email": "amandaalexia.contato@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T18:45:27.099Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:45:27. Variação #3.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Amanda, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB05D31865603B3982891",
+      "3EB056068B70C67F594E78",
+      "3EB04BE8ED005B6D15C2F5"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788114223941_fifo",
+    "name": "Deivid Amorim",
+    "phone": "+5515988413099",
+    "phoneClean": "5515988413099",
+    "email": "dedejr@live.jp",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T18:49:12.943Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:49:12. Variação #1.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Deivid, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 2,
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
+      },
+      {
+        "block": 3,
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB030225D21FB6E7D0DC8",
+      "3EB03C2FE9C1BC82DE36CF",
+      "3EB01FDC18583A876E4181"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788115933264_hv1z",
+    "name": "Mariana Mafra",
+    "phone": "+5543988242727",
+    "phoneClean": "5543988242727",
+    "email": "marimafra6@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T18:52:13.264Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:52:13. Variação #2.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Mariana, faltam só 3 vagas nessa condição."
+      },
+      {
+        "block": 2,
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB062B40983B7FFF5178A",
+      "3EB0296C073A64EB7227FE",
+      "3EB078BF08E2AC841B5BF7"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788116121019_cukr",
+    "name": "Danielle Lira da Silva",
+    "phone": "+5521983056035",
+    "phoneClean": "5521983056035",
+    "email": "dani.lira08@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T18:55:21.019Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:55:21. Variação #3.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Danielle, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB0644FD890DEF9AB2428",
+      "3EB0ECAA9EEE340B52C8C5",
+      "3EB09DEF032ABBE698BB49"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788116282852_iacb",
+    "name": "Carlos Eduardo Peres dos santos",
+    "phone": "+351927627844",
+    "phoneClean": "351927627844",
+    "email": "carlospsantos19820@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T18:58:02.852Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:58:02. Variação #1.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Carlos, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 2,
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
+      },
+      {
+        "block": 3,
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB0AE6BAD72CFCB840433",
+      "3EB0BDFB7C1E25B9A5AC35",
+      "3EB0AD2D2E9C829B2A8A6A"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788116527130_7srx",
+    "name": "Gabriel Costa",
+    "phone": "+5511964137922",
+    "phoneClean": "5511964137922",
+    "email": "gabrielcalves423@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:02:07.130Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:02:07. Variação #2.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Gabriel, faltam só 3 vagas nessa condição."
+      },
+      {
+        "block": 2,
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB0255148F494B118B49D",
+      "3EB09DC6930E60CB9F81C5",
+      "3EB05651C01F2514FF479A"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788116751724_vyay",
+    "name": "João Monnerat",
+    "phone": "+5522981517045",
+    "phoneClean": "5522981517045",
+    "email": "joaomonnerat7@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:05:51.724Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:05:51. Variação #3.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "João, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB00D3CEB2EB0045B4A3E",
+      "3EB03326F3B528CCA62F68",
+      "3EB0022067BD2755D6B2F3"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788116966991_psel",
+    "name": "Ryan Vasconcelos",
+    "phone": "+5561981787301",
+    "phoneClean": "5561981787301",
+    "email": "ryan.sbv2@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:09:26.991Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:09:26. Variação #1.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Ryan, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 2,
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
+      },
+      {
+        "block": 3,
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB07CD80FDAC8803DB4F8",
+      "3EB099BA74CA105B48A34F",
+      "3EB00CD58752503A4708A8"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788117204904_1qb6",
+    "name": "Guilherme Kato",
+    "phone": "+5511963266361",
+    "phoneClean": "5511963266361",
+    "email": "guilherme.kato@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:13:24.904Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:13:24. Variação #2.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Guilherme, faltam só 3 vagas nessa condição."
+      },
+      {
+        "block": 2,
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB0D321A737511249667F",
+      "3EB0EF1FC3184E02D1D553",
+      "3EB0B78DA9546EDE8912F0"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788117421517_smu2",
+    "name": "Dev Sartorio",
+    "phone": "+595992552167",
+    "phoneClean": "595992552167",
+    "email": "sartoriodevr@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:17:01.517Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:17:01. Variação #3.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Dev, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB091AEE1B6F284B5446D",
+      "3EB0FCD53A9A4B75611AD2",
+      "3EB0C454132A31CC854931"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788117598249_i14l",
+    "name": "Ivan Cano",
+    "phone": "+5519999532896",
+    "phoneClean": "5519999532896",
+    "email": "ivaneocano@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:19:58.249Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:19:58. Variação #1.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Ivan, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 2,
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
+      },
+      {
+        "block": 3,
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB01409A3A7231920C393",
+      "3EB0F02B01E05BD7A2070E",
+      "3EB0E3E6040A2DD39AE852"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788117840101_u32w",
+    "name": "Enzo",
+    "phone": "+5541998499897",
+    "phoneClean": "5541998499897",
+    "email": "enzombromanus@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:24:00.101Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:24:00. Variação #2.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Enzo, faltam só 3 vagas nessa condição."
+      },
+      {
+        "block": 2,
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB0DA55AD71D83C7A96D1",
+      "3EB0D1FEE27A60471B38E8",
+      "3EB0CA2FDDE3DB7AAF8158"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788118083646_gi8r",
+    "name": "Felipe Natanael",
+    "phone": "+5531996942175",
+    "phoneClean": "5531996942175",
+    "email": "felipenalvesinv@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:28:03.646Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:28:03. Variação #3.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Felipe, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB05B449F815F85A474FF",
+      "3EB05922B883ECAA247F7C",
+      "3EB09B8B6A7A6874836B70"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788118271154_f0q8",
+    "name": "Thiago Moura",
+    "phone": "+5511993456012",
+    "phoneClean": "5511993456012",
+    "email": "thiagomouranovo@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:31:11.154Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:31:11. Variação #1.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Thiago, só 3 vagas foram liberadas no Vitalício pela metade do preço, com acesso sem custo ao DeepSeek V4 Flash local. Também recebe o curso do Google avaliado em +R$1.500. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 2,
+        "text": "E se você conhecer alguém que realmente tenha interesse em IA, me responde aqui que eu envio o cupom de 50% pra essa pessoa."
+      },
+      {
+        "block": 3,
+        "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB05FD32275352A7AA314",
+      "3EB08EBDC0D1DBDE520121",
+      "3EB0189C801EB50E6D70CC"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788118474863_tsg2",
+    "name": "V FBA",
+    "phone": "+5577999560295",
+    "phoneClean": "5577999560295",
+    "email": "vitorfba@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:34:34.863Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:34:34. Variação #2.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "V, faltam só 3 vagas nessa condição."
+      },
+      {
+        "block": 2,
+        "text": "Vitalício de R$5.997 por R$2.998,50 ou 12x de R$249,88, com curso Google de +R$1.500 e acesso ao DeepSeek V4 Flash local para Quem fechar Vitalício. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém para enviar essa condição. Comenta \"DeepSeek\" que envio o cupom de 50%."
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB0D700D0EB2EB874F1B0",
+      "3EB01666C73C534A80CFD9",
+      "3EB030B74B4E74A878F8B3"
+    ]
+  },
+  {
+    "id": "lead_painel_novo_1788118698524_54km",
+    "name": "Ana Flavia Mendonça",
+    "phone": "+5521982950401",
+    "phoneClean": "5521982950401",
+    "email": "anaflaviamendonca2@gmail.com",
+    "batch": "Painel Novos (Agosto)",
+    "status": "ENTREGUE",
+    "interest": "MEDIO",
+    "profileType": "PROFISSIONAL",
+    "aiMaturity": "Intermediário",
+    "sentAt": "2026-08-30T19:38:18.524Z",
+    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:38:18. Variação #3.",
+    "deliveredBlocks": [
+      {
+        "block": 1,
+        "text": "Ana, 50% OFF + últimas 3 vagas no Vitalício do Cultura Builder."
+      },
+      {
+        "block": 2,
+        "text": "R$2.998,50 à vista ou 12x de R$249,88, menos de R$9/dia + curso Google de +R$1.500 + acesso ao DeepSeek V4 Flash local. Até dia 31, amanhã ou esgotar as vagas."
+      },
+      {
+        "block": 3,
+        "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
+      }
+    ],
+    "dispatchedMessageIds": [
+      "3EB066DA1B9CBE94C7F228",
+      "3EB0E09383BED8CBA6DB38",
+      "3EB001FA33C1A91B4E58C3"
     ]
   }
 ];
