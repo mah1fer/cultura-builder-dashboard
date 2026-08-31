@@ -25,13 +25,13 @@ export interface Lead {
   name: string;
   phone: string;
   phoneClean: string;
-  occupation: string;
-  goal: string;
+  occupation?: string;
+  goal?: string;
   batch: string;
-  batchType: BatchType;
+  batchType?: BatchType;
   status: LeadStatus;
   interest: InterestLevel;
-  replied: boolean;
+  replied?: boolean;
   replyText?: string;
   repliedAt?: string;
   sentAt: string | null;
