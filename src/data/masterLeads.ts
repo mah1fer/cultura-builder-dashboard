@@ -1623,10 +1623,10 @@ export const INITIAL_LEADS: Lead[] = [
     "occupation": "CLT em empresa",
     "goal": "Economizar horas por semana no trabalho",
     "batch": "Lote 1 (Oferta R.000 OFF)",
-    "batchType": "lote_1",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "batchType": "bloqueado",
+    "status": "BLOQUEADO",
+    "interest": "DESQUALIFICADO",
+    "replied": true,
     "sentAt": "2026-08-30T22:25:04.412Z",
     "deliveredBlocks": [
       {
@@ -1642,14 +1642,16 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Quer aproveitar ou conhece alguém que deveria receber essa condição?"
       }
     ],
-    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 19:25:04. Variação #1.",
+    "notes": "[OPT-OUT 31/08] Respondeu que não tem interesse / Opt-out. Removido de qualquer disparo futuro.",
     "dispatchedMessageIds": [
       "3EB035FAC7E9A23CA37387",
       "3EB07BC2D22A15E7547E3B",
       "3EB039974C28825BD320B2"
     ],
     "leadType": "B2B_EMPRESA",
-    "aiMaturity": "NAO_INFORMADO"
+    "aiMaturity": "NAO_INFORMADO",
+    "replyText": "Respondeu que não tem interesse / Opt-out",
+    "repliedAt": "2026-08-31T13:03:26.013Z"
   },
   {
     "id": "lead-1-556294161690",
@@ -2127,10 +2129,10 @@ export const INITIAL_LEADS: Lead[] = [
     "occupation": "Profissional",
     "goal": "Explorar IA no Trabalho / Negócio",
     "batch": "Lote 1 (Oferta R.000 OFF)",
-    "batchType": "lote_1",
-    "status": "ENTREGUE",
-    "interest": "MEDIO",
-    "replied": false,
+    "batchType": "bloqueado",
+    "status": "BLOQUEADO",
+    "interest": "DESQUALIFICADO",
+    "replied": true,
     "sentAt": "2026-08-30T23:16:24.126Z",
     "deliveredBlocks": [
       {
@@ -2146,14 +2148,16 @@ export const INITIAL_LEADS: Lead[] = [
         "text": "Conhece alguém que também deveria receber essa condição? Comenta \"DeepSeek\""
       }
     ],
-    "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 20:16:24. Variação #3.",
+    "notes": "[OPT-OUT 31/08] Solicitou não enviar / Opt-out. Removido de qualquer disparo futuro.",
     "dispatchedMessageIds": [
       "3EB02A4B34B53DD0F69832",
       "3EB089C7AED3CB12C186E0",
       "3EB05CD0FCAF8F9023939B"
     ],
     "leadType": "PROFISSIONAL_INDIVIDUAL",
-    "aiMaturity": "NAO_INFORMADO"
+    "aiMaturity": "NAO_INFORMADO",
+    "replyText": "Solicitou não enviar / Opt-out",
+    "repliedAt": "2026-08-31T13:03:26.010Z"
   },
   {
     "id": "lead-1-5515996629922",
