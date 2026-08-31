@@ -38,6 +38,7 @@ export interface Lead {
   deliveredBlocks: DeliveredBlock[];
   notes: string;
   email?: string;
+  profileType?: string;
   dispatchedMessageIds?: string[];
   leadType?: 'B2B_EMPRESA' | 'PROFISSIONAL_INDIVIDUAL';
   aiMaturity?: 'AVANCADO' | 'INTERMEDIARIO' | 'BASICO' | 'INICIANTE' | 'NAO_INFORMADO';
