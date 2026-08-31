@@ -4889,7 +4889,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T18:38:18.520Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:38:18. Variação #1.",
     "deliveredBlocks": [
@@ -4926,7 +4926,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T18:42:00.171Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:42:00. Variação #2.",
     "deliveredBlocks": [
@@ -4963,7 +4963,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T18:45:27.099Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:45:27. Variação #3.",
     "deliveredBlocks": [
@@ -5000,7 +5000,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T18:49:12.943Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:49:12. Variação #1.",
     "deliveredBlocks": [
@@ -5037,7 +5037,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T18:52:13.264Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:52:13. Variação #2.",
     "deliveredBlocks": [
@@ -5074,7 +5074,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T18:55:21.019Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:55:21. Variação #3.",
     "deliveredBlocks": [
@@ -5111,7 +5111,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T18:58:02.852Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 15:58:02. Variação #1.",
     "deliveredBlocks": [
@@ -5148,7 +5148,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:02:07.130Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:02:07. Variação #2.",
     "deliveredBlocks": [
@@ -5185,7 +5185,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:05:51.724Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:05:51. Variação #3.",
     "deliveredBlocks": [
@@ -5222,7 +5222,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:09:26.991Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:09:26. Variação #1.",
     "deliveredBlocks": [
@@ -5259,7 +5259,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:13:24.904Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:13:24. Variação #2.",
     "deliveredBlocks": [
@@ -5296,7 +5296,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:17:01.517Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:17:01. Variação #3.",
     "deliveredBlocks": [
@@ -5333,7 +5333,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:19:58.249Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:19:58. Variação #1.",
     "deliveredBlocks": [
@@ -5370,7 +5370,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:24:00.101Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:24:00. Variação #2.",
     "deliveredBlocks": [
@@ -5407,7 +5407,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:28:03.646Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:28:03. Variação #3.",
     "deliveredBlocks": [
@@ -5444,7 +5444,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:31:11.154Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:31:11. Variação #1.",
     "deliveredBlocks": [
@@ -5481,7 +5481,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:34:34.863Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:34:34. Variação #2.",
     "deliveredBlocks": [
@@ -5518,7 +5518,7 @@ export const INITIAL_LEADS: Lead[] = [
     "status": "ENTREGUE",
     "interest": "MEDIO",
     "profileType": "PROFISSIONAL",
-    "aiMaturity": "Intermediário",
+    "aiMaturity": "INTERMEDIARIO",
     "sentAt": "2026-08-30T19:38:18.524Z",
     "notes": "[Oferta Vitalício 50% OFF] Enviado em 3 blocos separados em 30/08/2026, 16:38:18. Variação #3.",
     "deliveredBlocks": [
